@@ -1,0 +1,121 @@
+{
+  "id": "okyo4",
+  "category": "other",
+  "name": {
+    "type": "translation",
+    "key": "item.camo.unique_arm.ao5_halloween23.name",
+    "args": {},
+    "lines": {
+      "ru": "«Любимчик Тренера»",
+      "en": "Coach\u0027s Favorite",
+      "es": "El favorito de Entrenador",
+      "fr": "Le favori de l\u0027Entraîneur",
+      "ko": "코치의 애호"
+    }
+  },
+  "color": "RANK_VETERAN",
+  "status": {
+    "state": "PERSONAL_ON_USE"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang",
+              "ko": "등급"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.veteran",
+            "args": {},
+            "lines": {
+              "ru": "Ветеран",
+              "en": "Veteran",
+              "es": "Veterano",
+              "fr": "Vétéran",
+              "ko": "베테랑"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.armor_motif",
+            "args": {},
+            "lines": {
+              "ru": "Мотив брони",
+              "en": "Armor motif",
+              "es": "Motivo para armadura",
+              "fr": "Motif d\u0027armure",
+              "ko": "방어구 장식"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.armor_unique_skin.additional_stats_tip",
+        "args": {},
+        "lines": {
+          "ru": "Уникальная краска для брони",
+          "en": "Unique paint for armor",
+          "es": "Pintura para armadura única",
+          "fr": "Peinture unique pour armure",
+          "ko": "방어구용 고유 도색"
+        }
+      }
+    },
+    {}
+  ]
+}

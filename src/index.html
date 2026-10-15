@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <title>Aigex Clone</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <h1>Лоты STALZONE <span class="badge">EAPI</span></h1>
+
+    <select id="categoryFilter" class="category-filter">
+      <option value="">Все категории</option>
+    </select>
+
+    <div class="search-wrap">
+      <input id="itemSearch" placeholder="Поиск предмета по названию..." autocomplete="off" />
+      <ul id="suggestions" class="suggestions hidden"></ul>
+    </div>
+
+    <div class="price-filter">
+      <label for="minMedian">Мин. медиана:</label>
+      <input id="minMedian" type="number" min="0" step="100000" value="0" />
+      <span class="currency">₽</span>
+    </div>
+
+    <div class="controls">
+      <button id="downloadBtn" class="btn-secondary">📥 Скачать всю базу</button>
+      <button id="stopBtn" class="btn-danger hidden">⏹ Остановить</button>
+      <button id="clearBtn" class="btn-danger">🗑 Очистить</button>
+    </div>
+  </header>
+
+  <div class="info-strip" id="infoStrip">
+    <span id="cacheInfo">—</span>
+    <span id="statusInline"></span>
+  </div>
+
+  <main>
+    <section class="panel">
+      <div class="panel-head">
+        <h2 id="lotsTitle">Живая лента лотов</h2>
+        <div class="filters" id="filters">
+          <label>
+            Редкость:
+            <select id="filterQlt"><option value="">Все</option></select>
+          </label>
+          <label>
+            Уровень:
+            <select id="filterPtn"><option value="">Все</option></select>
+          </label>
+        </div>
+      </div>
+
+      <table id="lotsTable">
+        <thead>
+          <tr>
+            <th class="icon-col"></th>
+            <th>Предмет</th>
+            <th>Ур.</th>
+            <th>Кол-во</th>
+            <th>Покупка</th>
+            <th>Медиана / Продажа</th>
+            <th>Откл. / Профит</th>
+            <th>Время</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </section>
+  </main>
+
+  <script src="renderer.js"></script>
+</body>
+</html>

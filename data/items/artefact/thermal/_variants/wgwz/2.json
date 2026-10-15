@@ -1,0 +1,423 @@
+{
+  "id": "wgwz",
+  "category": "artefact/thermal",
+  "name": {
+    "type": "translation",
+    "key": "item.art.blizzard_fahrenheit.name",
+    "args": {},
+    "lines": {
+      "ru": "Фаренгейт",
+      "en": "Fahrenheit",
+      "es": "Fahrenheit",
+      "fr": "Fahrenheit",
+      "ko": "화씨"
+    }
+  },
+  "color": "DEFAULT",
+  "status": {
+    "state": "NON_DROP"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.thermal",
+            "args": {},
+            "lines": {
+              "ru": "Термические",
+              "en": "Thermal",
+              "es": "Térmico",
+              "fr": "Thermique",
+              "ko": "열"
+            }
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "core.tooltip.info.weight",
+            "args": {},
+            "lines": {
+              "ru": "Вес",
+              "en": "Weight",
+              "es": "Peso",
+              "fr": "Poids",
+              "ko": "무게"
+            }
+          },
+          "value": 0.2,
+          "formatted": {
+            "value": {
+              "ru": "0,2 кг",
+              "en": "0.2 kg",
+              "es": "0,2 kg",
+              "fr": "0,2 kg",
+              "ko": "0.2 kg"
+            },
+            "nameColor": "838383",
+            "valueColor": "838383"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "core.tooltip.info.base_price",
+            "args": {},
+            "lines": {
+              "ru": "Базовая цена продажи",
+              "en": "Base selling price",
+              "es": "Precio de venta base",
+              "fr": "Prix de vente de base",
+              "ko": "기본 판매 가격"
+            }
+          },
+          "value": 5500.0,
+          "formatted": {
+            "value": {
+              "ru": "5 500 руб.",
+              "en": "5,500 rubles",
+              "es": "5.500 rublos",
+              "fr": "5 500 roubles",
+              "ko": "5,500 루블"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.quality.common",
+            "args": {},
+            "lines": {
+              "ru": "Обычный",
+              "en": "Common",
+              "es": "Común",
+              "fr": "Commun",
+              "ko": "일반"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.not_probed",
+            "args": {},
+            "lines": {
+              "ru": "Не исследовано",
+              "en": "Not studied",
+              "es": "No estudiado",
+              "fr": "Non étudié",
+              "ko": "연구되지 않음"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.info.freshness",
+            "args": {},
+            "lines": {
+              "ru": "Свежесть",
+              "en": "Freshness",
+              "es": "Frescura",
+              "fr": "Fraîcheur",
+              "ko": "품질"
+            }
+          },
+          "value": {
+            "type": "text",
+            "text": "III"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.info.durability",
+            "args": {},
+            "lines": {
+              "ru": "Заряд",
+              "en": "Charge",
+              "es": "Carga",
+              "fr": "Charge",
+              "ko": "충전"
+            }
+          },
+          "value": 100.0,
+          "formatted": {
+            "value": {
+              "ru": "100%",
+              "en": "100%",
+              "es": "100 %",
+              "fr": "100%",
+              "ko": "100%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.info.max_durability",
+            "args": {},
+            "lines": {
+              "ru": "Макс. заряд",
+              "en": "Max. charge",
+              "es": "Carga máx.",
+              "fr": "Charge maximale",
+              "ko": "최대 충전량"
+            }
+          },
+          "value": 100.0,
+          "formatted": {
+            "value": {
+              "ru": "100%",
+              "en": "100%",
+              "es": "100 %",
+              "fr": "100%",
+              "ko": "100%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.stamina_bonus",
+            "args": {},
+            "lines": {
+              "ru": "Выносливость",
+              "en": "Stamina",
+              "es": "Aguante",
+              "fr": "Endurance",
+              "ko": "스태미나"
+            }
+          },
+          "min": 9.1936,
+          "max": 10.815999,
+          "formatted": {
+            "value": {
+              "ru": "[+9,19%; +10,82%]",
+              "en": "[+9.19%; +10.82%]",
+              "es": "[+9,19 %; +10,82 %]",
+              "fr": "[+9,19%; +10,82%]",
+              "ko": "[+9.19%; +10.82%]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.bullet_dmg_factor",
+            "args": {},
+            "lines": {
+              "ru": "Пулестойкость",
+              "en": "Bullet resistance",
+              "es": "Resistencia a las balas",
+              "fr": "Résistance aux balles",
+              "ko": "총탄 저항율"
+            }
+          },
+          "min": 8.2212,
+          "max": 9.672,
+          "formatted": {
+            "value": {
+              "ru": "[+8,22; +9,67]",
+              "en": "[+8.22; +9.67]",
+              "es": "[+8,22; +9,67]",
+              "fr": "[+8,22; +9,67]",
+              "ko": "[+8.22; +9.67]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.thermal_accumulation",
+            "args": {},
+            "lines": {
+              "ru": "Температура",
+              "en": "Temperature",
+              "es": "Temperatura",
+              "fr": "Température",
+              "ko": "열"
+            }
+          },
+          "min": -26.623997,
+          "max": -22.630398,
+          "formatted": {
+            "value": {
+              "ru": "[-26,62; -22,63]",
+              "en": "[-26.62; -22.63]",
+              "es": "[-26,62; -22,63]",
+              "fr": "[-26,62; -22,63]",
+              "ko": "[-26.62; -22.63]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.frost_accumulation",
+            "args": {},
+            "lines": {
+              "ru": "Холод",
+              "en": "Frost",
+              "es": "Congelación",
+              "fr": "Givre",
+              "ko": "서리"
+            }
+          },
+          "min": 8.5,
+          "max": 10.0,
+          "formatted": {
+            "value": {
+              "ru": "[+8,5; +10]",
+              "en": "[+8.5; +10]",
+              "es": "[+8,5; +10]",
+              "fr": "[+8,5; +10]",
+              "ko": "[+8.5; +10]"
+            },
+            "nameColor": "C15252",
+            "valueColor": "C15252"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.reaction_to_tear",
+            "args": {},
+            "lines": {
+              "ru": "Реакция на разрыв",
+              "en": "Reaction to laceration",
+              "es": "Reacción a la laceración",
+              "fr": "Réaction aux lacérations",
+              "ko": "열상 대항"
+            }
+          },
+          "min": 0.884,
+          "max": 1.04,
+          "formatted": {
+            "value": {
+              "ru": "[+0,88%; +1,04%]",
+              "en": "[+0.88%; +1.04%]",
+              "es": "[+0,88 %; +1,04 %]",
+              "fr": "[+0,88%; +1,04%]",
+              "ko": "[+0.88%; +1.04%]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.art.blizzard_fahrenheit.description",
+        "args": {},
+        "lines": {
+          "ru": "«Фаренгейт» довольно зауряден в том, что касается внешности, однако структура артефакта вызывает множество вопросов относительно процесса его артефактогенеза.\\n\\nДистиллированная вода и мельчайшие пузырьки воздуха, из которых полностью состоит «Фаренгейт», служат обоснованием гипотезы о некоем «выталкивании» примесей и замещении их воздухом, происходящем в момент появления артефакта.",
+          "en": "The Fahrenheit is quite unremarkable in appearance, but its internal structure raises many questions about its formation process.\\n\\n The fact that it is composed entirely of distilled water and tiny air bubbles supports the hypothesis that impurities are \"pushed out\" and replaced with air when the artifact forms.",
+          "es": "Fahrenheit tiene un aspecto bastante corriente, pero su estructura plantea muchos interrogantes sobre el proceso de su artefactogénesis.\\n\\n El agua destilada y las minúsculas burbujas de aire de las que está compuesto Fahrenheit apoyan la hipótesis de algún tipo de expulsión de impurezas y su sustitución por aire, que tuvo lugar en el momento de la aparición del artefacto.",
+          "fr": "À première vue, le Fahrenheit semble relativement ordinaire ; cependant, la structure de l\u0027artefact soulève de nombreuses questions sur son processus de formation.\\n\\n\\n\\nL\u0027eau distillée et les minuscules bulles d\u0027air qui composent entièrement le Fahrenheit justifient l\u0027hypothèse d\u0027un certain refoulement des impuretés et de leur remplacement par de l\u0027air, survenant au moment de l\u0027apparition de l\u0027artefact.",
+          "ko": "화씨는 처음 볼 때는 상대적으로 평범해 보이지만 이 아티팩트의 구조는 그 형성 과정에 있어 많은 의문을 낳는다.\\n\\n화씨 전체를 구성하는 증류수와 작은 기포의 존재는 아티팩트가 형성될 때 불순물이 \"이동\"하고 공기로 대체된다는 가설을 뒷받침한다."
+        }
+      }
+    }
+  ]
+}

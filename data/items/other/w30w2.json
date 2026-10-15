@@ -1,0 +1,158 @@
+{
+  "id": "w30w2",
+  "category": "other",
+  "name": {
+    "type": "translation",
+    "key": "item.brt.bar.mob_add.name",
+    "args": {},
+    "lines": {
+      "ru": "Беличьи дрожжи",
+      "en": "Squirrel Yeast",
+      "es": "Levadura de ardilla",
+      "fr": "Levure d\u0027écureuil",
+      "ko": "다람쥐 효모"
+    }
+  },
+  "color": "DEFAULT",
+  "status": {
+    "state": "NON_DROP"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.undefined",
+            "args": {},
+            "lines": {
+              "ru": "Прочее",
+              "en": "Other",
+              "es": "Otros",
+              "fr": "Autre",
+              "ko": "분류 없음"
+            }
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "core.tooltip.info.weight",
+            "args": {},
+            "lines": {
+              "ru": "Вес",
+              "en": "Weight",
+              "es": "Peso",
+              "fr": "Poids",
+              "ko": "무게"
+            }
+          },
+          "value": 0.015,
+          "formatted": {
+            "value": {
+              "ru": "0,02 кг",
+              "en": "0.02 kg",
+              "es": "0,02 kg",
+              "fr": "0,02 kg",
+              "ko": "0.02 kg"
+            },
+            "nameColor": "838383",
+            "valueColor": "838383"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {},
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "core.tooltip.info.base_price",
+            "args": {},
+            "lines": {
+              "ru": "Базовая цена продажи",
+              "en": "Base selling price",
+              "es": "Precio de venta base",
+              "fr": "Prix de vente de base",
+              "ko": "기본 판매 가격"
+            }
+          },
+          "value": 2600.0,
+          "formatted": {
+            "value": {
+              "ru": "2 600 руб.",
+              "en": "2,600 rubles",
+              "es": "2.600 rublos",
+              "fr": "2 600 roubles",
+              "ko": "2,600 루블"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        }
+      ]
+    },
+    {},
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.brt.bar.mob_add.additional_stats_tip",
+        "args": {},
+        "lines": {
+          "ru": "Настоявшиеся синие дрожжи становятся тем, что зовут беличьими дрожжами. Еще не было такого пьяницы, который, попробовав пойло на их основе, не поймал бы «белочку».",
+          "en": "What was once blue yeast turns into what people call \"squirrel yeast.\" There\u0027s never been a lush who, having tried a beverage made out of this yeast, wouldn\u0027t get completely skunk drunk.",
+          "es": "Lo que antes era levadura azul se convierte en lo que la gente llama \"levadura de ardilla\". Nunca ha habido un borracho que, después de probar una bebida hecha con esta levadura, no pillara un ciego del quince.",
+          "fr": "Ce qui était autrefois de la levure bleue se transforme en ce que les gens appellent la « levure d\u0027écureuil ». Il n\u0027y a jamais eu un poivrot qui, après avoir essayé une boisson à base de cette levure, n\u0027ait pas fini complètement ivre.",
+          "ko": "푸른 효모가 숙성되면 \u0027다람쥐 효모\u0027가 됩니다. 이 술을 들이키고 눈앞에 다람쥐가 돌아다니는 환각을 경험하지 않은 술꾼은 없었죠."
+        }
+      }
+    }
+  ]
+}

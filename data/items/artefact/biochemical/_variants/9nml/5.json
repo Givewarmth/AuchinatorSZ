@@ -1,0 +1,423 @@
+{
+  "id": "9nml",
+  "category": "artefact/biochemical",
+  "name": {
+    "type": "translation",
+    "key": "item.art.puh_koluchka.name",
+    "args": {},
+    "lines": {
+      "ru": "Репях",
+      "en": "Burr",
+      "es": "Lampazo",
+      "fr": "Piquant",
+      "ko": "우엉"
+    }
+  },
+  "color": "DEFAULT",
+  "status": {
+    "state": "NON_DROP"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.biochemical",
+            "args": {},
+            "lines": {
+              "ru": "Биохимические",
+              "en": "Biochemical",
+              "es": "Bioquímica",
+              "fr": "Biochimique",
+              "ko": "생화학"
+            }
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "core.tooltip.info.weight",
+            "args": {},
+            "lines": {
+              "ru": "Вес",
+              "en": "Weight",
+              "es": "Peso",
+              "fr": "Poids",
+              "ko": "무게"
+            }
+          },
+          "value": 0.4,
+          "formatted": {
+            "value": {
+              "ru": "0,4 кг",
+              "en": "0.4 kg",
+              "es": "0,4 kg",
+              "fr": "0,4 kg",
+              "ko": "0.4 kg"
+            },
+            "nameColor": "838383",
+            "valueColor": "838383"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "core.tooltip.info.base_price",
+            "args": {},
+            "lines": {
+              "ru": "Базовая цена продажи",
+              "en": "Base selling price",
+              "es": "Precio de venta base",
+              "fr": "Prix de vente de base",
+              "ko": "기본 판매 가격"
+            }
+          },
+          "value": 1500.0,
+          "formatted": {
+            "value": {
+              "ru": "1 500 руб.",
+              "en": "1,500 rubles",
+              "es": "1.500 rublos",
+              "fr": "1 500 roubles",
+              "ko": "1,500 루블"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.quality.common",
+            "args": {},
+            "lines": {
+              "ru": "Обычный",
+              "en": "Common",
+              "es": "Común",
+              "fr": "Commun",
+              "ko": "일반"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.not_probed",
+            "args": {},
+            "lines": {
+              "ru": "Не исследовано",
+              "en": "Not studied",
+              "es": "No estudiado",
+              "fr": "Non étudié",
+              "ko": "연구되지 않음"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.info.freshness",
+            "args": {},
+            "lines": {
+              "ru": "Свежесть",
+              "en": "Freshness",
+              "es": "Frescura",
+              "fr": "Fraîcheur",
+              "ko": "품질"
+            }
+          },
+          "value": {
+            "type": "text",
+            "text": "III"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.info.durability",
+            "args": {},
+            "lines": {
+              "ru": "Заряд",
+              "en": "Charge",
+              "es": "Carga",
+              "fr": "Charge",
+              "ko": "충전"
+            }
+          },
+          "value": 100.0,
+          "formatted": {
+            "value": {
+              "ru": "100%",
+              "en": "100%",
+              "es": "100 %",
+              "fr": "100%",
+              "ko": "100%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.info.max_durability",
+            "args": {},
+            "lines": {
+              "ru": "Макс. заряд",
+              "en": "Max. charge",
+              "es": "Carga máx.",
+              "fr": "Charge maximale",
+              "ko": "최대 충전량"
+            }
+          },
+          "value": 100.0,
+          "formatted": {
+            "value": {
+              "ru": "100%",
+              "en": "100%",
+              "es": "100 %",
+              "fr": "100%",
+              "ko": "100%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.stamina_bonus",
+            "args": {},
+            "lines": {
+              "ru": "Выносливость",
+              "en": "Stamina",
+              "es": "Aguante",
+              "fr": "Endurance",
+              "ko": "스태미나"
+            }
+          },
+          "min": 8.6955,
+          "max": 10.2300005,
+          "formatted": {
+            "value": {
+              "ru": "[+8,7%; +10,23%]",
+              "en": "[+8.7%; +10.23%]",
+              "es": "[+8,7 %; +10,23 %]",
+              "fr": "[+8,7%; +10,23%]",
+              "ko": "[+8.7%; +10.23%]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.speed_modifier",
+            "args": {},
+            "lines": {
+              "ru": "Скорость передвижения",
+              "en": "Movement speed",
+              "es": "Velocidad de movimiento",
+              "fr": "Vitesse de déplacement",
+              "ko": "이동 속도"
+            }
+          },
+          "min": 0.32725,
+          "max": 0.385,
+          "formatted": {
+            "value": {
+              "ru": "[+0,33%; +0,38%]",
+              "en": "[+0.33%; +0.38%]",
+              "es": "[+0,33 %; +0,38 %]",
+              "fr": "[+0,33%; +0,38%]",
+              "ko": "[+0.33%; +0.38%]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.sprint_speed_modifier",
+            "args": {},
+            "lines": {
+              "ru": "Скорость бега",
+              "en": "Running speed",
+              "es": "Velocidad de carrera",
+              "fr": "Vitesse de course",
+              "ko": "달리기 속도"
+            }
+          },
+          "min": 0.46750003,
+          "max": 0.55,
+          "formatted": {
+            "value": {
+              "ru": "[+0,47%; +0,55%]",
+              "en": "[+0.47%; +0.55%]",
+              "es": "[+0,47 %; +0,55 %]",
+              "fr": "[+0,47%; +0,55%]",
+              "ko": "[+0.47%; +0.55%]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.radiation_accumulation",
+            "args": {},
+            "lines": {
+              "ru": "Радиация",
+              "en": "Radiation",
+              "es": "Radiación",
+              "fr": "Radiation",
+              "ko": "방사능"
+            }
+          },
+          "min": -47.520004,
+          "max": -40.392002,
+          "formatted": {
+            "value": {
+              "ru": "[-47,52; -40,39]",
+              "en": "[-47.52; -40.39]",
+              "es": "[-47,52; -40,39]",
+              "fr": "[-47,52; -40,39]",
+              "ko": "[-47.52; -40.39]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.psycho_accumulation",
+            "args": {},
+            "lines": {
+              "ru": "Пси-излучение",
+              "en": "Psyonics",
+              "es": "Emisiones psy",
+              "fr": "Émissions psys",
+              "ko": "정신파 에미션"
+            }
+          },
+          "min": 8.5,
+          "max": 10.0,
+          "formatted": {
+            "value": {
+              "ru": "[+8,5; +10]",
+              "en": "[+8.5; +10]",
+              "es": "[+8,5; +10]",
+              "fr": "[+8,5; +10]",
+              "ko": "[+8.5; +10]"
+            },
+            "nameColor": "C15252",
+            "valueColor": "C15252"
+          }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.art.puh_koluchka.description",
+        "args": {},
+        "lines": {
+          "ru": "Артефакт, образующийся в аномалии «Пух». Внешним видом напоминает небольшой шарик с мягкими иглами, которые состоят из подобия мышечной ткани.\\n\\nРодительская аномалия «Репяха», являясь необычным даже по меркам Зоны растением, по всей видимости, создает подобные образования в процессе воспроизводства.",
+          "en": "The artifact forms in the Fluff anomaly. It outwardly resembles a small ball with soft spines that consist of something akin to muscle tissue.\\n\\n The parent anomaly, Burr, being unusual even by the standards of the Zone, apparently creates such formations during its reproduction process.",
+          "es": "Artefacto formado en la anomalía Baba. Parece una pequeña bola con agujas blandas, que están compuestas de una semblanza de tejido muscular.\\n\\n La anomalía de Lampazo, que es una planta inusual incluso para los estándares de la Zona, aparentemente crea formaciones similares en el proceso de reproducción.",
+          "fr": "L\u0027artefact se forme dans l\u0027anomalie Ouate. Il ressemble extérieurement à une petite boule hérissée de piquants souples composés d\u0027un tissu proche du muscle.\\n\\nL\u0027anomalie mère, le Piquant, est déjà une plante étrange, même selon les standards de la Zone. Elle semble créer de telles formations dans le cadre de son processus de reproduction.",
+          "ko": "플러프 이상현상으로 형성된 아티팩트이다. 겉으로는 근육 조직과 유사한 물질로 구성된 부드러운 뼈대가 있는 작은 공과 닮았다.\\n\\n구역의 표준을 적용하더라도 상당히 특이한 상위 이상현상 우엉의 재생 과정에서 이 구조물이 생성된다."
+        }
+      }
+    }
+  ]
+}

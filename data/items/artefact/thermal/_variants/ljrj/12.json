@@ -1,0 +1,451 @@
+{
+  "id": "ljrj",
+  "category": "artefact/thermal",
+  "name": {
+    "type": "translation",
+    "key": "item.art.jarka_radiator.name",
+    "args": {},
+    "lines": {
+      "ru": "Радиатор",
+      "en": "Radiator",
+      "es": "Radiador",
+      "fr": "Radiateur",
+      "ko": "방열기"
+    }
+  },
+  "color": "DEFAULT",
+  "status": {
+    "state": "NON_DROP"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.thermal",
+            "args": {},
+            "lines": {
+              "ru": "Термические",
+              "en": "Thermal",
+              "es": "Térmico",
+              "fr": "Thermique",
+              "ko": "열"
+            }
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "core.tooltip.info.weight",
+            "args": {},
+            "lines": {
+              "ru": "Вес",
+              "en": "Weight",
+              "es": "Peso",
+              "fr": "Poids",
+              "ko": "무게"
+            }
+          },
+          "value": 0.3,
+          "formatted": {
+            "value": {
+              "ru": "0,3 кг",
+              "en": "0.3 kg",
+              "es": "0,3 kg",
+              "fr": "0,3 kg",
+              "ko": "0.3 kg"
+            },
+            "nameColor": "838383",
+            "valueColor": "838383"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "core.tooltip.info.base_price",
+            "args": {},
+            "lines": {
+              "ru": "Базовая цена продажи",
+              "en": "Base selling price",
+              "es": "Precio de venta base",
+              "fr": "Prix de vente de base",
+              "ko": "기본 판매 가격"
+            }
+          },
+          "value": 34300.0,
+          "formatted": {
+            "value": {
+              "ru": "34 300 руб.",
+              "en": "34,300 rubles",
+              "es": "34.300 rublos",
+              "fr": "34 300 roubles",
+              "ko": "34,300 루블"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.quality.common",
+            "args": {},
+            "lines": {
+              "ru": "Обычный",
+              "en": "Common",
+              "es": "Común",
+              "fr": "Commun",
+              "ko": "일반"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.not_probed",
+            "args": {},
+            "lines": {
+              "ru": "Не исследовано",
+              "en": "Not studied",
+              "es": "No estudiado",
+              "fr": "Non étudié",
+              "ko": "연구되지 않음"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.info.freshness",
+            "args": {},
+            "lines": {
+              "ru": "Свежесть",
+              "en": "Freshness",
+              "es": "Frescura",
+              "fr": "Fraîcheur",
+              "ko": "품질"
+            }
+          },
+          "value": {
+            "type": "text",
+            "text": "III"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.info.durability",
+            "args": {},
+            "lines": {
+              "ru": "Заряд",
+              "en": "Charge",
+              "es": "Carga",
+              "fr": "Charge",
+              "ko": "충전"
+            }
+          },
+          "value": 100.0,
+          "formatted": {
+            "value": {
+              "ru": "100%",
+              "en": "100%",
+              "es": "100 %",
+              "fr": "100%",
+              "ko": "100%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.info.max_durability",
+            "args": {},
+            "lines": {
+              "ru": "Макс. заряд",
+              "en": "Max. charge",
+              "es": "Carga máx.",
+              "fr": "Charge maximale",
+              "ko": "최대 충전량"
+            }
+          },
+          "value": 100.0,
+          "formatted": {
+            "value": {
+              "ru": "100%",
+              "en": "100%",
+              "es": "100 %",
+              "fr": "100%",
+              "ko": "100%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.speed_modifier",
+            "args": {},
+            "lines": {
+              "ru": "Скорость передвижения",
+              "en": "Movement speed",
+              "es": "Velocidad de movimiento",
+              "fr": "Vitesse de déplacement",
+              "ko": "이동 속도"
+            }
+          },
+          "min": 0.527,
+          "max": 0.62,
+          "formatted": {
+            "value": {
+              "ru": "[+0,53%; +0,62%]",
+              "en": "[+0.53%; +0.62%]",
+              "es": "[+0,53 %; +0,62 %]",
+              "fr": "[+0,53%; +0,62%]",
+              "ko": "[+0.53%; +0.62%]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.sprint_speed_modifier",
+            "args": {},
+            "lines": {
+              "ru": "Скорость бега",
+              "en": "Running speed",
+              "es": "Velocidad de carrera",
+              "fr": "Vitesse de course",
+              "ko": "달리기 속도"
+            }
+          },
+          "min": 0.7378,
+          "max": 0.868,
+          "formatted": {
+            "value": {
+              "ru": "[+0,74%; +0,87%]",
+              "en": "[+0.74%; +0.87%]",
+              "es": "[+0,74 %; +0,87 %]",
+              "fr": "[+0,74%; +0,87%]",
+              "ko": "[+0.74%; +0.87%]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.thermal_accumulation",
+            "args": {},
+            "lines": {
+              "ru": "Температура",
+              "en": "Temperature",
+              "es": "Temperatura",
+              "fr": "Température",
+              "ko": "열"
+            }
+          },
+          "min": -53.568,
+          "max": -45.532803,
+          "formatted": {
+            "value": {
+              "ru": "[-53,57; -45,53]",
+              "en": "[-53.57; -45.53]",
+              "es": "[-53,57; -45,53]",
+              "fr": "[-53,57; -45,53]",
+              "ko": "[-53.57; -45.53]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.psycho_accumulation",
+            "args": {},
+            "lines": {
+              "ru": "Пси-излучение",
+              "en": "Psyonics",
+              "es": "Emisiones psy",
+              "fr": "Émissions psys",
+              "ko": "정신파 에미션"
+            }
+          },
+          "min": -31.744,
+          "max": -26.9824,
+          "formatted": {
+            "value": {
+              "ru": "[-31,74; -26,98]",
+              "en": "[-31.74; -26.98]",
+              "es": "[-31,74; -26,98]",
+              "fr": "[-31,74; -26,98]",
+              "ko": "[-31.74; -26.98]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.combustion_accumulation",
+            "args": {},
+            "lines": {
+              "ru": "Горение",
+              "en": "Burning",
+              "es": "Quemadura",
+              "fr": "Combustion",
+              "ko": "발화"
+            }
+          },
+          "min": -7.44,
+          "max": -6.3240004,
+          "formatted": {
+            "value": {
+              "ru": "[-7,44; -6,32]",
+              "en": "[-7.44; -6.32]",
+              "es": "[-7,44; -6,32]",
+              "fr": "[-7,44; -6,32]",
+              "ko": "[-7.44; -6.32]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.reaction_to_burn",
+            "args": {},
+            "lines": {
+              "ru": "Реакция на ожог",
+              "en": "Reaction to burns",
+              "es": "Reacción a las quemaduras",
+              "fr": "Réaction aux brûlures",
+              "ko": "발화 대항"
+            }
+          },
+          "min": 0.8432001,
+          "max": 0.99200004,
+          "formatted": {
+            "value": {
+              "ru": "[+0,84%; +0,99%]",
+              "en": "[+0.84%; +0.99%]",
+              "es": "[+0,84 %; +0,99 %]",
+              "fr": "[+0,84%; +0,99%]",
+              "ko": "[+0.84%; +0.99%]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.art.jarka_radiator.description",
+        "args": {},
+        "lines": {
+          "ru": "Несмотря на свое название, «Радиатор» может гораздо большее, чем просто нагревать окружающий воздух.\\n\\nВоздействие артефакта способно значительно стабилизировать окружающее пространство. Ученые из НИИ-7 считают, что это происходит из-за едва заметного движения пластин, которые образуют «Радиатор», пускай и не могут до конца объяснить связь между этими процессами.",
+          "en": "Despite its name, Radiator can do much more than just heat the surrounding air.\\n\\n The artifact effect can significantly stabilize the surrounding space. Scientists from Research Institute 7 believe that this occurs due to the barely noticeable movement of the plates that form Radiator, although they cannot fully explain the connection between these processes.",
+          "es": "A pesar de su nombre, Radiador puede hacer mucho más que simplemente calentar el aire circundante.\\n\\n El impacto del artefacto puede estabilizar significativamente el espacio circundante. Los científicos del Instituto de Investigación 7 creen que esto se debe al movimiento apenas perceptible de las placas que forman el Radiador, aunque no pueden explicar del todo la conexión entre estos procesos.",
+          "fr": "Malgré son nom, le Radiateur peut faire bien plus que simplement chauffer l\u0027air ambiant.\\n\\nL\u0027effet de l\u0027artefact est capable de stabiliser considérablement l\u0027espace environnant. Les scientifiques de l\u0027Institut de Recherche 7 pensent que cela est dû au mouvement à peine perceptible des plaques qui composent le Radiateur, bien qu\u0027ils ne puissent pas encore expliquer complètement le lien entre ces processus.",
+          "ko": "방열기는 그 이름과 달리 주변 공기의 온도를 높이는 것 이상의 역할을 할 수 있다.\\n\\n아티팩트 효과로 주변 공간을 크게 안정화할 수 있기 때문이다. 제 7 연구소의 과학자들은 방열기를 구성하는 판의 좀처럼 확인하기 어려운 움직임이 원인이라 생각하지만 그 사이의 인과관계를 완벽히 설명하지는 못한다."
+        }
+      }
+    }
+  ]
+}

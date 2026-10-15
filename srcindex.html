@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <title>Aigex Clone</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <h1>Лоты STALZONE <span class="badge">Demo API</span></h1>
+    <div class="controls">
+      <input id="search" placeholder="Поиск предмета..." />
+      <input id="minProfit" type="number" placeholder="Мин. профит" />
+      <button id="refresh">Обновить</button>
+    </div>
+  </header>
+
+  <main>
+    <section class="panel">
+      <h2>Живая лента лотов — Астрикцин</h2>
+      <table id="lots">
+        <thead>
+          <tr>
+            <th>Предмет</th>
+            <th>Покупка</th>
+            <th>Продажа</th>
+            <th>Профит</th>
+            <th>Продавец</th>
+            <th>Время</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </section>
+
+    <aside class="panel">
+      <h2>Статус</h2>
+      <div id="status" class="eval-result">Инициализация...</div>
+    </aside>
+  </main>
+
+  <script src="renderer.js"></script>
+</body>
+</html>

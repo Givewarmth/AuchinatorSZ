@@ -1,0 +1,451 @@
+{
+  "id": "zymn",
+  "category": "artefact/other_arts",
+  "name": {
+    "type": "translation",
+    "key": "item.art.inside_smalets.name",
+    "args": {},
+    "lines": {
+      "ru": "Смалец",
+      "en": "Tallow",
+      "es": "Grasa",
+      "fr": "Suif",
+      "ko": "쇠기름"
+    }
+  },
+  "color": "DEFAULT",
+  "status": {
+    "state": "NON_DROP"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.other_arts",
+            "args": {},
+            "lines": {
+              "ru": "Прочие",
+              "en": "Other",
+              "es": "Otros",
+              "fr": "Autre",
+              "ko": "기타"
+            }
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "core.tooltip.info.weight",
+            "args": {},
+            "lines": {
+              "ru": "Вес",
+              "en": "Weight",
+              "es": "Peso",
+              "fr": "Poids",
+              "ko": "무게"
+            }
+          },
+          "value": 0.3,
+          "formatted": {
+            "value": {
+              "ru": "0,3 кг",
+              "en": "0.3 kg",
+              "es": "0,3 kg",
+              "fr": "0,3 kg",
+              "ko": "0.3 kg"
+            },
+            "nameColor": "838383",
+            "valueColor": "838383"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "core.tooltip.info.base_price",
+            "args": {},
+            "lines": {
+              "ru": "Базовая цена продажи",
+              "en": "Base selling price",
+              "es": "Precio de venta base",
+              "fr": "Prix de vente de base",
+              "ko": "기본 판매 가격"
+            }
+          },
+          "value": 10080.0,
+          "formatted": {
+            "value": {
+              "ru": "10 080 руб.",
+              "en": "10,080 rubles",
+              "es": "10.080 rublos",
+              "fr": "10 080 roubles",
+              "ko": "10,080 루블"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.quality.common",
+            "args": {},
+            "lines": {
+              "ru": "Обычный",
+              "en": "Common",
+              "es": "Común",
+              "fr": "Commun",
+              "ko": "일반"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.not_probed",
+            "args": {},
+            "lines": {
+              "ru": "Не исследовано",
+              "en": "Not studied",
+              "es": "No estudiado",
+              "fr": "Non étudié",
+              "ko": "연구되지 않음"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.info.freshness",
+            "args": {},
+            "lines": {
+              "ru": "Свежесть",
+              "en": "Freshness",
+              "es": "Frescura",
+              "fr": "Fraîcheur",
+              "ko": "품질"
+            }
+          },
+          "value": {
+            "type": "text",
+            "text": "III"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.info.durability",
+            "args": {},
+            "lines": {
+              "ru": "Заряд",
+              "en": "Charge",
+              "es": "Carga",
+              "fr": "Charge",
+              "ko": "충전"
+            }
+          },
+          "value": 100.0,
+          "formatted": {
+            "value": {
+              "ru": "100%",
+              "en": "100%",
+              "es": "100 %",
+              "fr": "100%",
+              "ko": "100%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.info.max_durability",
+            "args": {},
+            "lines": {
+              "ru": "Макс. заряд",
+              "en": "Max. charge",
+              "es": "Carga máx.",
+              "fr": "Charge maximale",
+              "ko": "최대 충전량"
+            }
+          },
+          "value": 100.0,
+          "formatted": {
+            "value": {
+              "ru": "100%",
+              "en": "100%",
+              "es": "100 %",
+              "fr": "100%",
+              "ko": "100%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.speed_modifier",
+            "args": {},
+            "lines": {
+              "ru": "Скорость передвижения",
+              "en": "Movement speed",
+              "es": "Velocidad de movimiento",
+              "fr": "Vitesse de déplacement",
+              "ko": "이동 속도"
+            }
+          },
+          "min": 0.32130003,
+          "max": 0.37800002,
+          "formatted": {
+            "value": {
+              "ru": "[+0,32%; +0,38%]",
+              "en": "[+0.32%; +0.38%]",
+              "es": "[+0,32 %; +0,38 %]",
+              "fr": "[+0,32%; +0,38%]",
+              "ko": "[+0.32%; +0.38%]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.sprint_speed_modifier",
+            "args": {},
+            "lines": {
+              "ru": "Скорость бега",
+              "en": "Running speed",
+              "es": "Velocidad de carrera",
+              "fr": "Vitesse de course",
+              "ko": "달리기 속도"
+            }
+          },
+          "min": 0.32130003,
+          "max": 0.37800002,
+          "formatted": {
+            "value": {
+              "ru": "[+0,32%; +0,38%]",
+              "en": "[+0.32%; +0.38%]",
+              "es": "[+0,32 %; +0,38 %]",
+              "fr": "[+0,32%; +0,38%]",
+              "ko": "[+0.32%; +0.38%]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.regeneration_bonus",
+            "args": {},
+            "lines": {
+              "ru": "Регенерация здоровья",
+              "en": "Health regeneration",
+              "es": "Regeneración de salud",
+              "fr": "Régénération de la santé",
+              "ko": "체력 회복력"
+            }
+          },
+          "min": 1.4994,
+          "max": 1.7639999,
+          "formatted": {
+            "value": {
+              "ru": "[+1,5%; +1,76%]",
+              "en": "[+1.5%; +1.76%]",
+              "es": "[+1,5 %; +1,76 %]",
+              "fr": "[+1,5%; +1,76%]",
+              "ko": "[+1.5%; +1.76%]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.heal_efficiency",
+            "args": {},
+            "lines": {
+              "ru": "Эффективность лечения",
+              "en": "Healing effectiveness",
+              "es": "Eficacia de curación",
+              "fr": "Efficacité des soins",
+              "ko": "치유 효율"
+            }
+          },
+          "min": 9.3177,
+          "max": 10.962,
+          "formatted": {
+            "value": {
+              "ru": "[+9,32%; +10,96%]",
+              "en": "[+9.32%; +10.96%]",
+              "es": "[+9,32 %; +10,96 %]",
+              "fr": "[+9,32%; +10,96%]",
+              "ko": "[+9.32%; +10.96%]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.radiation_accumulation",
+            "args": {},
+            "lines": {
+              "ru": "Радиация",
+              "en": "Radiation",
+              "es": "Radiación",
+              "fr": "Radiation",
+              "ko": "방사능"
+            }
+          },
+          "min": 21.25,
+          "max": 25.0,
+          "formatted": {
+            "value": {
+              "ru": "[+21,25; +25]",
+              "en": "[+21.25; +25]",
+              "es": "[+21,25; +25]",
+              "fr": "[+21,25; +25]",
+              "ko": "[+21.25; +25]"
+            },
+            "nameColor": "C15252",
+            "valueColor": "C15252"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.thermal_accumulation",
+            "args": {},
+            "lines": {
+              "ru": "Температура",
+              "en": "Temperature",
+              "es": "Temperatura",
+              "fr": "Température",
+              "ko": "열"
+            }
+          },
+          "min": -32.256,
+          "max": -27.4176,
+          "formatted": {
+            "value": {
+              "ru": "[-32,26; -27,42]",
+              "en": "[-32.26; -27.42]",
+              "es": "[-32,26; -27,42]",
+              "fr": "[-32,26; -27,42]",
+              "ko": "[-32.26; -27.42]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.art.inside_smalets.description",
+        "args": {},
+        "lines": {
+          "ru": "Объект, состоящий из органических наростов с торцевой части и полностью твердой основы тела. По внешнему виду можно точно сказать, что базовая структура унаследована от артефакта «Сало». Материал имеет свойства как кристаллических наростов Изнанки, так и аномальных структур ЧЗО.\\n\\nСпособен поглощать излишки тепла, вызывая при этом легкую радиацию, положительно влияющую на деление клеток.\\n\\nПри контакте с электромагнитным полем высокого напряжения формирует поле, разрушающее клеточные мембраны.",
+          "en": "An object consisting of organic growths on the terminal side and a completely solid body base. Its appearance clearly indicates that the basic structure is inherited from Lard artifact. The material has the properties of both the crystalline growths of the Inside Out and the anomalous structures of the CEZ.\\n\\n It can absorb excess heat, causing light radiation that positively affects cell division.\\n\\n Upon contact with a high-voltage electromagnetic field, it forms a field that destroys cell membranes.",
+          "es": "Un objeto formado por crecimientos orgánicos de la parte final y una base de cuerpo totalmente macizo. Por su aspecto, podemos afirmar con seguridad que la estructura de la base es heredada del artefacto Manteca. El material tiene las propiedades tanto de los crecimientos cristalinos del Reverso como de las estructuras anómalas de la Zona de exclusión de Chernóbil.\\n\\n Es capaz de absorber el exceso de calor, provocando una radiación luminosa, que tiene un efecto positivo en la división celular.\\n\\n En contacto con un campo electromagnético de alto voltaje, forma un campo que destruye las membranas celulares.",
+          "fr": "Objet composé d\u0027excroissances organiques à l\u0027extrémité et d\u0027une base corporelle entièrement solide. Son apparence indique clairement que sa structure de base est héritée de l\u0027artefact Lard. Le matériau possède à la fois les propriétés des excroissances cristallines de l\u0027Envers et des structures anormales de la Zone d\u0027exclusion.\\n\\n\\n\\nIl est capable d\u0027absorber l\u0027excès de chaleur, émettant une faible radiation qui favorise la division cellulaire.\\n\\n\\n\\nAu contact d\u0027un champ électromagnétique à haute tension, il génère un champ destructeur pour les membranes cellulaires.",
+          "ko": "끝부분에 유기적 돌기가 자라난 형태로, 완전히 단단한 기반 몸통을 가진 아티팩트다. 외형으로 보아 기본 구조가 아티팩트 라드에서 유래되었다고 명확히 단정할 수 있다. 구성 물질은 뒤집힌 세계에서 특징적으로 발견되는 결정성 돌기와 체르노빌 금지 구역의 이상 구조물의 특성이 모두 나타나 있다.\\n\\n이 아티팩트는 초과량 열을 흡수하며, 그 과정에서 세포 분열에 긍정적인 영향을 주는 미약한 방사선을 방출한다.\\n\\n그러나 고전압 전자기장과 접촉할 경우, 세포막을 파괴하는 장을 생성한다."
+        }
+      }
+    }
+  ]
+}

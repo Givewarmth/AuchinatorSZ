@@ -1,0 +1,19 @@
+{
+  "name": "aigex-app",
+  "version": "0.1.0",
+  "description": "Aigex-like lot feed for STALZONE",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "pixelmatch": "^8.0.0",
+    "puppeteer": "^25.13.0",
+    "sharp": "^0.35.5",
+    "tesseract.js": "^7.0.0"
+  },
+  "devDependencies": {
+    "electron": "^31.0.0"
+  }
+}

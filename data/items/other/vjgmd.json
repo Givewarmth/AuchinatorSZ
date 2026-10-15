@@ -1,0 +1,122 @@
+{
+  "id": "vjgmd",
+  "category": "other",
+  "name": {
+    "type": "translation",
+    "key": "item.style.wpn.deagle_spring24.name",
+    "args": {},
+    "lines": {
+      "ru": "«Коварство Чемпиона»",
+      "en": "Champion\u0027s Cunning",
+      "es": "Astucia del campeón",
+      "fr": "Ruse du Champion",
+      "ko": "챔피언의 교활함"
+    }
+  },
+  "color": "RANK_MASTER",
+  "status": {
+    "state": "PERSONAL_ON_USE"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang",
+              "ko": "등급"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.master",
+            "args": {},
+            "lines": {
+              "ru": "Мастер",
+              "en": "Master",
+              "es": "Maestro",
+              "fr": "Maître",
+              "ko": "마스터"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.weapon_style",
+            "args": {},
+            "lines": {
+              "ru": "Облик оружия",
+              "en": "Weapon Style",
+              "es": "Estilo de armas",
+              "fr": "Style d\u0027arme",
+              "ko": "무기 외형"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.style.wpn.deagle_spring24.description",
+        "args": {},
+        "lines": {
+          "ru": "Эта модификация Desert Eagle XIX несет в себе лишь подлость и коварство. Это оружие — верный спутник подлых ящеров в стремлении к гегемонии и доминированию над всем сущим. Его отзвуки — мелодия мести, его блеск — сияние ящерского триумфа. Каждый его выстрел напоминает врагам о несокрушимости и изобретательности ящеров, являясь апогеем их коварства и злобы.",
+          "en": "This modification of Desert Eagle XIX carries only treachery and deceit. This weapon is a faithful companion of vile lizards in their quest for hegemony and dominance over all things. Its echoes are the melody of revenge, its reflections are the radiance of lizard triumph. Each of his shots reminds enemies of the indestructibility and ingenuity of the lizards, being the apogee of their cunning and malice.",
+          "es": "Esta modificación de la Desert Eagle XIX solo conlleva traición y engaño. Se trata de un arma que es fiel compañera de los viles lagartos en su misión de hegemonía y dominio sobre todas las cosas. Sus ecos son la melodía de la venganza y sus reflejos son el resplandor del triunfo de los lagartos. Cada uno de sus disparos recuerda a los enemigos la indestructibilidad y el ingenio de los lagartos como apogeo de su astucia y malicia.",
+          "fr": "Cette modification du Desert Eagle XIX ne comporte que trahison et tromperie. Cette arme est la fidèle compagne des vils lézards dans leur quête d\u0027hégémonie et de domination sur tout ce qui existe. Ses échos sont la mélodie de la vengeance, ses reflets – la lueur du triomphe du lézard. Chaque tir rappelle aux ennemis l\u0027indomptabilité et l\u0027ingéniosité des lézards, étant l\u0027apogée de leur ruse et de leur méchanceté.",
+          "ko": "데저트 이글 XIX의 개조 모델. 배반과 기만을 상징한다. 패권자와 지배자의 자리를 쫓아다니는 사악한 도마뱀 종족에게 딱맞는 믿음직스러운 무기이다. 총성은 복수의 선율과도 같고, 번쩍임은 도마뱀 종족의 승리를 상징한다. 발사된 총탄 한발 한발이 적들에게 도마뱀 종족의 꺾이지 않는 마음과 영리함을 깨닫게한다. 교활함과 악의의 정점이라 할 수 있다..."
+        }
+      }
+    },
+    {},
+    {}
+  ]
+}

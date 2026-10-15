@@ -1,0 +1,120 @@
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: "Segoe UI", system-ui, sans-serif;
+  background: #0e1116;
+  color: #e6e8eb;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.topbar {
+  padding: 16px 24px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #151a22;
+  border-bottom: 1px solid #232a35;
+}
+
+.topbar h1 {
+  font-size: 18px;
+  margin: 0;
+  letter-spacing: 0.5px;
+}
+
+.badge {
+  display: inline-block;
+  background: #2f7df6;
+  color: #fff;
+  font-size: 11px;
+  padding: 2px 8px;
+  border-radius: 10px;
+  margin-left: 8px;
+  vertical-align: middle;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.controls { display: flex; gap: 8px; }
+
+input, select, button {
+  background: #1c222c;
+  border: 1px solid #2a3340;
+  color: #e6e8eb;
+  padding: 8px 12px;
+  border-radius: 6px;
+  font-size: 14px;
+  outline: none;
+}
+
+button {
+  background: #2f7df6;
+  border-color: #2f7df6;
+  cursor: pointer;
+  font-weight: 500;
+}
+
+button:hover { background: #4a90ff; }
+
+main {
+  flex: 1;
+  display: grid;
+  grid-template-columns: 1fr 320px;
+  gap: 16px;
+  padding: 16px;
+  overflow: hidden;
+}
+
+.panel {
+  background: #151a22;
+  border: 1px solid #232a35;
+  border-radius: 10px;
+  padding: 16px;
+  overflow: auto;
+}
+
+.panel h2 {
+  margin: 0 0 12px;
+  font-size: 14px;
+  text-transform: uppercase;
+  color: #8a94a6;
+  letter-spacing: 1px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+}
+
+th, td {
+  text-align: left;
+  padding: 10px 8px;
+  border-bottom: 1px solid #232a35;
+}
+
+th {
+  color: #8a94a6;
+  font-weight: 500;
+  font-size: 12px;
+  text-transform: uppercase;
+}
+
+tr:hover td { background: #1a2029; }
+
+.profit-positive { color: #4cd964; }
+.profit-negative { color: #ff5f57; }
+.loading { text-align: center; color: #8a94a6; padding: 20px; }
+
+.eval-result {
+  background: #1a2029;
+  padding: 14px;
+  border-radius: 8px;
+  font-size: 14px;
+  line-height: 1.6;
+  color: #b7c0cc;
+  word-break: break-word;
+}

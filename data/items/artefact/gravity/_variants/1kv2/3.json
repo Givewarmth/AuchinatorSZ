@@ -1,0 +1,367 @@
+{
+  "id": "1kv2",
+  "category": "artefact/gravity",
+  "name": {
+    "type": "translation",
+    "key": "item.art.voronka_gravi.name",
+    "args": {},
+    "lines": {
+      "ru": "Прима",
+      "en": "Prima",
+      "es": "Primigenia",
+      "fr": "Prima",
+      "ko": "수석"
+    }
+  },
+  "color": "DEFAULT",
+  "status": {
+    "state": "NON_DROP"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.gravity",
+            "args": {},
+            "lines": {
+              "ru": "Гравитационные",
+              "en": "Gravitational",
+              "es": "Gravitacional",
+              "fr": "Gravitationnelle",
+              "ko": "중력"
+            }
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "core.tooltip.info.weight",
+            "args": {},
+            "lines": {
+              "ru": "Вес",
+              "en": "Weight",
+              "es": "Peso",
+              "fr": "Poids",
+              "ko": "무게"
+            }
+          },
+          "value": 0.2,
+          "formatted": {
+            "value": {
+              "ru": "0,2 кг",
+              "en": "0.2 kg",
+              "es": "0,2 kg",
+              "fr": "0,2 kg",
+              "ko": "0.2 kg"
+            },
+            "nameColor": "838383",
+            "valueColor": "838383"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "core.tooltip.info.base_price",
+            "args": {},
+            "lines": {
+              "ru": "Базовая цена продажи",
+              "en": "Base selling price",
+              "es": "Precio de venta base",
+              "fr": "Prix de vente de base",
+              "ko": "기본 판매 가격"
+            }
+          },
+          "value": 1600.0,
+          "formatted": {
+            "value": {
+              "ru": "1 600 руб.",
+              "en": "1,600 rubles",
+              "es": "1.600 rublos",
+              "fr": "1 600 roubles",
+              "ko": "1,600 루블"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.quality.common",
+            "args": {},
+            "lines": {
+              "ru": "Обычный",
+              "en": "Common",
+              "es": "Común",
+              "fr": "Commun",
+              "ko": "일반"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.not_probed",
+            "args": {},
+            "lines": {
+              "ru": "Не исследовано",
+              "en": "Not studied",
+              "es": "No estudiado",
+              "fr": "Non étudié",
+              "ko": "연구되지 않음"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.info.freshness",
+            "args": {},
+            "lines": {
+              "ru": "Свежесть",
+              "en": "Freshness",
+              "es": "Frescura",
+              "fr": "Fraîcheur",
+              "ko": "품질"
+            }
+          },
+          "value": {
+            "type": "text",
+            "text": "III"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.info.durability",
+            "args": {},
+            "lines": {
+              "ru": "Заряд",
+              "en": "Charge",
+              "es": "Carga",
+              "fr": "Charge",
+              "ko": "충전"
+            }
+          },
+          "value": 100.0,
+          "formatted": {
+            "value": {
+              "ru": "100%",
+              "en": "100%",
+              "es": "100 %",
+              "fr": "100%",
+              "ko": "100%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.info.max_durability",
+            "args": {},
+            "lines": {
+              "ru": "Макс. заряд",
+              "en": "Max. charge",
+              "es": "Carga máx.",
+              "fr": "Charge maximale",
+              "ko": "최대 충전량"
+            }
+          },
+          "value": 100.0,
+          "formatted": {
+            "value": {
+              "ru": "100%",
+              "en": "100%",
+              "es": "100 %",
+              "fr": "100%",
+              "ko": "100%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.max_weight_bonus",
+            "args": {},
+            "lines": {
+              "ru": "Переносимый вес",
+              "en": "Carry weight",
+              "es": "Peso de carga",
+              "fr": "Poids maximum supporté",
+              "ko": "최대 운반 무게"
+            }
+          },
+          "min": 8.3793,
+          "max": 9.858,
+          "formatted": {
+            "value": {
+              "ru": "[+8,38; +9,86]",
+              "en": "[+8.38; +9.86]",
+              "es": "[+8,38; +9,86]",
+              "fr": "[+8,38; +9,86]",
+              "ko": "[+8.38; +9.86]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.tear_dmg_factor",
+            "args": {},
+            "lines": {
+              "ru": "Защита от разрыва",
+              "en": "Laceration protection",
+              "es": "Protección contra laceración",
+              "fr": "Protection contre les lacérations",
+              "ko": "열상 저항율"
+            }
+          },
+          "min": 8.1991005,
+          "max": 9.646,
+          "formatted": {
+            "value": {
+              "ru": "[+8,2; +9,65]",
+              "en": "[+8.2; +9.65]",
+              "es": "[+8,2; +9,65]",
+              "fr": "[+8,2; +9,65]",
+              "ko": "[+8.2; +9.65]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.radiation_accumulation",
+            "args": {},
+            "lines": {
+              "ru": "Радиация",
+              "en": "Radiation",
+              "es": "Radiación",
+              "fr": "Radiation",
+              "ko": "방사능"
+            }
+          },
+          "min": 21.25,
+          "max": 25.0,
+          "formatted": {
+            "value": {
+              "ru": "[+21,25; +25]",
+              "en": "[+21.25; +25]",
+              "es": "[+21,25; +25]",
+              "fr": "[+21,25; +25]",
+              "ko": "[+21.25; +25]"
+            },
+            "nameColor": "C15252",
+            "valueColor": "C15252"
+          }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.art.voronka_gravi.description",
+        "args": {},
+        "lines": {
+          "ru": "По мнению некоторых сталкеров, небольшие отростки, покрывающие «Приму», являются чем-то наподобие ножек или усиков, однако ученые НИИ-7 заявляют, что эти формирования по своей клеточной структуре ближе к корневым волоскам небольших кустарников, распространенных в Зоне.\\n\\nВнешняя «оболочка» артефакта, похожая на камень, состоит не из породы, а главным образом из органического хитина. Это играет на руку людям, что считают «Приму» больше похожей на какую-то живую личинку, чем на артефакт.",
+          "en": "According to some stalkers, the small appendages covering the Prima resemble legs or antennae, but the scientists at Research Institute 7 claim that their cellular structure places them closer to the root hairs of small shrubs common in the Zone.\\n\\n The outer \"shell\" of the artifact, resembling stone, is made not of rock, but primarily of organic chitin. This supports those who consider the Prima more akin to some living larva than an artifact.",
+          "es": "Según algunos acechadores, las pequeñas excrecencias que cubren Primigenia son algo así como patas o zarcillos, pero los científicos del Instituto de Investigación 7 afirman que estas formaciones se asemejan más en su estructura celular a los pelos de las raíces de pequeños arbustos comunes en la Zona.\\n\\n La cáscara exterior del artefacto, similar a la piedra, no está formada por roca, sino principalmente por quitina orgánica. Esto juega a favor de quienes piensan que Primigenia se parece más a una especie de larva viva que a un artefacto.",
+          "fr": "Selon certains stalkers, les petites excroissances recouvrant la Prima ressemblent à des pattes ou des antennes, mais les scientifiques de l\u0027Institut de Recherche 7 affirment que ces formations sont, dans leur structure cellulaire, plus proches des poils racinaires de petits arbustes répandus dans la Zone.\\n\\n\\n\\nLa « coquille » extérieure de l\u0027artefact, qui ressemble à de la pierre, n\u0027est pas faite de roche, mais principalement de chitine organique. Cela joue en faveur de ceux qui considèrent la Prima comme une sorte de larve vivante plutôt que comme un artefact.",
+          "ko": "어느 스토커들은 프리마를 뒤덮고 있는 작은 돌기들을 다리, 혹은 안테나라고 하지만, 제 7 연구소의 과학자들은 이러한 기관들이 세포 구조 상 구역에서 흔히 볼 수 있는 관목의 뿌리털에 더 가깝다고 주장한다.\\n\\n돌을 연상시키는 아티팩트의 겉 \"껍데기\"는 암석이 아닌 유기성 키틴으로 대부분 이루어져있다. 이같은 사실은 프리마가 아티팩트보다는 살아있는 유충에 더 가깝다는 자들의 주장에 힘을 실어준다."
+        }
+      }
+    }
+  ]
+}

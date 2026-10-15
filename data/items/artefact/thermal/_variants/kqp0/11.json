@@ -1,0 +1,395 @@
+{
+  "id": "kqp0",
+  "category": "artefact/thermal",
+  "name": {
+    "type": "translation",
+    "key": "item.art.jarka_plamya.name",
+    "args": {},
+    "lines": {
+      "ru": "Жар-птица",
+      "en": "Firebird",
+      "es": "Ave llameante",
+      "fr": "Oiseau de feu",
+      "ko": "붉은 꾀꼬리"
+    }
+  },
+  "color": "DEFAULT",
+  "status": {
+    "state": "NON_DROP"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.thermal",
+            "args": {},
+            "lines": {
+              "ru": "Термические",
+              "en": "Thermal",
+              "es": "Térmico",
+              "fr": "Thermique",
+              "ko": "열"
+            }
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "core.tooltip.info.weight",
+            "args": {},
+            "lines": {
+              "ru": "Вес",
+              "en": "Weight",
+              "es": "Peso",
+              "fr": "Poids",
+              "ko": "무게"
+            }
+          },
+          "value": 0.2,
+          "formatted": {
+            "value": {
+              "ru": "0,2 кг",
+              "en": "0.2 kg",
+              "es": "0,2 kg",
+              "fr": "0,2 kg",
+              "ko": "0.2 kg"
+            },
+            "nameColor": "838383",
+            "valueColor": "838383"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "core.tooltip.info.base_price",
+            "args": {},
+            "lines": {
+              "ru": "Базовая цена продажи",
+              "en": "Base selling price",
+              "es": "Precio de venta base",
+              "fr": "Prix de vente de base",
+              "ko": "기본 판매 가격"
+            }
+          },
+          "value": 7800.0,
+          "formatted": {
+            "value": {
+              "ru": "7 800 руб.",
+              "en": "7,800 rubles",
+              "es": "7.800 rublos",
+              "fr": "7 800 roubles",
+              "ko": "7,800 루블"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.quality.common",
+            "args": {},
+            "lines": {
+              "ru": "Обычный",
+              "en": "Common",
+              "es": "Común",
+              "fr": "Commun",
+              "ko": "일반"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.not_probed",
+            "args": {},
+            "lines": {
+              "ru": "Не исследовано",
+              "en": "Not studied",
+              "es": "No estudiado",
+              "fr": "Non étudié",
+              "ko": "연구되지 않음"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.info.freshness",
+            "args": {},
+            "lines": {
+              "ru": "Свежесть",
+              "en": "Freshness",
+              "es": "Frescura",
+              "fr": "Fraîcheur",
+              "ko": "품질"
+            }
+          },
+          "value": {
+            "type": "text",
+            "text": "III"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.info.durability",
+            "args": {},
+            "lines": {
+              "ru": "Заряд",
+              "en": "Charge",
+              "es": "Carga",
+              "fr": "Charge",
+              "ko": "충전"
+            }
+          },
+          "value": 100.0,
+          "formatted": {
+            "value": {
+              "ru": "100%",
+              "en": "100%",
+              "es": "100 %",
+              "fr": "100%",
+              "ko": "100%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.info.max_durability",
+            "args": {},
+            "lines": {
+              "ru": "Макс. заряд",
+              "en": "Max. charge",
+              "es": "Carga máx.",
+              "fr": "Charge maximale",
+              "ko": "최대 충전량"
+            }
+          },
+          "value": 100.0,
+          "formatted": {
+            "value": {
+              "ru": "100%",
+              "en": "100%",
+              "es": "100 %",
+              "fr": "100%",
+              "ko": "100%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.regeneration_bonus",
+            "args": {},
+            "lines": {
+              "ru": "Регенерация здоровья",
+              "en": "Health regeneration",
+              "es": "Regeneración de salud",
+              "fr": "Régénération de la santé",
+              "ko": "체력 회복력"
+            }
+          },
+          "min": 1.4518001,
+          "max": 1.7080001,
+          "formatted": {
+            "value": {
+              "ru": "[+1,45%; +1,71%]",
+              "en": "[+1.45%; +1.71%]",
+              "es": "[+1,45 %; +1,71 %]",
+              "fr": "[+1,45%; +1,71%]",
+              "ko": "[+1.45%; +1.71%]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.heal_efficiency",
+            "args": {},
+            "lines": {
+              "ru": "Эффективность лечения",
+              "en": "Healing effectiveness",
+              "es": "Eficacia de curación",
+              "fr": "Efficacité des soins",
+              "ko": "치유 효율"
+            }
+          },
+          "min": 9.0219,
+          "max": 10.614,
+          "formatted": {
+            "value": {
+              "ru": "[+9,02%; +10,61%]",
+              "en": "[+9.02%; +10.61%]",
+              "es": "[+9,02 %; +10,61 %]",
+              "fr": "[+9,02%; +10,61%]",
+              "ko": "[+9.02%; +10.61%]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.bleeding_protection",
+            "args": {},
+            "lines": {
+              "ru": "Защита от кровотечения",
+              "en": "Bleeding protection",
+              "es": "Protección contra hemorragia",
+              "fr": "Protection contre les saignements",
+              "ko": "출혈 보호"
+            }
+          },
+          "min": 1.5555,
+          "max": 1.83,
+          "formatted": {
+            "value": {
+              "ru": "[+1,56%; +1,83%]",
+              "en": "[+1.56%; +1.83%]",
+              "es": "[+1,56 %; +1,83 %]",
+              "fr": "[+1,56%; +1,83%]",
+              "ko": "[+1.56%; +1.83%]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.thermal_accumulation",
+            "args": {},
+            "lines": {
+              "ru": "Температура",
+              "en": "Temperature",
+              "es": "Temperatura",
+              "fr": "Température",
+              "ko": "열"
+            }
+          },
+          "min": 21.25,
+          "max": 25.0,
+          "formatted": {
+            "value": {
+              "ru": "[+21,25; +25]",
+              "en": "[+21.25; +25]",
+              "es": "[+21,25; +25]",
+              "fr": "[+21,25; +25]",
+              "ko": "[+21.25; +25]"
+            },
+            "nameColor": "C15252",
+            "valueColor": "C15252"
+          }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.art.jarka_plamya.description",
+        "args": {},
+        "lines": {
+          "ru": "Очевидно, что «Жар-Птица» имеет органическое происхождение и состоит преимущественно из дерева. Однако все попытки НИИ-7 исследовать материал оказались безуспешными, так как при малейшем повреждении артефакт мгновенно воспламеняется и сгорает за считанные секунды.\\n\\nНа зарубежных рынках чаще всего продается под названием «Феникс».",
+          "en": "It is evident that the Firebird has an organic origin and consists predominantly of wood. However, all attempts by Research Institute 7 to study the material have been unsuccessful, as the artifact ignites and burns to ashes within seconds when even slightly damaged.\\n\\n In foreign markets, it is most commonly sold under the name Phoenix.",
+          "es": "Es evidente que Ave llameante es de origen orgánico y está compuesto principalmente de madera. Sin embargo, todos los intentos del Instituto de Investigación 7 de analizar el material fueron infructuosos, ya que al menor daño el artefacto se enciende instantáneamente y arde en cuestión de segundos.\\n\\n En los mercados extranjeros se suele vender con el nombre de Fénix.",
+          "fr": "Il est évident que l\u0027Oiseau de feu est d\u0027origine organique et se compose principalement de bois. Toutefois, toutes les tentatives de l\u0027Institut de Recherche 7 pour analyser sa matière ont échoué : à la moindre altération, l\u0027artefact s\u0027enflamme et se réduit en cendres en quelques secondes.\\n\\n\\n\\nSur les marchés étrangers, il est généralement vendu sous le nom de Phénix.",
+          "ko": "붉은 꾀꼬리는 명백히 유기적 기원을 지니며, 주로 목질 성분으로 이루어진 것으로 보인다. 그러나 제 7 연구소의 모든 분석 시도는 실패로 끝났다. 아티팩트가 조금이라도 손상될 경우, 몇 초 만에 불길에 휩싸여 재로 변해버리기 때문이다.\\n\\n해외 시장에서는 주로 피닉스라는 이름으로 유통되고 있다."
+        }
+      }
+    }
+  ]
+}

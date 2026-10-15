@@ -1,0 +1,423 @@
+{
+  "id": "9nd0",
+  "category": "artefact/electrophysical",
+  "name": {
+    "type": "translation",
+    "key": "item.art.electra_crystal.name",
+    "args": {},
+    "lines": {
+      "ru": "Призрачный кристалл",
+      "en": "Spectral Crystal",
+      "es": "Cristal espectral",
+      "fr": "Cristal Spectral",
+      "ko": "스펙트럼 수정"
+    }
+  },
+  "color": "DEFAULT",
+  "status": {
+    "state": "NON_DROP"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.electrophysical",
+            "args": {},
+            "lines": {
+              "ru": "Электрофизические",
+              "en": "Electrophysical",
+              "es": "Electrofísica",
+              "fr": "Électrophysique",
+              "ko": "전기물리"
+            }
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "core.tooltip.info.weight",
+            "args": {},
+            "lines": {
+              "ru": "Вес",
+              "en": "Weight",
+              "es": "Peso",
+              "fr": "Poids",
+              "ko": "무게"
+            }
+          },
+          "value": 0.3,
+          "formatted": {
+            "value": {
+              "ru": "0,3 кг",
+              "en": "0.3 kg",
+              "es": "0,3 kg",
+              "fr": "0,3 kg",
+              "ko": "0.3 kg"
+            },
+            "nameColor": "838383",
+            "valueColor": "838383"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "core.tooltip.info.base_price",
+            "args": {},
+            "lines": {
+              "ru": "Базовая цена продажи",
+              "en": "Base selling price",
+              "es": "Precio de venta base",
+              "fr": "Prix de vente de base",
+              "ko": "기본 판매 가격"
+            }
+          },
+          "value": 1900.0,
+          "formatted": {
+            "value": {
+              "ru": "1 900 руб.",
+              "en": "1,900 rubles",
+              "es": "1.900 rublos",
+              "fr": "1 900 roubles",
+              "ko": "1,900 루블"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.quality.common",
+            "args": {},
+            "lines": {
+              "ru": "Обычный",
+              "en": "Common",
+              "es": "Común",
+              "fr": "Commun",
+              "ko": "일반"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.not_probed",
+            "args": {},
+            "lines": {
+              "ru": "Не исследовано",
+              "en": "Not studied",
+              "es": "No estudiado",
+              "fr": "Non étudié",
+              "ko": "연구되지 않음"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.info.freshness",
+            "args": {},
+            "lines": {
+              "ru": "Свежесть",
+              "en": "Freshness",
+              "es": "Frescura",
+              "fr": "Fraîcheur",
+              "ko": "품질"
+            }
+          },
+          "value": {
+            "type": "text",
+            "text": "III"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.info.durability",
+            "args": {},
+            "lines": {
+              "ru": "Заряд",
+              "en": "Charge",
+              "es": "Carga",
+              "fr": "Charge",
+              "ko": "충전"
+            }
+          },
+          "value": 100.0,
+          "formatted": {
+            "value": {
+              "ru": "100%",
+              "en": "100%",
+              "es": "100 %",
+              "fr": "100%",
+              "ko": "100%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.info.max_durability",
+            "args": {},
+            "lines": {
+              "ru": "Макс. заряд",
+              "en": "Max. charge",
+              "es": "Carga máx.",
+              "fr": "Charge maximale",
+              "ko": "최대 충전량"
+            }
+          },
+          "value": 100.0,
+          "formatted": {
+            "value": {
+              "ru": "100%",
+              "en": "100%",
+              "es": "100 %",
+              "fr": "100%",
+              "ko": "100%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.health_bonus",
+            "args": {},
+            "lines": {
+              "ru": "Живучесть",
+              "en": "Vitality",
+              "es": "Vitalidad",
+              "fr": "Vitalité",
+              "ko": "생명력"
+            }
+          },
+          "min": -8.0,
+          "max": -6.8,
+          "formatted": {
+            "value": {
+              "ru": "[-8%; -6,8%]",
+              "en": "[-8%; -6.8%]",
+              "es": "[-8 %; -6,8 %]",
+              "fr": "[-8%; -6,8%]",
+              "ko": "[-8%; -6.8%]"
+            },
+            "nameColor": "C15252",
+            "valueColor": "C15252"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.stamina_regeneration_bonus",
+            "args": {},
+            "lines": {
+              "ru": "Восстановление выносливости",
+              "en": "Stamina recovery",
+              "es": "Recuperación de aguante",
+              "fr": "Récupération d\u0027endurance",
+              "ko": "스태미나 재생"
+            }
+          },
+          "min": 1.8785001,
+          "max": 2.21,
+          "formatted": {
+            "value": {
+              "ru": "[+1,88%; +2,21%]",
+              "en": "[+1.88%; +2.21%]",
+              "es": "[+1,88 %; +2,21 %]",
+              "fr": "[+1,88%; +2,21%]",
+              "ko": "[+1.88%; +2.21%]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.psycho_protection",
+            "args": {},
+            "lines": {
+              "ru": "Защита от пси-излучения",
+              "en": "Psy-emission protection",
+              "es": "Prot contra emisiones psy",
+              "fr": "Protection contre les émissions psys",
+              "ko": "정신파 에미션 보호"
+            }
+          },
+          "min": 22.1,
+          "max": 26.0,
+          "formatted": {
+            "value": {
+              "ru": "[+22,1; +26]",
+              "en": "[+22.1; +26]",
+              "es": "[+22,1; +26]",
+              "fr": "[+22,1; +26]",
+              "ko": "[+22.1; +26]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.psycho_accumulation",
+            "args": {},
+            "lines": {
+              "ru": "Пси-излучение",
+              "en": "Psyonics",
+              "es": "Emisiones psy",
+              "fr": "Émissions psys",
+              "ko": "정신파 에미션"
+            }
+          },
+          "min": -56.160004,
+          "max": -47.736,
+          "formatted": {
+            "value": {
+              "ru": "[-56,16; -47,74]",
+              "en": "[-56.16; -47.74]",
+              "es": "[-56,16; -47,74]",
+              "fr": "[-56,16; -47,74]",
+              "ko": "[-56.16; -47.74]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.reaction_to_electroshock",
+            "args": {},
+            "lines": {
+              "ru": "Реакция на электричество",
+              "en": "Reaction to electricity",
+              "es": "Reacción a la electricidad",
+              "fr": "Réaction à l\u0027électricité",
+              "ko": "전기 대항"
+            }
+          },
+          "min": 0.9945,
+          "max": 1.17,
+          "formatted": {
+            "value": {
+              "ru": "[+0,99%; +1,17%]",
+              "en": "[+0.99%; +1.17%]",
+              "es": "[+0,99 %; +1,17 %]",
+              "fr": "[+0,99%; +1,17%]",
+              "ko": "[+0.99%; +1.17%]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.art.electra_crystal.description",
+        "args": {},
+        "lines": {
+          "ru": "Полупрозрачный голубой кристалл, образующийся в аномалии «Разряд».\\n\\nУченые НИИ-7, изучавшие артефакт, так и не пришли к однозначному вердикту относительно химического состава образования – большинство из образцов «Призрачного кристалла» имели значительные отличия в составе.",
+          "en": "A semi-transparent blue crystal formed in Discharge anomaly.\\n\\n The scientists from Research Institute 7 who studied the artifact never reached a definitive conclusion regarding its chemical composition. Most samples of the Spectral Crystal showed significant differences in their composition.",
+          "es": "En la anomalía Descarga se formó un cristal azul translúcido.\\n\\n Los científicos del Instituto de Investigación 7 que estudiaron el artefacto nunca llegaron a un veredicto definitivo sobre la composición química de la formación: la mayoría de las muestras de Cristal espectral presentaban diferencias significativas en su composición.",
+          "fr": "Un cristal bleu semi-transparent formé dans l\u0027anomalie Décharge.\\n\\nLes scientifiques de l\u0027Institut de Recherche 7 qui ont étudié l\u0027artéfact n\u0027ont jamais abouti à un verdict clair concernant la composition chimique de la formation – la plupart des échantillons du Cristal Spectral présentaient des différences significatives dans leur composition.",
+          "ko": "방출 이상 현상 속에서 형성된 반투명한 푸른 수정.\\n\\n이 아티팩트를 연구한 제 7 연구소의 과학자들은 그 화학적 조성에 대해 명확한 결론을 내리지 못했다. 스펙트럼 수정의 대부분 시료는 서로 상당히 다른 성분 구성을 보였다."
+        }
+      }
+    }
+  ]
+}

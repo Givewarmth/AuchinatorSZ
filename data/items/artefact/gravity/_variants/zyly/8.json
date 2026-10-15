@@ -1,0 +1,395 @@
+{
+  "id": "zyly",
+  "category": "artefact/gravity",
+  "name": {
+    "type": "translation",
+    "key": "item.art.trampoline_meduza.name",
+    "args": {},
+    "lines": {
+      "ru": "Цибуля",
+      "en": "Onion",
+      "es": "Cebolla",
+      "fr": "Oignon",
+      "ko": "양파"
+    }
+  },
+  "color": "DEFAULT",
+  "status": {
+    "state": "NON_DROP"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.gravity",
+            "args": {},
+            "lines": {
+              "ru": "Гравитационные",
+              "en": "Gravitational",
+              "es": "Gravitacional",
+              "fr": "Gravitationnelle",
+              "ko": "중력"
+            }
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "core.tooltip.info.weight",
+            "args": {},
+            "lines": {
+              "ru": "Вес",
+              "en": "Weight",
+              "es": "Peso",
+              "fr": "Poids",
+              "ko": "무게"
+            }
+          },
+          "value": 0.3,
+          "formatted": {
+            "value": {
+              "ru": "0,3 кг",
+              "en": "0.3 kg",
+              "es": "0,3 kg",
+              "fr": "0,3 kg",
+              "ko": "0.3 kg"
+            },
+            "nameColor": "838383",
+            "valueColor": "838383"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "core.tooltip.info.base_price",
+            "args": {},
+            "lines": {
+              "ru": "Базовая цена продажи",
+              "en": "Base selling price",
+              "es": "Precio de venta base",
+              "fr": "Prix de vente de base",
+              "ko": "기본 판매 가격"
+            }
+          },
+          "value": 1700.0,
+          "formatted": {
+            "value": {
+              "ru": "1 700 руб.",
+              "en": "1,700 rubles",
+              "es": "1.700 rublos",
+              "fr": "1 700 roubles",
+              "ko": "1,700 루블"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.quality.common",
+            "args": {},
+            "lines": {
+              "ru": "Обычный",
+              "en": "Common",
+              "es": "Común",
+              "fr": "Commun",
+              "ko": "일반"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.not_probed",
+            "args": {},
+            "lines": {
+              "ru": "Не исследовано",
+              "en": "Not studied",
+              "es": "No estudiado",
+              "fr": "Non étudié",
+              "ko": "연구되지 않음"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.info.freshness",
+            "args": {},
+            "lines": {
+              "ru": "Свежесть",
+              "en": "Freshness",
+              "es": "Frescura",
+              "fr": "Fraîcheur",
+              "ko": "품질"
+            }
+          },
+          "value": {
+            "type": "text",
+            "text": "III"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.info.durability",
+            "args": {},
+            "lines": {
+              "ru": "Заряд",
+              "en": "Charge",
+              "es": "Carga",
+              "fr": "Charge",
+              "ko": "충전"
+            }
+          },
+          "value": 100.0,
+          "formatted": {
+            "value": {
+              "ru": "100%",
+              "en": "100%",
+              "es": "100 %",
+              "fr": "100%",
+              "ko": "100%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.info.max_durability",
+            "args": {},
+            "lines": {
+              "ru": "Макс. заряд",
+              "en": "Max. charge",
+              "es": "Carga máx.",
+              "fr": "Charge maximale",
+              "ko": "최대 충전량"
+            }
+          },
+          "value": 100.0,
+          "formatted": {
+            "value": {
+              "ru": "100%",
+              "en": "100%",
+              "es": "100 %",
+              "fr": "100%",
+              "ko": "100%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.stamina_bonus",
+            "args": {},
+            "lines": {
+              "ru": "Выносливость",
+              "en": "Stamina",
+              "es": "Aguante",
+              "fr": "Endurance",
+              "ko": "스태미나"
+            }
+          },
+          "min": 10.944601,
+          "max": 12.876,
+          "formatted": {
+            "value": {
+              "ru": "[+10,94%; +12,88%]",
+              "en": "[+10.94%; +12.88%]",
+              "es": "[+10,94 %; +12,88 %]",
+              "fr": "[+10,94%; +12,88%]",
+              "ko": "[+10.94%; +12.88%]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.bullet_dmg_factor",
+            "args": {},
+            "lines": {
+              "ru": "Пулестойкость",
+              "en": "Bullet resistance",
+              "es": "Resistencia a las balas",
+              "fr": "Résistance aux balles",
+              "ko": "총탄 저항율"
+            }
+          },
+          "min": 4.8314,
+          "max": 5.684,
+          "formatted": {
+            "value": {
+              "ru": "[+4,83; +5,68]",
+              "en": "[+4.83; +5.68]",
+              "es": "[+4,83; +5,68]",
+              "fr": "[+4,83; +5,68]",
+              "ko": "[+4.83; +5.68]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.radiation_accumulation",
+            "args": {},
+            "lines": {
+              "ru": "Радиация",
+              "en": "Radiation",
+              "es": "Radiación",
+              "fr": "Radiation",
+              "ko": "방사능"
+            }
+          },
+          "min": 10.625,
+          "max": 12.5,
+          "formatted": {
+            "value": {
+              "ru": "[+10,62; +12,5]",
+              "en": "[+10.62; +12.5]",
+              "es": "[+10,62; +12,5]",
+              "fr": "[+10,62; +12,5]",
+              "ko": "[+10.62; +12.5]"
+            },
+            "nameColor": "C15252",
+            "valueColor": "C15252"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.psycho_accumulation",
+            "args": {},
+            "lines": {
+              "ru": "Пси-излучение",
+              "en": "Psyonics",
+              "es": "Emisiones psy",
+              "fr": "Émissions psys",
+              "ko": "정신파 에미션"
+            }
+          },
+          "min": -29.696,
+          "max": -25.241602,
+          "formatted": {
+            "value": {
+              "ru": "[-29,7; -25,24]",
+              "en": "[-29.7; -25.24]",
+              "es": "[-29,7; -25,24]",
+              "fr": "[-29,7; -25,24]",
+              "ko": "[-29.7; -25.24]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.art.trampoline_meduza.description",
+        "args": {},
+        "lines": {
+          "ru": "«Цибуля», прозванная так за частичное сходство с обыкновенной луковицей, интересует ученых, занятых изучением флоры и фауны Зоны. Согласно исследованиям структуры артефакта, значительная его часть состоит из живых клеток, имеющих одновременно признаки четырех царств.\\n\\nПрофессор Саланчак, который занимается изучением вопроса, утверждает, что такое аномальное объединение свойств может представлять потенциальную опасность для всех существующих видов живых организмов. Он также отмечает, что единственным сдерживающим фактором дальнейшего распространения «нового царства» является быстрая гибель таких клеток за пределами Зоны.",
+          "en": "The Onion, named for its partial resemblance to a common onion bulb, has drawn the attention of scientists studying the Zone\u0027s flora and fauna. Structural analysis of the artifact reveals that a significant portion of it consists of living cells with characteristics of four biological kingdoms simultaneously.\\n\\n Professor Salanchak, who is studying the issue, warns that such an anomalous combination of properties could pose a potential threat to all existing species of living organisms. He also notes that the only factor keeping this \"new kingdom\" in check is the rapid death of such cells outside the Zone.",
+          "es": "Cebolla, apodada así por su parecido parcial con una bombilla corriente, es de interés para los científicos que estudian la flora y la fauna de la Zona. Según los estudios realizados sobre la estructura del artefacto, una parte significativa del mismo está formada por células vivas que presentan simultáneamente características de los cuatro reinos.\\n\\n El profesor Salanchak, que se dedica a estudiar la cuestión, afirma que una asociación tan anómala de propiedades podría suponer un peligro potencial para todas las especies existentes de organismos vivos. También señala que el único freno a la propagación del nuevo reino es la rápida muerte de tales células fuera de la Zona.",
+          "fr": "Nommé ainsi en raison de sa ressemblance partielle avec un bulbe d\u0027oignon, cet artefact intrigue les scientifiques étudiant la flore et la faune de la Zone. Des études ont révélé qu\u0027une grande partie de sa structure est composée de cellules vivantes présentant simultanément les caractéristiques de quatre règnes biologiques.\\n\\n Le professeur Salanchak, qui étudie ce phénomène, affirme qu\u0027une telle combinaison anormale de propriétés pourrait représenter un danger potentiel pour toutes les espèces vivantes existantes. Il note également que le principal facteur limitant la propagation de ce nouveau règne est la mort rapide de ces cellules en dehors de la Zone.",
+          "ko": "양파 구근과 비슷하게 생겨 양파라 불리게 된 이 아티팩트는 구역의 동식물을 연구하는 과학자들의 관심을 끈다. 아티팩트 구조에 대한 연구에 따르면 양파의 대부분이 4가지 생물 계의 특성을 동시에 지닌 살아있는 세포로 이루어져있다.\\n\\n해당 주제에 대해 연구하는 살란차크 교수는 이러한 특성의 이상 조합은 모든 살아있는 생물체에 위협이 될 우려가 있다고 확신한다. 또한 그는 \"새로운 생물계\"가 퍼지는 데 방해되는 초기 요인으로 이러한 세포들은 구역 외부로 나가는 즉시 사멸한다는 사실을 꼽았다."
+        }
+      }
+    }
+  ]
+}

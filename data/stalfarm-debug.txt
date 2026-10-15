@@ -1,0 +1,46 @@
+🚀 Диагностика stalfarm.com
+📄 Открываю https://www.stalfarm.com/crafts/
+📊 Изначально на странице .calcbtn: 50
+   Скролл 1: 50 рецептов
+   Скролл 2: 50 рецептов
+   Скролл 3: 50 рецептов
+   Скролл 4: 50 рецептов
+   Скролл 5: 50 рецептов
+   Скролл 6: 50 рецептов
+   Скролл 7: 50 рецептов
+   Скролл 8: 50 рецептов
+   Скролл 9: 50 рецептов
+   Скролл 10: 50 рецептов
+   Скролл 11: 50 рецептов
+   Скролл 12: 50 рецептов
+   Скролл 13: 50 рецептов
+   Скролл 14: 50 рецептов
+   Скролл 15: 50 рецептов
+
+🔘 Кнопки "показать ещё": [{"text":"M18 Claymoreстраница →","tag":"A","cls":"itemlink"}]
+
+🔗 Ссылки пагинации: [
+  {
+    "text": "ВПЕРЁД →",
+    "href": "https://www.stalfarm.com/crafts/?page=2"
+  }
+]
+
+📝 Debug .perk: {
+  "hasRow": true,
+  "hasPerk": true,
+  "perkInnerText": "САМОГОНОВАРЕНИЕ · УР. 5",
+  "perkTextContent": "Самогоноварение · ур. 5",
+  "perkHTML": "<span class=\"perk\" title=\"нужен навык убежища этого уровня\">Самогоноварение · ур. 5</span>",
+  "typeInnerText": "Алкоголь",
+  "typeTextContent": "Алкоголь"
+}
+
+📊 Итог: .calcbtn = 50, tr.datarow = 50
+
+🌐 Всего запросов (без картинок): 4
+
+Уникальные URL запросов:
+   https://www.stalfarm.com/crafts/
+   https://www.stalfarm.com/static/site.webmanifest
+   https://www.stalfarm.com/emission/state/

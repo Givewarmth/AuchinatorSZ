@@ -1,0 +1,513 @@
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: "Segoe UI", system-ui, sans-serif;
+  background: #0e1116;
+  color: #e6e8eb;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* ============ Топбар ============ */
+
+.topbar {
+  padding: 14px 20px;
+  display: flex;
+  align-items: center;
+  background: #151a22;
+  border-bottom: 1px solid #232a35;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.topbar h1 {
+  font-size: 17px;
+  margin: 0;
+  letter-spacing: 0.5px;
+  white-space: nowrap;
+}
+
+.badge {
+  display: inline-block;
+  background: #2f7df6;
+  color: #fff;
+  font-size: 11px;
+  padding: 2px 8px;
+  border-radius: 10px;
+  margin-left: 6px;
+  vertical-align: middle;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.category-filter { min-width: 180px; }
+
+.search-wrap {
+  position: relative;
+  flex: 1;
+  min-width: 200px;
+  max-width: 400px;
+}
+
+.search-wrap input { width: 100%; }
+
+.price-filter {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 12px;
+  color: #8a94a6;
+  white-space: nowrap;
+}
+
+.price-filter input {
+  width: 110px;
+  padding: 6px 8px;
+  font-size: 13px;
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+.price-filter .currency {
+  color: #6a7486;
+  font-size: 14px;
+}
+
+.controls {
+  display: flex;
+  gap: 8px;
+  margin-left: auto;
+}
+
+/* ============ Информационная строка ============ */
+
+.info-strip {
+  display: flex;
+  gap: 20px;
+  padding: 8px 20px;
+  background: #0f141a;
+  border-bottom: 1px solid #1c222c;
+  font-size: 12px;
+  color: #8a94a6;
+}
+
+.info-strip strong { color: #b7c0cc; font-weight: 600; }
+
+/* ============ Базовые элементы ============ */
+
+input, select, button {
+  background: #1c222c;
+  border: 1px solid #2a3340;
+  color: #e6e8eb;
+  padding: 8px 12px;
+  border-radius: 6px;
+  font-size: 14px;
+  outline: none;
+}
+
+input:focus, select:focus {
+  border-color: #2f7df6;
+}
+
+button {
+  background: #2f7df6;
+  border-color: #2f7df6;
+  cursor: pointer;
+  font-weight: 500;
+}
+
+button:hover { background: #4a90ff; }
+
+.btn-secondary {
+  background: #1c222c;
+  border-color: #2a3340;
+  color: #b7c0cc;
+}
+.btn-secondary:hover { background: #2a3340; }
+
+.btn-danger {
+  background: #4a2a2a;
+  border-color: #6a3a3a;
+  color: #fca5a5;
+}
+.btn-danger:hover { background: #6a3a3a; }
+
+/* ============ Основной макет ============ */
+
+main {
+  flex: 1;
+  display: flex;
+  padding: 16px;
+  overflow: hidden;
+}
+
+.panel {
+  flex: 1;
+  background: #151a22;
+  border: 1px solid #232a35;
+  border-radius: 10px;
+  padding: 16px;
+  overflow: auto;
+}
+
+.panel h2 {
+  margin: 0 0 12px;
+  font-size: 14px;
+  text-transform: uppercase;
+  color: #8a94a6;
+  letter-spacing: 1px;
+}
+
+.panel-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 12px;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.panel-head h2 { margin: 0; }
+
+/* ============ Фильтры ============ */
+
+.filters {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  font-size: 12px;
+  color: #8a94a6;
+}
+
+.filters label {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.filters select {
+  padding: 4px 8px;
+  font-size: 13px;
+  min-width: 150px;
+}
+
+/* ============ Таблица ============ */
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+}
+
+th, td {
+  text-align: left;
+  padding: 10px 8px;
+  border-bottom: 1px solid #232a35;
+  vertical-align: middle;
+}
+
+th {
+  color: #8a94a6;
+  font-weight: 500;
+  font-size: 12px;
+  text-transform: uppercase;
+  position: sticky;
+  top: -16px;
+  background: #151a22;
+  z-index: 2;
+}
+
+tr:hover td { background: #1a2029; }
+
+.profit-positive { color: #4cd964; }
+.profit-negative { color: #ff5f57; }
+.loading { text-align: center; color: #8a94a6; padding: 20px; }
+
+/* ============ Поиск - подсказки ============ */
+
+.suggestions {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  background: #1c222c;
+  border: 1px solid #2a3340;
+  border-radius: 6px;
+  margin: 4px 0 0;
+  padding: 4px 0;
+  list-style: none;
+  max-height: 480px;
+  overflow-y: auto;
+  z-index: 100;
+}
+
+.suggestions li {
+  padding: 8px 12px;
+  cursor: pointer;
+  font-size: 14px;
+  display: flex;
+  justify-content: space-between;
+  gap: 8px;
+  align-items: center;
+}
+
+.suggestions li:hover { background: #2a3340; }
+.suggestions .cat { color: #6a7486; font-size: 12px; }
+.hidden { display: none; }
+
+.sugg-header {
+  padding: 8px 12px;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: #8a94a6;
+  border-bottom: 1px solid #2a3340;
+  position: sticky;
+  top: 0;
+  background: #1c222c;
+  z-index: 1;
+}
+
+/* ============ Иконки предметов ============ */
+
+.icon-col { width: 48px; }
+
+.icon-cell {
+  width: 48px;
+  text-align: center;
+  padding: 4px 4px;
+}
+
+.item-icon {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+  vertical-align: middle;
+  filter: drop-shadow(0 1px 2px rgba(0,0,0,0.6));
+}
+
+/* ============ Числа и единицы ============ */
+
+.amount-cell {
+  font-variant-numeric: tabular-nums;
+  text-align: right;
+  width: 60px;
+  color: #b7c0cc;
+}
+
+.ptn-cell {
+  font-variant-numeric: tabular-nums;
+  text-align: center;
+  width: 50px;
+  color: #8ab4ff;
+  font-weight: 600;
+}
+
+.per-unit {
+  display: block;
+  color: #6a7486;
+  font-size: 11px;
+  font-weight: 400;
+  margin-top: 2px;
+}
+
+.bid-only {
+  display: block;
+  color: #ffa726;
+  font-size: 10px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+  margin-top: 2px;
+}
+
+.no-median {
+  display: inline-block;
+  color: #ffa726;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+}
+
+.deal-none {
+  color: #6a7486;
+  font-style: italic;
+}
+
+.var-badge {
+  display: inline-block;
+  background: #2a3340;
+  color: #8ab4ff;
+  font-size: 10px;
+  padding: 1px 6px;
+  border-radius: 8px;
+  margin-left: 6px;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+  vertical-align: middle;
+}
+
+/* ============ Цвет названия предмета по качеству ============ */
+
+.q-text-0 { color: #b8bfca; }
+.q-text-1 { color: #6ee7a1; }
+.q-text-2 { color: #7cb0ff; }
+.q-text-3 { color: #f9a8d4; }
+.q-text-4 { color: #fca5a5; }
+.q-text-5 { color: #fbd06a; }
+.q-text-6 { color: #c8a0ff; }
+.q-text-unknown { color: #b7c0cc; }
+
+/* ============ Скроллбар ============ */
+
+::-webkit-scrollbar { width: 10px; height: 10px; }
+::-webkit-scrollbar-track { background: #0e1116; }
+::-webkit-scrollbar-thumb { background: #2a3340; border-radius: 5px; }
+::-webkit-scrollbar-thumb:hover { background: #3a4350; }
+/* ============ Список предметов ============ */
+.items-list-view {
+  padding: 0;
+}
+
+.items-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.item-row {
+  display: grid;
+  grid-template-columns: 48px 1fr auto 24px;
+  gap: 12px;
+  align-items: center;
+  padding: 8px 12px;
+  border-bottom: 1px solid #232a35;
+  cursor: pointer;
+  transition: background 0.1s;
+}
+
+.item-row:hover {
+  background: #1a2029;
+}
+
+.item-row .item-icon {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+  filter: drop-shadow(0 1px 2px rgba(0,0,0,0.6));
+}
+
+.item-info {
+  min-width: 0;
+}
+
+.item-name {
+  font-size: 14px;
+  color: #e6e8eb;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.item-category {
+  font-size: 11px;
+  color: #6a7486;
+  margin-top: 2px;
+}
+
+.item-median {
+  font-size: 13px;
+  color: #b7c0cc;
+  font-variant-numeric: tabular-nums;
+  text-align: right;
+}
+
+.item-median .groups {
+  color: #6a7486;
+  font-size: 11px;
+  margin-left: 4px;
+}
+
+.item-arrow {
+  color: #4a5260;
+  font-size: 18px;
+  text-align: center;
+}
+
+.item-row:hover .item-arrow {
+  color: #2f7df6;
+}
+
+/* ============ Пагинация ============ */
+.pagination {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  padding: 12px 0 4px;
+  border-top: 1px solid #232a35;
+  margin-top: 12px;
+}
+
+.pagination button {
+  background: #1c222c;
+  border: 1px solid #2a3340;
+  color: #b7c0cc;
+  padding: 6px 10px;
+  border-radius: 4px;
+  font-size: 13px;
+  cursor: pointer;
+  min-width: 32px;
+}
+
+.pagination button:hover:not(:disabled) {
+  background: #2a3340;
+  color: #e6e8eb;
+}
+
+.pagination button:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+.page-numbers {
+  display: flex;
+  gap: 4px;
+  margin: 0 8px;
+}
+
+.page-num {
+  min-width: 36px;
+}
+
+.page-num.active {
+  background: #2f7df6;
+  border-color: #2f7df6;
+  color: #fff;
+  font-weight: 600;
+}
+
+.page-ellipsis {
+  padding: 6px 4px;
+  color: #4a5260;
+}
+
+/* ============ Заголовок с кнопкой Назад ============ */
+.panel-head {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 12px;
+  flex-wrap: wrap;
+}
+
+.panel-head h2 {
+  flex: 1;
+  margin: 0;
+}
+
+.panel-head .filters {
+  margin-left: auto;
+}

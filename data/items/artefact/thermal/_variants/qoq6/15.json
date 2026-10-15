@@ -1,0 +1,395 @@
+{
+  "id": "qoq6",
+  "category": "artefact/thermal",
+  "name": {
+    "type": "translation",
+    "key": "item.art.jarka_solnce.name",
+    "args": {},
+    "lines": {
+      "ru": "Солнце",
+      "en": "Sun",
+      "es": "Sol",
+      "fr": "Soleil",
+      "ko": "태양"
+    }
+  },
+  "color": "DEFAULT",
+  "status": {
+    "state": "NON_DROP"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.thermal",
+            "args": {},
+            "lines": {
+              "ru": "Термические",
+              "en": "Thermal",
+              "es": "Térmico",
+              "fr": "Thermique",
+              "ko": "열"
+            }
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "core.tooltip.info.weight",
+            "args": {},
+            "lines": {
+              "ru": "Вес",
+              "en": "Weight",
+              "es": "Peso",
+              "fr": "Poids",
+              "ko": "무게"
+            }
+          },
+          "value": 0.2,
+          "formatted": {
+            "value": {
+              "ru": "0,2 кг",
+              "en": "0.2 kg",
+              "es": "0,2 kg",
+              "fr": "0,2 kg",
+              "ko": "0.2 kg"
+            },
+            "nameColor": "838383",
+            "valueColor": "838383"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "core.tooltip.info.base_price",
+            "args": {},
+            "lines": {
+              "ru": "Базовая цена продажи",
+              "en": "Base selling price",
+              "es": "Precio de venta base",
+              "fr": "Prix de vente de base",
+              "ko": "기본 판매 가격"
+            }
+          },
+          "value": 32500.0,
+          "formatted": {
+            "value": {
+              "ru": "32 500 руб.",
+              "en": "32,500 rubles",
+              "es": "32.500 rublos",
+              "fr": "32 500 roubles",
+              "ko": "32,500 루블"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.quality.common",
+            "args": {},
+            "lines": {
+              "ru": "Обычный",
+              "en": "Common",
+              "es": "Común",
+              "fr": "Commun",
+              "ko": "일반"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.not_probed",
+            "args": {},
+            "lines": {
+              "ru": "Не исследовано",
+              "en": "Not studied",
+              "es": "No estudiado",
+              "fr": "Non étudié",
+              "ko": "연구되지 않음"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.info.freshness",
+            "args": {},
+            "lines": {
+              "ru": "Свежесть",
+              "en": "Freshness",
+              "es": "Frescura",
+              "fr": "Fraîcheur",
+              "ko": "품질"
+            }
+          },
+          "value": {
+            "type": "text",
+            "text": "III"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.info.durability",
+            "args": {},
+            "lines": {
+              "ru": "Заряд",
+              "en": "Charge",
+              "es": "Carga",
+              "fr": "Charge",
+              "ko": "충전"
+            }
+          },
+          "value": 100.0,
+          "formatted": {
+            "value": {
+              "ru": "100%",
+              "en": "100%",
+              "es": "100 %",
+              "fr": "100%",
+              "ko": "100%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.info.max_durability",
+            "args": {},
+            "lines": {
+              "ru": "Макс. заряд",
+              "en": "Max. charge",
+              "es": "Carga máx.",
+              "fr": "Charge maximale",
+              "ko": "최대 충전량"
+            }
+          },
+          "value": 100.0,
+          "formatted": {
+            "value": {
+              "ru": "100%",
+              "en": "100%",
+              "es": "100 %",
+              "fr": "100%",
+              "ko": "100%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.health_bonus",
+            "args": {},
+            "lines": {
+              "ru": "Живучесть",
+              "en": "Vitality",
+              "es": "Vitalidad",
+              "fr": "Vitalité",
+              "ko": "생명력"
+            }
+          },
+          "min": 2.0995,
+          "max": 2.4699998,
+          "formatted": {
+            "value": {
+              "ru": "[+2,1%; +2,47%]",
+              "en": "[+2.1%; +2.47%]",
+              "es": "[+2,1 %; +2,47 %]",
+              "fr": "[+2,1%; +2,47%]",
+              "ko": "[+2.1%; +2.47%]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.regeneration_bonus",
+            "args": {},
+            "lines": {
+              "ru": "Регенерация здоровья",
+              "en": "Health regeneration",
+              "es": "Regeneración de salud",
+              "fr": "Régénération de la santé",
+              "ko": "체력 회복력"
+            }
+          },
+          "min": 1.768,
+          "max": 2.08,
+          "formatted": {
+            "value": {
+              "ru": "[+1,77%; +2,08%]",
+              "en": "[+1.77%; +2.08%]",
+              "es": "[+1,77 %; +2,08 %]",
+              "fr": "[+1,77%; +2,08%]",
+              "ko": "[+1.77%; +2.08%]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.thermal_accumulation",
+            "args": {},
+            "lines": {
+              "ru": "Температура",
+              "en": "Temperature",
+              "es": "Temperatura",
+              "fr": "Température",
+              "ko": "열"
+            }
+          },
+          "min": 42.5,
+          "max": 50.0,
+          "formatted": {
+            "value": {
+              "ru": "[+42,5; +50]",
+              "en": "[+42.5; +50]",
+              "es": "[+42,5; +50]",
+              "fr": "[+42,5; +50]",
+              "ko": "[+42.5; +50]"
+            },
+            "nameColor": "C15252",
+            "valueColor": "C15252"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.reaction_to_burn",
+            "args": {},
+            "lines": {
+              "ru": "Реакция на ожог",
+              "en": "Reaction to burns",
+              "es": "Reacción a las quemaduras",
+              "fr": "Réaction aux brûlures",
+              "ko": "발화 대항"
+            }
+          },
+          "min": 1.2155,
+          "max": 1.43,
+          "formatted": {
+            "value": {
+              "ru": "[+1,22%; +1,43%]",
+              "en": "[+1.22%; +1.43%]",
+              "es": "[+1,22 %; +1,43 %]",
+              "fr": "[+1,22%; +1,43%]",
+              "ko": "[+1.22%; +1.43%]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.art.jarka_solnce.description",
+        "args": {},
+        "lines": {
+          "ru": "Артефакт представляет собой расплавленный материал неизвестного происхождения, который окружает заметно более холодное ядро.\\n\\nСфера покрыта тончайшим гравитационным полем, которое удерживает форму и не дает содержимому растечься, а ученым — пробраться внутрь.",
+          "en": "The artifact is a molten material of unknown origin that surrounds a noticeably colder core.\\n\\n The sphere is covered with a very thin gravitational field that maintains its shape and prevents its contents from spilling out, while also stopping scientists from getting inside.",
+          "es": "El artefacto es un material fundido de origen desconocido que rodea un núcleo notablemente más frío.\\n\\n La esfera está cubierta por un fino campo gravitatorio que mantiene la forma e impide que el contenido se extienda y que los científicos accedan al interior.",
+          "fr": "Artefact composé d\u0027une matière en fusion d\u0027origine inconnue, entourant un noyau nettement plus froid.\\n\\nLa sphère est enveloppée d\u0027un champ gravitationnel extrêmement fin qui maintient sa forme, empêche son contenu de s\u0027échapper et rend toute analyse interne impossible.",
+          "ko": "이 아티팩트는 정체 불명의 용융 물질로 이루어져 있으며, 그 중심에는 뚜렷하게 더 차가운 핵이 존재한다.\\n\\n이 구체는 매우 얇은 중력장으로 둘러싸여 있어 형태를 유지하며 내부 물질이 흘러나오는 것을 방지한다. 동시에 이 중력장은 과학자들이 내부를 조사하지 못하도록 막는 역할도 한다."
+        }
+      }
+    }
+  ]
+}

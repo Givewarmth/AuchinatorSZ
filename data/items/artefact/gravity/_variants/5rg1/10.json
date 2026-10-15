@@ -1,0 +1,367 @@
+{
+  "id": "5rg1",
+  "category": "artefact/gravity",
+  "name": {
+    "type": "translation",
+    "key": "item.art.trampoline_darkmeduza.name",
+    "args": {},
+    "lines": {
+      "ru": "Проклятая роза",
+      "en": "Cursed Rose",
+      "es": "Rosa maldita",
+      "fr": "Rose Maudite",
+      "ko": "저주받은 장미"
+    }
+  },
+  "color": "DEFAULT",
+  "status": {
+    "state": "NON_DROP"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.gravity",
+            "args": {},
+            "lines": {
+              "ru": "Гравитационные",
+              "en": "Gravitational",
+              "es": "Gravitacional",
+              "fr": "Gravitationnelle",
+              "ko": "중력"
+            }
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "core.tooltip.info.weight",
+            "args": {},
+            "lines": {
+              "ru": "Вес",
+              "en": "Weight",
+              "es": "Peso",
+              "fr": "Poids",
+              "ko": "무게"
+            }
+          },
+          "value": 0.3,
+          "formatted": {
+            "value": {
+              "ru": "0,3 кг",
+              "en": "0.3 kg",
+              "es": "0,3 kg",
+              "fr": "0,3 kg",
+              "ko": "0.3 kg"
+            },
+            "nameColor": "838383",
+            "valueColor": "838383"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "core.tooltip.info.base_price",
+            "args": {},
+            "lines": {
+              "ru": "Базовая цена продажи",
+              "en": "Base selling price",
+              "es": "Precio de venta base",
+              "fr": "Prix de vente de base",
+              "ko": "기본 판매 가격"
+            }
+          },
+          "value": 7200.0,
+          "formatted": {
+            "value": {
+              "ru": "7 200 руб.",
+              "en": "7,200 rubles",
+              "es": "7.200 rublos",
+              "fr": "7 200 roubles",
+              "ko": "7,200 루블"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.quality.common",
+            "args": {},
+            "lines": {
+              "ru": "Обычный",
+              "en": "Common",
+              "es": "Común",
+              "fr": "Commun",
+              "ko": "일반"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.not_probed",
+            "args": {},
+            "lines": {
+              "ru": "Не исследовано",
+              "en": "Not studied",
+              "es": "No estudiado",
+              "fr": "Non étudié",
+              "ko": "연구되지 않음"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.info.freshness",
+            "args": {},
+            "lines": {
+              "ru": "Свежесть",
+              "en": "Freshness",
+              "es": "Frescura",
+              "fr": "Fraîcheur",
+              "ko": "품질"
+            }
+          },
+          "value": {
+            "type": "text",
+            "text": "III"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.info.durability",
+            "args": {},
+            "lines": {
+              "ru": "Заряд",
+              "en": "Charge",
+              "es": "Carga",
+              "fr": "Charge",
+              "ko": "충전"
+            }
+          },
+          "value": 100.0,
+          "formatted": {
+            "value": {
+              "ru": "100%",
+              "en": "100%",
+              "es": "100 %",
+              "fr": "100%",
+              "ko": "100%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.info.max_durability",
+            "args": {},
+            "lines": {
+              "ru": "Макс. заряд",
+              "en": "Max. charge",
+              "es": "Carga máx.",
+              "fr": "Charge maximale",
+              "ko": "최대 충전량"
+            }
+          },
+          "value": 100.0,
+          "formatted": {
+            "value": {
+              "ru": "100%",
+              "en": "100%",
+              "es": "100 %",
+              "fr": "100%",
+              "ko": "100%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.bullet_dmg_factor",
+            "args": {},
+            "lines": {
+              "ru": "Пулестойкость",
+              "en": "Bullet resistance",
+              "es": "Resistencia a las balas",
+              "fr": "Résistance aux balles",
+              "ko": "총탄 저항율"
+            }
+          },
+          "min": 11.832001,
+          "max": 13.920001,
+          "formatted": {
+            "value": {
+              "ru": "[+11,83; +13,92]",
+              "en": "[+11.83; +13.92]",
+              "es": "[+11,83; +13,92]",
+              "fr": "[+11,83; +13,92]",
+              "ko": "[+11.83; +13.92]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.explosion_dmg_factor",
+            "args": {},
+            "lines": {
+              "ru": "Защита от взрыва",
+              "en": "Explosion protection",
+              "es": "Protección contra explosiones",
+              "fr": "Protection contre les explosions",
+              "ko": "폭발 저항율"
+            }
+          },
+          "min": 9.078,
+          "max": 10.68,
+          "formatted": {
+            "value": {
+              "ru": "[+9,08; +10,68]",
+              "en": "[+9.08; +10.68]",
+              "es": "[+9,08; +10,68]",
+              "fr": "[+9,08; +10,68]",
+              "ko": "[+9.08; +10.68]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.radiation_accumulation",
+            "args": {},
+            "lines": {
+              "ru": "Радиация",
+              "en": "Radiation",
+              "es": "Radiación",
+              "fr": "Radiation",
+              "ko": "방사능"
+            }
+          },
+          "min": 21.25,
+          "max": 25.0,
+          "formatted": {
+            "value": {
+              "ru": "[+21,25; +25]",
+              "en": "[+21.25; +25]",
+              "es": "[+21,25; +25]",
+              "fr": "[+21,25; +25]",
+              "ko": "[+21.25; +25]"
+            },
+            "nameColor": "C15252",
+            "valueColor": "C15252"
+          }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.art.trampoline_darkmeduza.description",
+        "args": {},
+        "lines": {
+          "ru": "Название этого артефакта связано с байкой, возникшей из-за одного скупщика, убеждавшего клиентов как можно скорее избавиться от «Проклятой розы», ведь та «аномальным образом притягивает неудачи».\\n\\nНесмотря на то, что коммерсанту почти удалось провернуть такую нехитрую аферу, спустя какое-то время беднягу нашли мертвым. Говорят, случайно упал с лестницы, пытаясь скрыться с артефактами от недовольных сталкеров.",
+          "en": "This artifact\u0027s name comes from a tale spun by a fence that was trying to convince his clients to dispose of the Cursed Rose as quickly as possible, claiming it \"unnaturally attracts misfortune.\"\\n\\n The merchant nearly pulled it off, but some time later, the poor fellow turned up dead. It\u0027s said he accidentally fell down the stairs trying to escape with the artifacts from some unhappy stalkers.",
+          "es": "El nombre de este artefacto procede de la historia de un perista que persuadió a sus clientes para que se deshicieran cuanto antes de la Rosa maldita, porque atrae la mala suerte de forma anómala.\\n\\n A pesar de que el mercader estuvo a punto de conseguir una estafa tan sencilla, tiempo después el pobre hombre fue encontrado muerto. Dicen que se cayó accidentalmente por las escaleras, intentando escapar con los artefactos de acechadores descontentos.",
+          "fr": "Le nom de cet artefact est lié à une histoire née d\u0027un acheteur qui persuadait ses clients de se débarrasser au plus vite de la Rose Maudite, car elle « attirait anormalement les malheurs ».\\n\\nBien que le commerçant ait presque réussi à réaliser cette escroquerie simple, il fut retrouvé mort quelque temps plus tard. On dit qu\u0027il est accidentellement tombé dans les escaliers en tentant de fuir avec les artefacts des stalkers mécontents.",
+          "ko": "해당 아티팩트의 이름은 의뢰인들이 \"불행을 가져오는\" 저주받은 장미를 한시 바삐 처분할 것을 요구했던 구매자에 대한 전설과 연관이 있다. \\n\\n상인의 간단한 속임수가 성공적인 듯 했으나, 이 불행한 사내는 결국 죽고 말았다. 그는 아티팩트들을 챙겨 성난 스토커들로부터 도망치다 계단에서 넘어졌다고 전해진다."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,423 @@
+{
+  "id": "gy06",
+  "category": "artefact/biochemical",
+  "name": {
+    "type": "translation",
+    "key": "item.art.puh_ej.name",
+    "args": {},
+    "lines": {
+      "ru": "Ершик",
+      "en": "Scrubber",
+      "es": "Acerina",
+      "fr": "Grémille",
+      "ko": "가시복"
+    }
+  },
+  "color": "DEFAULT",
+  "status": {
+    "state": "NON_DROP"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.biochemical",
+            "args": {},
+            "lines": {
+              "ru": "Биохимические",
+              "en": "Biochemical",
+              "es": "Bioquímica",
+              "fr": "Biochimique",
+              "ko": "생화학"
+            }
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "core.tooltip.info.weight",
+            "args": {},
+            "lines": {
+              "ru": "Вес",
+              "en": "Weight",
+              "es": "Peso",
+              "fr": "Poids",
+              "ko": "무게"
+            }
+          },
+          "value": 0.4,
+          "formatted": {
+            "value": {
+              "ru": "0,4 кг",
+              "en": "0.4 kg",
+              "es": "0,4 kg",
+              "fr": "0,4 kg",
+              "ko": "0.4 kg"
+            },
+            "nameColor": "838383",
+            "valueColor": "838383"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "core.tooltip.info.base_price",
+            "args": {},
+            "lines": {
+              "ru": "Базовая цена продажи",
+              "en": "Base selling price",
+              "es": "Precio de venta base",
+              "fr": "Prix de vente de base",
+              "ko": "기본 판매 가격"
+            }
+          },
+          "value": 35100.0,
+          "formatted": {
+            "value": {
+              "ru": "35 100 руб.",
+              "en": "35,100 rubles",
+              "es": "35.100 rublos",
+              "fr": "35 100 roubles",
+              "ko": "35,100 루블"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.quality.common",
+            "args": {},
+            "lines": {
+              "ru": "Обычный",
+              "en": "Common",
+              "es": "Común",
+              "fr": "Commun",
+              "ko": "일반"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.not_probed",
+            "args": {},
+            "lines": {
+              "ru": "Не исследовано",
+              "en": "Not studied",
+              "es": "No estudiado",
+              "fr": "Non étudié",
+              "ko": "연구되지 않음"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.info.freshness",
+            "args": {},
+            "lines": {
+              "ru": "Свежесть",
+              "en": "Freshness",
+              "es": "Frescura",
+              "fr": "Fraîcheur",
+              "ko": "품질"
+            }
+          },
+          "value": {
+            "type": "text",
+            "text": "III"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.info.durability",
+            "args": {},
+            "lines": {
+              "ru": "Заряд",
+              "en": "Charge",
+              "es": "Carga",
+              "fr": "Charge",
+              "ko": "충전"
+            }
+          },
+          "value": 100.0,
+          "formatted": {
+            "value": {
+              "ru": "100%",
+              "en": "100%",
+              "es": "100 %",
+              "fr": "100%",
+              "ko": "100%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.info.max_durability",
+            "args": {},
+            "lines": {
+              "ru": "Макс. заряд",
+              "en": "Max. charge",
+              "es": "Carga máx.",
+              "fr": "Charge maximale",
+              "ko": "최대 충전량"
+            }
+          },
+          "value": 100.0,
+          "formatted": {
+            "value": {
+              "ru": "100%",
+              "en": "100%",
+              "es": "100 %",
+              "fr": "100%",
+              "ko": "100%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.stamina_regeneration_bonus",
+            "args": {},
+            "lines": {
+              "ru": "Восстановление выносливости",
+              "en": "Stamina recovery",
+              "es": "Recuperación de aguante",
+              "fr": "Récupération d\u0027endurance",
+              "ko": "스태미나 재생"
+            }
+          },
+          "min": 2.7403998,
+          "max": 3.2239997,
+          "formatted": {
+            "value": {
+              "ru": "[+2,74%; +3,22%]",
+              "en": "[+2.74%; +3.22%]",
+              "es": "[+2,74 %; +3,22 %]",
+              "fr": "[+2,74%; +3,22%]",
+              "ko": "[+2.74%; +3.22%]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.heal_efficiency",
+            "args": {},
+            "lines": {
+              "ru": "Эффективность лечения",
+              "en": "Healing effectiveness",
+              "es": "Eficacia de curación",
+              "fr": "Efficacité des soins",
+              "ko": "치유 효율"
+            }
+          },
+          "min": 4.0664,
+          "max": 4.784,
+          "formatted": {
+            "value": {
+              "ru": "[+4,07%; +4,78%]",
+              "en": "[+4.07%; +4.78%]",
+              "es": "[+4,07 %; +4,78 %]",
+              "fr": "[+4,07%; +4,78%]",
+              "ko": "[+4.07%; +4.78%]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.radiation_accumulation",
+            "args": {},
+            "lines": {
+              "ru": "Радиация",
+              "en": "Radiation",
+              "es": "Radiación",
+              "fr": "Radiation",
+              "ko": "방사능"
+            }
+          },
+          "min": -26.623997,
+          "max": -22.630398,
+          "formatted": {
+            "value": {
+              "ru": "[-26,62; -22,63]",
+              "en": "[-26.62; -22.63]",
+              "es": "[-26,62; -22,63]",
+              "fr": "[-26,62; -22,63]",
+              "ko": "[-26.62; -22.63]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.biological_accumulation",
+            "args": {},
+            "lines": {
+              "ru": "Биологическое заражение",
+              "en": "Biological infection",
+              "es": "Infección biológica",
+              "fr": "Infection biologique",
+              "ko": "생체 감염"
+            }
+          },
+          "min": -44.928,
+          "max": -38.188805,
+          "formatted": {
+            "value": {
+              "ru": "[-44,93; -38,19]",
+              "en": "[-44.93; -38.19]",
+              "es": "[-44,93; -38,19]",
+              "fr": "[-44,93; -38,19]",
+              "ko": "[-44.93; -38.19]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.reaction_to_tear",
+            "args": {},
+            "lines": {
+              "ru": "Реакция на разрыв",
+              "en": "Reaction to laceration",
+              "es": "Reacción a la laceración",
+              "fr": "Réaction aux lacérations",
+              "ko": "열상 대항"
+            }
+          },
+          "min": 0.79559994,
+          "max": 0.93599993,
+          "formatted": {
+            "value": {
+              "ru": "[+0,8%; +0,94%]",
+              "en": "[+0.8%; +0.94%]",
+              "es": "[+0,8 %; +0,94 %]",
+              "fr": "[+0,8%; +0,94%]",
+              "ko": "[+0.8%; +0.94%]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.art.puh_ej.description",
+        "args": {},
+        "lines": {
+          "ru": "Серо-коричневая сфера, покрытая слоем грубых, одревесневших клеток, из которых в том числе состоят покрывающие артефакт наросты, создающие впечатление множества щелкающих клювов.\\n\\nСвечение, пробивающееся изнутри «Ершика», возникает вследствие сильной биолюминесценции растительных клеток.",
+          "en": "A gray-brown sphere covered in a layer of rough, lignified cells, from which the growths covering the artifact also consist, creating the impression of numerous clicking beaks.\\n\\n The glow emerging from within Scrubber is due to strong bioluminescence of plant cells.",
+          "es": "Una esfera de color marrón grisáceo recubierta de una capa de células rugosas y leñosas, que también forman las excrecencias que cubren el artefacto, dando la impresión de muchos picos chasqueantes.\\n\\n La luminiscencia que emana del interior de Acerina se debe a la fuerte bioluminiscencia de las células vegetales.",
+          "fr": "Sphère gris-brun recouverte d\u0027une couche de cellules rugueuses et lignifiées, formant des excroissances évoquant de nombreux becs claquants.\\n\\nLa lueur émanant de l\u0027intérieur de la Brosse résulte d\u0027une forte bioluminescence des cellules végétales.",
+          "ko": "아티팩트를 덮으면서 성장하는 거칠고 목질화된 세포층으로 덮인 회갈색 구체는 딸깍거리는 수많은 부리를 연상시킨다.\\n\\n가시복 안에서 나오는 빛은 식물 세포의 강력한 생물 발광 때문이다."
+        }
+      }
+    }
+  ]
+}

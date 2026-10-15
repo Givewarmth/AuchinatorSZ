@@ -1,0 +1,423 @@
+{
+  "id": "rn1z",
+  "category": "artefact/thermal",
+  "name": {
+    "type": "translation",
+    "key": "item.art.blizzard_opal.name",
+    "args": {},
+    "lines": {
+      "ru": "Опал",
+      "en": "Opal",
+      "es": "Ópalo",
+      "fr": "Opale",
+      "ko": "오팔"
+    }
+  },
+  "color": "DEFAULT",
+  "status": {
+    "state": "NON_DROP"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.thermal",
+            "args": {},
+            "lines": {
+              "ru": "Термические",
+              "en": "Thermal",
+              "es": "Térmico",
+              "fr": "Thermique",
+              "ko": "열"
+            }
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "core.tooltip.info.weight",
+            "args": {},
+            "lines": {
+              "ru": "Вес",
+              "en": "Weight",
+              "es": "Peso",
+              "fr": "Poids",
+              "ko": "무게"
+            }
+          },
+          "value": 0.3,
+          "formatted": {
+            "value": {
+              "ru": "0,3 кг",
+              "en": "0.3 kg",
+              "es": "0,3 kg",
+              "fr": "0,3 kg",
+              "ko": "0.3 kg"
+            },
+            "nameColor": "838383",
+            "valueColor": "838383"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "core.tooltip.info.base_price",
+            "args": {},
+            "lines": {
+              "ru": "Базовая цена продажи",
+              "en": "Base selling price",
+              "es": "Precio de venta base",
+              "fr": "Prix de vente de base",
+              "ko": "기본 판매 가격"
+            }
+          },
+          "value": 81325.0,
+          "formatted": {
+            "value": {
+              "ru": "81 325 руб.",
+              "en": "81,325 rubles",
+              "es": "81.325 rublos",
+              "fr": "81 325 roubles",
+              "ko": "81,325 루블"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.quality.common",
+            "args": {},
+            "lines": {
+              "ru": "Обычный",
+              "en": "Common",
+              "es": "Común",
+              "fr": "Commun",
+              "ko": "일반"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.not_probed",
+            "args": {},
+            "lines": {
+              "ru": "Не исследовано",
+              "en": "Not studied",
+              "es": "No estudiado",
+              "fr": "Non étudié",
+              "ko": "연구되지 않음"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.info.freshness",
+            "args": {},
+            "lines": {
+              "ru": "Свежесть",
+              "en": "Freshness",
+              "es": "Frescura",
+              "fr": "Fraîcheur",
+              "ko": "품질"
+            }
+          },
+          "value": {
+            "type": "text",
+            "text": "III"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.info.durability",
+            "args": {},
+            "lines": {
+              "ru": "Заряд",
+              "en": "Charge",
+              "es": "Carga",
+              "fr": "Charge",
+              "ko": "충전"
+            }
+          },
+          "value": 100.0,
+          "formatted": {
+            "value": {
+              "ru": "100%",
+              "en": "100%",
+              "es": "100 %",
+              "fr": "100%",
+              "ko": "100%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.info.max_durability",
+            "args": {},
+            "lines": {
+              "ru": "Макс. заряд",
+              "en": "Max. charge",
+              "es": "Carga máx.",
+              "fr": "Charge maximale",
+              "ko": "최대 충전량"
+            }
+          },
+          "value": 100.0,
+          "formatted": {
+            "value": {
+              "ru": "100%",
+              "en": "100%",
+              "es": "100 %",
+              "fr": "100%",
+              "ko": "100%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.health_bonus",
+            "args": {},
+            "lines": {
+              "ru": "Живучесть",
+              "en": "Vitality",
+              "es": "Vitalidad",
+              "fr": "Vitalité",
+              "ko": "생명력"
+            }
+          },
+          "min": -2.9,
+          "max": -2.4650002,
+          "formatted": {
+            "value": {
+              "ru": "[-2,9%; -2,47%]",
+              "en": "[-2.9%; -2.47%]",
+              "es": "[-2,9 %; -2,47 %]",
+              "fr": "[-2,9%; -2,47%]",
+              "ko": "[-2.9%; -2.47%]"
+            },
+            "nameColor": "C15252",
+            "valueColor": "C15252"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.stamina_bonus",
+            "args": {},
+            "lines": {
+              "ru": "Выносливость",
+              "en": "Stamina",
+              "es": "Aguante",
+              "fr": "Endurance",
+              "ko": "스태미나"
+            }
+          },
+          "min": 23.1336,
+          "max": 27.216,
+          "formatted": {
+            "value": {
+              "ru": "[+23,13%; +27,22%]",
+              "en": "[+23.13%; +27.22%]",
+              "es": "[+23,13 %; +27,22 %]",
+              "fr": "[+23,13%; +27,22%]",
+              "ko": "[+23.13%; +27.22%]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.bullet_dmg_factor",
+            "args": {},
+            "lines": {
+              "ru": "Пулестойкость",
+              "en": "Bullet resistance",
+              "es": "Resistencia a las balas",
+              "fr": "Résistance aux balles",
+              "ko": "총탄 저항율"
+            }
+          },
+          "min": 20.6703,
+          "max": 24.317999,
+          "formatted": {
+            "value": {
+              "ru": "[+20,67; +24,32]",
+              "en": "[+20.67; +24.32]",
+              "es": "[+20,67; +24,32]",
+              "fr": "[+20,67; +24,32]",
+              "ko": "[+20.67; +24.32]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.thermal_accumulation",
+            "args": {},
+            "lines": {
+              "ru": "Температура",
+              "en": "Temperature",
+              "es": "Temperatura",
+              "fr": "Température",
+              "ko": "열"
+            }
+          },
+          "min": -9.6768,
+          "max": -8.22528,
+          "formatted": {
+            "value": {
+              "ru": "[-9,68; -8,23]",
+              "en": "[-9.68; -8.23]",
+              "es": "[-9,68; -8,23]",
+              "fr": "[-9,68; -8,23]",
+              "ko": "[-9.68; -8.23]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.frost_accumulation",
+            "args": {},
+            "lines": {
+              "ru": "Холод",
+              "en": "Frost",
+              "es": "Congelación",
+              "fr": "Givre",
+              "ko": "서리"
+            }
+          },
+          "min": 17.0,
+          "max": 20.0,
+          "formatted": {
+            "value": {
+              "ru": "[+17; +20]",
+              "en": "[+17; +20]",
+              "es": "[+17; +20]",
+              "fr": "[+17; +20]",
+              "ko": "[+17; +20]"
+            },
+            "nameColor": "C15252",
+            "valueColor": "C15252"
+          }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.art.blizzard_opal.description",
+        "args": {},
+        "lines": {
+          "ru": "Как и артефакты, появляющиеся во время зимних аномальных Буранов, «Опал» состоит из видоизмененного льда, чья молекулярная структура была искажена аномальным воздействием.\\n\\nХарактерной чертой «Опала», особенно интересующей ученых, стало преломление света, проходящего через артефакт и пускающего по его поверхности определенную «рябь». Как подтверждают исследования сотрудников отделения изучения флоры и фауны, эти колебания света могут оказывать гипнотическое воздействие на большинство организмов со сложной высшей нервной деятельностью. Притом сама «рябь» меняется в зависимости от того, что за живой организм на нее смотрит.",
+          "en": "Like the artifacts that emerge during the anomalous winter Blizzards, the Opal is composed of altered ice whose molecular structure has been distorted by anomalous influence.\\n\\nThe Opal\u0027s most distinctive characteristic, and one of particular interest to scientists, is the way it refracts light, producing a peculiar shimmering ripple across its surface. Research conducted by the Institute\u0027s Department of Flora and Fauna has confirmed that these fluctuations of light can exert a hypnotic effect on most organisms possessing a complex higher nervous system. Moreover, the pattern of the shimmering changes depending on the living organism observing it.",
+          "es": "Al igual que los artefactos que aparecen durante las anomalías invernales conocidas como Buranes, el «Ópalo» está compuesto de hielo alterado, cuya estructura molecular ha sido deformada por la influencia anómala.\\n\\nLa característica más distintiva del «Ópalo», y la que más interesa a los científicos, es la forma en que refracta la luz que lo atraviesa, generando una peculiar «ondulación» sobre su superficie. Según las investigaciones realizadas por el Departamento de Estudio de Flora y Fauna, estas oscilaciones luminosas pueden ejercer un efecto hipnótico sobre la mayoría de los organismos con un sistema nervioso superior desarrollado. Lo más curioso es que dicha «ondulación» cambia en función del organismo vivo que la observa.",
+          "fr": "Comme les artefacts qui apparaissent lors des Blizzards anormaux hivernaux, l\u0027Opale est constituée de glace modifiée, dont la structure moléculaire a été déformée par une influence anormale.\\n\\nUne caractéristique propre à l\u0027Opale, qui intrigue particulièrement les scientifiques, est la manière dont elle réfracte la lumière qui la traverse, créant à sa surface une sorte d\u0027ondulation caractéristique. Comme le confirment les recherches menées par le département d\u0027étude de la flore et de la faune, ces variations lumineuses peuvent avoir un effet hypnotique sur la plupart des organismes dotés d\u0027une activité nerveuse supérieure complexe. Qui plus est, cette ondulation change selon l\u0027organisme vivant qui la regarde.",
+          "ko": "겨울 이상현상인 눈보라 발생 시 생성되는 다른 아티팩트와 마찬가지로, 오팔은 이상현상의 영향으로 분자 구조가 변형된 얼음으로 이루어져 있다.\\n\\n과학자들의 큰 관심을 끄는 \"오팔\"의 특징은 아티팩트를 통과한 빛이 표면에 독특한 \"물결무늬\"를 만들어 내며 굴절된다는 점이다. 동식물 연구 부서의 조사 결과에 따르면, 이러한 빛의 흔들림은 고등 신경계를 가진 대부분의 생물에게 최면과 유사한 영향을 미칠 수 있다. 또한 이 \"물결무늬\"는 이를 바라보는 생물의 종류에 따라 그 형태가 달라진다."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,423 @@
+{
+  "id": "kqr0",
+  "category": "artefact/electrophysical",
+  "name": {
+    "type": "translation",
+    "key": "item.art.electra_helium.name",
+    "args": {},
+    "lines": {
+      "ru": "Гелий",
+      "en": "Helium",
+      "es": "Helio",
+      "fr": "Hélium",
+      "ko": "헬륨"
+    }
+  },
+  "color": "DEFAULT",
+  "status": {
+    "state": "NON_DROP"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.electrophysical",
+            "args": {},
+            "lines": {
+              "ru": "Электрофизические",
+              "en": "Electrophysical",
+              "es": "Electrofísica",
+              "fr": "Électrophysique",
+              "ko": "전기물리"
+            }
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "core.tooltip.info.weight",
+            "args": {},
+            "lines": {
+              "ru": "Вес",
+              "en": "Weight",
+              "es": "Peso",
+              "fr": "Poids",
+              "ko": "무게"
+            }
+          },
+          "value": 0.1,
+          "formatted": {
+            "value": {
+              "ru": "0,1 кг",
+              "en": "0.1 kg",
+              "es": "0,1 kg",
+              "fr": "0,1 kg",
+              "ko": "0.1 kg"
+            },
+            "nameColor": "838383",
+            "valueColor": "838383"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "core.tooltip.info.base_price",
+            "args": {},
+            "lines": {
+              "ru": "Базовая цена продажи",
+              "en": "Base selling price",
+              "es": "Precio de venta base",
+              "fr": "Prix de vente de base",
+              "ko": "기본 판매 가격"
+            }
+          },
+          "value": 30300.0,
+          "formatted": {
+            "value": {
+              "ru": "30 300 руб.",
+              "en": "30,300 rubles",
+              "es": "30.300 rublos",
+              "fr": "30 300 roubles",
+              "ko": "30,300 루블"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.quality.common",
+            "args": {},
+            "lines": {
+              "ru": "Обычный",
+              "en": "Common",
+              "es": "Común",
+              "fr": "Commun",
+              "ko": "일반"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.not_probed",
+            "args": {},
+            "lines": {
+              "ru": "Не исследовано",
+              "en": "Not studied",
+              "es": "No estudiado",
+              "fr": "Non étudié",
+              "ko": "연구되지 않음"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.info.freshness",
+            "args": {},
+            "lines": {
+              "ru": "Свежесть",
+              "en": "Freshness",
+              "es": "Frescura",
+              "fr": "Fraîcheur",
+              "ko": "품질"
+            }
+          },
+          "value": {
+            "type": "text",
+            "text": "III"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.info.durability",
+            "args": {},
+            "lines": {
+              "ru": "Заряд",
+              "en": "Charge",
+              "es": "Carga",
+              "fr": "Charge",
+              "ko": "충전"
+            }
+          },
+          "value": 100.0,
+          "formatted": {
+            "value": {
+              "ru": "100%",
+              "en": "100%",
+              "es": "100 %",
+              "fr": "100%",
+              "ko": "100%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.info.max_durability",
+            "args": {},
+            "lines": {
+              "ru": "Макс. заряд",
+              "en": "Max. charge",
+              "es": "Carga máx.",
+              "fr": "Charge maximale",
+              "ko": "최대 충전량"
+            }
+          },
+          "value": 100.0,
+          "formatted": {
+            "value": {
+              "ru": "100%",
+              "en": "100%",
+              "es": "100 %",
+              "fr": "100%",
+              "ko": "100%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.speed_modifier",
+            "args": {},
+            "lines": {
+              "ru": "Скорость передвижения",
+              "en": "Movement speed",
+              "es": "Velocidad de movimiento",
+              "fr": "Vitesse de déplacement",
+              "ko": "이동 속도"
+            }
+          },
+          "min": 1.2155,
+          "max": 1.43,
+          "formatted": {
+            "value": {
+              "ru": "[+1,22%; +1,43%]",
+              "en": "[+1.22%; +1.43%]",
+              "es": "[+1,22 %; +1,43 %]",
+              "fr": "[+1,22%; +1,43%]",
+              "ko": "[+1.22%; +1.43%]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.sprint_speed_modifier",
+            "args": {},
+            "lines": {
+              "ru": "Скорость бега",
+              "en": "Running speed",
+              "es": "Velocidad de carrera",
+              "fr": "Vitesse de course",
+              "ko": "달리기 속도"
+            }
+          },
+          "min": 1.6575,
+          "max": 1.9499999,
+          "formatted": {
+            "value": {
+              "ru": "[+1,66%; +1,95%]",
+              "en": "[+1.66%; +1.95%]",
+              "es": "[+1,66 %; +1,95 %]",
+              "fr": "[+1,66%; +1,95%]",
+              "ko": "[+1.66%; +1.95%]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.regeneration_bonus",
+            "args": {},
+            "lines": {
+              "ru": "Регенерация здоровья",
+              "en": "Health regeneration",
+              "es": "Regeneración de salud",
+              "fr": "Régénération de la santé",
+              "ko": "체력 회복력"
+            }
+          },
+          "min": 1.768,
+          "max": 2.08,
+          "formatted": {
+            "value": {
+              "ru": "[+1,77%; +2,08%]",
+              "en": "[+1.77%; +2.08%]",
+              "es": "[+1,77 %; +2,08 %]",
+              "fr": "[+1,77%; +2,08%]",
+              "ko": "[+1.77%; +2.08%]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.stopping_protection",
+            "args": {},
+            "lines": {
+              "ru": "Стойкость",
+              "en": "Stability",
+              "es": "Estabilidad",
+              "fr": "Stabilité",
+              "ko": "안정성"
+            }
+          },
+          "min": 2.0995,
+          "max": 2.4699998,
+          "formatted": {
+            "value": {
+              "ru": "[+2,1%; +2,47%]",
+              "en": "[+2.1%; +2.47%]",
+              "es": "[+2,1 %; +2,47 %]",
+              "fr": "[+2,1%; +2,47%]",
+              "ko": "[+2.1%; +2.47%]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.biological_accumulation",
+            "args": {},
+            "lines": {
+              "ru": "Биологическое заражение",
+              "en": "Biological infection",
+              "es": "Infección biológica",
+              "fr": "Infection biologique",
+              "ko": "생체 감염"
+            }
+          },
+          "min": 42.5,
+          "max": 50.0,
+          "formatted": {
+            "value": {
+              "ru": "[+42,5; +50]",
+              "en": "[+42.5; +50]",
+              "es": "[+42,5; +50]",
+              "fr": "[+42,5; +50]",
+              "ko": "[+42.5; +50]"
+            },
+            "nameColor": "C15252",
+            "valueColor": "C15252"
+          }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.art.electra_helium.description",
+        "args": {},
+        "lines": {
+          "ru": "«Гелий» внешне напоминает «Дезинтегратор», помещенный в твердую прозрачную оболочку.\\n\\nНекоторые исследователи полагают, что между двумя артефактами есть явная связь, называя «Гелий» случаем более стабильного артефактогенеза «Дезинтегратора», однако, кроме внешнего сходства, не удалось обнаружить иных доказательств этой гипотезы.",
+          "en": "Helium externally resembles Disintegrator enclosed in a solid, transparent shell.\\n\\n Some researchers believe there is a clear connection between the two artifacts, calling Helium a more stable case of the Disintegrator artifactogenesis. However, aside from the external similarity, no other evidence of this hypothesis has been found.",
+          "es": "Helio se parece superficialmente a Desintegrador colocado en un caparazón duro y transparente.\\n\\n Algunos investigadores creen que existe una clara conexión entre los dos artefactos, calificando Helio como un caso de artefactogénesis más estable de Desintegrador, sin embargo, aparte de la similitud externa, no se ha podido encontrar ninguna otra prueba de esta hipótesis.",
+          "fr": "L\u0027Hélium ressemble extérieurement au Désintégrateur, enfermé dans une coque solide et transparente.\\n\\nCertains chercheurs estiment qu\u0027il existe un lien clair entre ces deux artefacts, qualifiant l\u0027Hélium de cas plus stable de l\u0027artefactogénèse du Désintégrateur. Cependant, en dehors de leur ressemblance extérieure, aucune autre preuve ne vient étayer cette hypothèse.",
+          "ko": "헬륨은 외형상 투명하고 단단한 외피에 둘러싸인 붕괴기와 매우 흡사하다.\\n\\n일부 연구원들은 두 아티팩트 사이에 명확한 연관성이 존재한다고 보고, 헬륨을 붕괴기의 더 안정적인 형태의 아티팩트 생성 사례로 간주한다. 그러나 외형상의 유사성을 제외하면, 이를 뒷받침할 다른 증거는 발견되지 않았다."
+        }
+      }
+    }
+  ]
+}

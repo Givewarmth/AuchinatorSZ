@@ -1,0 +1,423 @@
+{
+  "id": "qo06",
+  "category": "artefact/electrophysical",
+  "name": {
+    "type": "translation",
+    "key": "item.art.electra_transformator.name",
+    "args": {},
+    "lines": {
+      "ru": "Трансформатор",
+      "en": "Transformer",
+      "es": "Transformador",
+      "fr": "Transformateur",
+      "ko": "변압기"
+    }
+  },
+  "color": "DEFAULT",
+  "status": {
+    "state": "NON_DROP"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.electrophysical",
+            "args": {},
+            "lines": {
+              "ru": "Электрофизические",
+              "en": "Electrophysical",
+              "es": "Electrofísica",
+              "fr": "Électrophysique",
+              "ko": "전기물리"
+            }
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "core.tooltip.info.weight",
+            "args": {},
+            "lines": {
+              "ru": "Вес",
+              "en": "Weight",
+              "es": "Peso",
+              "fr": "Poids",
+              "ko": "무게"
+            }
+          },
+          "value": 0.1,
+          "formatted": {
+            "value": {
+              "ru": "0,1 кг",
+              "en": "0.1 kg",
+              "es": "0,1 kg",
+              "fr": "0,1 kg",
+              "ko": "0.1 kg"
+            },
+            "nameColor": "838383",
+            "valueColor": "838383"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "core.tooltip.info.base_price",
+            "args": {},
+            "lines": {
+              "ru": "Базовая цена продажи",
+              "en": "Base selling price",
+              "es": "Precio de venta base",
+              "fr": "Prix de vente de base",
+              "ko": "기본 판매 가격"
+            }
+          },
+          "value": 31900.0,
+          "formatted": {
+            "value": {
+              "ru": "31 900 руб.",
+              "en": "31,900 rubles",
+              "es": "31.900 rublos",
+              "fr": "31 900 roubles",
+              "ko": "31,900 루블"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.quality.common",
+            "args": {},
+            "lines": {
+              "ru": "Обычный",
+              "en": "Common",
+              "es": "Común",
+              "fr": "Commun",
+              "ko": "일반"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.not_probed",
+            "args": {},
+            "lines": {
+              "ru": "Не исследовано",
+              "en": "Not studied",
+              "es": "No estudiado",
+              "fr": "Non étudié",
+              "ko": "연구되지 않음"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.info.freshness",
+            "args": {},
+            "lines": {
+              "ru": "Свежесть",
+              "en": "Freshness",
+              "es": "Frescura",
+              "fr": "Fraîcheur",
+              "ko": "품질"
+            }
+          },
+          "value": {
+            "type": "text",
+            "text": "III"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.info.durability",
+            "args": {},
+            "lines": {
+              "ru": "Заряд",
+              "en": "Charge",
+              "es": "Carga",
+              "fr": "Charge",
+              "ko": "충전"
+            }
+          },
+          "value": 100.0,
+          "formatted": {
+            "value": {
+              "ru": "100%",
+              "en": "100%",
+              "es": "100 %",
+              "fr": "100%",
+              "ko": "100%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.info.max_durability",
+            "args": {},
+            "lines": {
+              "ru": "Макс. заряд",
+              "en": "Max. charge",
+              "es": "Carga máx.",
+              "fr": "Charge maximale",
+              "ko": "최대 충전량"
+            }
+          },
+          "value": 100.0,
+          "formatted": {
+            "value": {
+              "ru": "100%",
+              "en": "100%",
+              "es": "100 %",
+              "fr": "100%",
+              "ko": "100%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.stamina_bonus",
+            "args": {},
+            "lines": {
+              "ru": "Выносливость",
+              "en": "Stamina",
+              "es": "Aguante",
+              "fr": "Endurance",
+              "ko": "스태미나"
+            }
+          },
+          "min": 13.7053995,
+          "max": 16.123999,
+          "formatted": {
+            "value": {
+              "ru": "[+13,71%; +16,12%]",
+              "en": "[+13.71%; +16.12%]",
+              "es": "[+13,71 %; +16,12 %]",
+              "fr": "[+13,71%; +16,12%]",
+              "ko": "[+13.71%; +16.12%]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.max_weight_bonus",
+            "args": {},
+            "lines": {
+              "ru": "Переносимый вес",
+              "en": "Carry weight",
+              "es": "Peso de carga",
+              "fr": "Poids maximum supporté",
+              "ko": "최대 운반 무게"
+            }
+          },
+          "min": 6.409,
+          "max": 7.54,
+          "formatted": {
+            "value": {
+              "ru": "[+6,41; +7,54]",
+              "en": "[+6.41; +7.54]",
+              "es": "[+6,41; +7,54]",
+              "fr": "[+6,41; +7,54]",
+              "ko": "[+6.41; +7.54]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.biological_accumulation",
+            "args": {},
+            "lines": {
+              "ru": "Биологическое заражение",
+              "en": "Biological infection",
+              "es": "Infección biológica",
+              "fr": "Infection biologique",
+              "ko": "생체 감염"
+            }
+          },
+          "min": -29.696,
+          "max": -25.241602,
+          "formatted": {
+            "value": {
+              "ru": "[-29,7; -25,24]",
+              "en": "[-29.7; -25.24]",
+              "es": "[-29,7; -25,24]",
+              "fr": "[-29,7; -25,24]",
+              "ko": "[-29.7; -25.24]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.psycho_accumulation",
+            "args": {},
+            "lines": {
+              "ru": "Пси-излучение",
+              "en": "Psyonics",
+              "es": "Emisiones psy",
+              "fr": "Émissions psys",
+              "ko": "정신파 에미션"
+            }
+          },
+          "min": -50.112,
+          "max": -42.5952,
+          "formatted": {
+            "value": {
+              "ru": "[-50,11; -42,6]",
+              "en": "[-50.11; -42.6]",
+              "es": "[-50,11; -42,6]",
+              "fr": "[-50,11; -42,6]",
+              "ko": "[-50.11; -42.6]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.reaction_to_electroshock",
+            "args": {},
+            "lines": {
+              "ru": "Реакция на электричество",
+              "en": "Reaction to electricity",
+              "es": "Reacción a la electricidad",
+              "fr": "Réaction à l\u0027électricité",
+              "ko": "전기 대항"
+            }
+          },
+          "min": 1.0846001,
+          "max": 1.276,
+          "formatted": {
+            "value": {
+              "ru": "[+1,08%; +1,28%]",
+              "en": "[+1.08%; +1.28%]",
+              "es": "[+1,08 %; +1,28 %]",
+              "fr": "[+1,08%; +1,28%]",
+              "ko": "[+1.08%; +1.28%]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.art.electra_transformator.description",
+        "args": {},
+        "lines": {
+          "ru": "Электрофизический артефакт, по консистенции напоминающий упругое, но достаточно плотное желе с четкой структурой внутри.\\n\\nОсобенности «Трансформатора» до сих пор обсуждаются учеными, ведь материал артефакта способен не только восстанавливать любые деформации структуры в изначальное состояние, но и самостоятельно генерировать небольшие заряды тока.",
+          "en": "An electrophysical artifact, in consistency resembling an elastic but rather dense jelly with a clear internal structure.\\n\\n The features of the Transformer are still being discussed by scientists, as the artifact\u0027s material is capable not only of restoring any structural deformations to their original state but also of independently generating small electric charges.",
+          "es": "Un artefacto electrofísico con una consistencia parecida a una gelatina elástica pero bastante densa, con una estructura clara en su interior.\\n\\n Las peculiaridades de Transformador siguen siendo objeto de debate entre los científicos, ya que el material del artefacto no sólo es capaz de devolver cualquier deformación de la estructura a su estado original, sino también de generar por sí mismo pequeñas cargas de corriente.",
+          "fr": "Artefact électrophysique dont la consistance rappelle une gelée élastique mais dense, dotée d\u0027une structure interne bien définie.\\n\\nLes propriétés du Transformateur font encore l\u0027objet de débats parmi les scientifiques, car la matière de l\u0027artefact est capable non seulement de restaurer toute déformation structurelle à son état d\u0027origine, mais aussi de générer de manière autonome de petites charges électriques.",
+          "ko": "전기물리학적 아티팩트로, 탄력 있으면서도 밀도가 높은 젤 형태의 물질로 구성되어 있으며 내부 구조가 뚜렷하게 드러난다.\\n\\n변압기의 특성은 여전히 과학자들 사이에서 논의 중이다. 이 아티팩트의 소재는 구조적 변형을 스스로 원래 상태로 복원할 뿐 아니라, 독립적으로 미약한 전하를 생성하는 능력까지 지니고 있다."
+        }
+      }
+    }
+  ]
+}

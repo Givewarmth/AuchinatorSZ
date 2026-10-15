@@ -1,0 +1,423 @@
+{
+  "id": "y54z",
+  "category": "artefact/electrophysical",
+  "name": {
+    "type": "translation",
+    "key": "item.art.electra_pustishka.name",
+    "args": {},
+    "lines": {
+      "ru": "Гиря",
+      "en": "Kettlebell",
+      "es": "Pesa",
+      "fr": "Kettlebell",
+      "ko": "케틀벨"
+    }
+  },
+  "color": "DEFAULT",
+  "status": {
+    "state": "NON_DROP"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.electrophysical",
+            "args": {},
+            "lines": {
+              "ru": "Электрофизические",
+              "en": "Electrophysical",
+              "es": "Electrofísica",
+              "fr": "Électrophysique",
+              "ko": "전기물리"
+            }
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "core.tooltip.info.weight",
+            "args": {},
+            "lines": {
+              "ru": "Вес",
+              "en": "Weight",
+              "es": "Peso",
+              "fr": "Poids",
+              "ko": "무게"
+            }
+          },
+          "value": 0.3,
+          "formatted": {
+            "value": {
+              "ru": "0,3 кг",
+              "en": "0.3 kg",
+              "es": "0,3 kg",
+              "fr": "0,3 kg",
+              "ko": "0.3 kg"
+            },
+            "nameColor": "838383",
+            "valueColor": "838383"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "core.tooltip.info.base_price",
+            "args": {},
+            "lines": {
+              "ru": "Базовая цена продажи",
+              "en": "Base selling price",
+              "es": "Precio de venta base",
+              "fr": "Prix de vente de base",
+              "ko": "기본 판매 가격"
+            }
+          },
+          "value": 7100.0,
+          "formatted": {
+            "value": {
+              "ru": "7 100 руб.",
+              "en": "7,100 rubles",
+              "es": "7.100 rublos",
+              "fr": "7 100 roubles",
+              "ko": "7,100 루블"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.quality.common",
+            "args": {},
+            "lines": {
+              "ru": "Обычный",
+              "en": "Common",
+              "es": "Común",
+              "fr": "Commun",
+              "ko": "일반"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.not_probed",
+            "args": {},
+            "lines": {
+              "ru": "Не исследовано",
+              "en": "Not studied",
+              "es": "No estudiado",
+              "fr": "Non étudié",
+              "ko": "연구되지 않음"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.info.freshness",
+            "args": {},
+            "lines": {
+              "ru": "Свежесть",
+              "en": "Freshness",
+              "es": "Frescura",
+              "fr": "Fraîcheur",
+              "ko": "품질"
+            }
+          },
+          "value": {
+            "type": "text",
+            "text": "III"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.info.durability",
+            "args": {},
+            "lines": {
+              "ru": "Заряд",
+              "en": "Charge",
+              "es": "Carga",
+              "fr": "Charge",
+              "ko": "충전"
+            }
+          },
+          "value": 100.0,
+          "formatted": {
+            "value": {
+              "ru": "100%",
+              "en": "100%",
+              "es": "100 %",
+              "fr": "100%",
+              "ko": "100%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.info.max_durability",
+            "args": {},
+            "lines": {
+              "ru": "Макс. заряд",
+              "en": "Max. charge",
+              "es": "Carga máx.",
+              "fr": "Charge maximale",
+              "ko": "최대 충전량"
+            }
+          },
+          "value": 100.0,
+          "formatted": {
+            "value": {
+              "ru": "100%",
+              "en": "100%",
+              "es": "100 %",
+              "fr": "100%",
+              "ko": "100%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.health_bonus",
+            "args": {},
+            "lines": {
+              "ru": "Живучесть",
+              "en": "Vitality",
+              "es": "Vitalidad",
+              "fr": "Vitalité",
+              "ko": "생명력"
+            }
+          },
+          "min": -16.0,
+          "max": -13.6,
+          "formatted": {
+            "value": {
+              "ru": "[-16%; -13,6%]",
+              "en": "[-16%; -13.6%]",
+              "es": "[-16 %; -13,6 %]",
+              "fr": "[-16%; -13,6%]",
+              "ko": "[-16%; -13.6%]"
+            },
+            "nameColor": "C15252",
+            "valueColor": "C15252"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.max_weight_bonus",
+            "args": {},
+            "lines": {
+              "ru": "Переносимый вес",
+              "en": "Carry weight",
+              "es": "Peso de carga",
+              "fr": "Poids maximum supporté",
+              "ko": "최대 운반 무게"
+            }
+          },
+          "min": 7.7349997,
+          "max": 9.099999,
+          "formatted": {
+            "value": {
+              "ru": "[+7,73; +9,1]",
+              "en": "[+7.73; +9.1]",
+              "es": "[+7,73; +9,1]",
+              "fr": "[+7,73; +9,1]",
+              "ko": "[+7.73; +9.1]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.thermal_protection",
+            "args": {},
+            "lines": {
+              "ru": "Защита от температуры",
+              "en": "Thermal protection",
+              "es": "Protección térmica",
+              "fr": "Protection thermique",
+              "ko": "열 보호"
+            }
+          },
+          "min": 49.725,
+          "max": 58.499996,
+          "formatted": {
+            "value": {
+              "ru": "[+49,72; +58,5]",
+              "en": "[+49.72; +58.5]",
+              "es": "[+49,72; +58,5]",
+              "fr": "[+49,72; +58,5]",
+              "ko": "[+49.72; +58.5]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.thermal_accumulation",
+            "args": {},
+            "lines": {
+              "ru": "Температура",
+              "en": "Temperature",
+              "es": "Temperatura",
+              "fr": "Température",
+              "ko": "열"
+            }
+          },
+          "min": -79.04,
+          "max": -67.184,
+          "formatted": {
+            "value": {
+              "ru": "[-79,04; -67,18]",
+              "en": "[-79.04; -67.18]",
+              "es": "[-79,04; -67,18]",
+              "fr": "[-79,04; -67,18]",
+              "ko": "[-79.04; -67.18]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.reaction_to_burn",
+            "args": {},
+            "lines": {
+              "ru": "Реакция на ожог",
+              "en": "Reaction to burns",
+              "es": "Reacción a las quemaduras",
+              "fr": "Réaction aux brûlures",
+              "ko": "발화 대항"
+            }
+          },
+          "min": 0.884,
+          "max": 1.04,
+          "formatted": {
+            "value": {
+              "ru": "[+0,88%; +1,04%]",
+              "en": "[+0.88%; +1.04%]",
+              "es": "[+0,88 %; +1,04 %]",
+              "fr": "[+0,88%; +1,04%]",
+              "ko": "[+0.88%; +1.04%]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.art.electra_pustishka.description",
+        "args": {},
+        "lines": {
+          "ru": "Неопытные сталкеры часто принимают диковинную находку за неизвестный живой организм из-за ее причудливого вида. Артефакт состоит из двух долей, связанных между собой движущимися отростками и зеленоватой порослью.\\n\\nОднако, согласно последним научным исследованиям, такой необычный внешний вид обусловлен реакцией ферромагнетиков, из которых частично состоит артефакт.",
+          "en": "Inexperienced stalkers often mistake an exotic finding for an unknown living organism due to its bizarre appearance. The artifact consists of two parts connected by moving appendages and a greenish growth.\\n\\n However, according to the latest scientific research, such an unusual appearance is due to the reaction of ferromagnetic materials, which the artifact is partially composed of.",
+          "es": "A menudo, los acechadores inexpertos confunden este extravagante hallazgo con un organismo vivo desconocido debido a su extraño aspecto. El artefacto consta de dos lóbulos unidos por excrecencias móviles y un crecimiento verdoso.\\n\\n Sin embargo, según recientes investigaciones científicas, este inusual aspecto se debe a la reacción del ferromagnetismo, del que está compuesto en parte el artefacto.",
+          "fr": "Les stalkers inexpérimentés prennent souvent cette découverte exotique pour un organisme vivant inconnu en raison de son apparence étrange. L\u0027artefact se compose de deux parties reliées par des appendices mobiles et une excroissance verdâtre.\\n\\nCependant, d\u0027après les dernières recherches scientifiques, cette apparence inhabituelle résulterait de la réaction des matériaux ferromagnétiques dont l\u0027artefact est partiellement composé.",
+          "ko": "경험이 부족한 스토커들은 그 기이한 외형 때문에 이 희귀한 발견물을 미지의 생물체로 착각하곤 한다. 이 아티팩트는 움직이는 돌기와 녹빛의 성장체로 연결된 두 개의 부분으로 구성되어 있다.\\n\\n그러나 최신 연구에 따르면, 이러한 독특한 형태는 아티팩트의 일부를 구성하는 강자성 물질 간의 반응으로 인해 나타나는 현상이다."
+        }
+      }
+    }
+  ]
+}

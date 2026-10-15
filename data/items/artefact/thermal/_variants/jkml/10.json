@@ -1,0 +1,507 @@
+{
+  "id": "jkml",
+  "category": "artefact/thermal",
+  "name": {
+    "type": "translation",
+    "key": "item.art.blizzard_stormeye.name",
+    "args": {},
+    "lines": {
+      "ru": "Глаз бури",
+      "en": "Eye of the Storm",
+      "es": "Ojo de la tormenta",
+      "fr": "L\u0027Œil du Cyclone",
+      "ko": "폭풍의 눈"
+    }
+  },
+  "color": "DEFAULT",
+  "status": {
+    "state": "NON_DROP"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.thermal",
+            "args": {},
+            "lines": {
+              "ru": "Термические",
+              "en": "Thermal",
+              "es": "Térmico",
+              "fr": "Thermique",
+              "ko": "열"
+            }
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "core.tooltip.info.weight",
+            "args": {},
+            "lines": {
+              "ru": "Вес",
+              "en": "Weight",
+              "es": "Peso",
+              "fr": "Poids",
+              "ko": "무게"
+            }
+          },
+          "value": 0.15,
+          "formatted": {
+            "value": {
+              "ru": "0,15 кг",
+              "en": "0.15 kg",
+              "es": "0,15 kg",
+              "fr": "0,15 kg",
+              "ko": "0.15 kg"
+            },
+            "nameColor": "838383",
+            "valueColor": "838383"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "core.tooltip.info.base_price",
+            "args": {},
+            "lines": {
+              "ru": "Базовая цена продажи",
+              "en": "Base selling price",
+              "es": "Precio de venta base",
+              "fr": "Prix de vente de base",
+              "ko": "기본 판매 가격"
+            }
+          },
+          "value": 17800.0,
+          "formatted": {
+            "value": {
+              "ru": "17 800 руб.",
+              "en": "17,800 rubles",
+              "es": "17.800 rublos",
+              "fr": "17 800 roubles",
+              "ko": "17,800 루블"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.quality.common",
+            "args": {},
+            "lines": {
+              "ru": "Обычный",
+              "en": "Common",
+              "es": "Común",
+              "fr": "Commun",
+              "ko": "일반"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.not_probed",
+            "args": {},
+            "lines": {
+              "ru": "Не исследовано",
+              "en": "Not studied",
+              "es": "No estudiado",
+              "fr": "Non étudié",
+              "ko": "연구되지 않음"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.info.freshness",
+            "args": {},
+            "lines": {
+              "ru": "Свежесть",
+              "en": "Freshness",
+              "es": "Frescura",
+              "fr": "Fraîcheur",
+              "ko": "품질"
+            }
+          },
+          "value": {
+            "type": "text",
+            "text": "III"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.info.durability",
+            "args": {},
+            "lines": {
+              "ru": "Заряд",
+              "en": "Charge",
+              "es": "Carga",
+              "fr": "Charge",
+              "ko": "충전"
+            }
+          },
+          "value": 100.0,
+          "formatted": {
+            "value": {
+              "ru": "100%",
+              "en": "100%",
+              "es": "100 %",
+              "fr": "100%",
+              "ko": "100%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.info.max_durability",
+            "args": {},
+            "lines": {
+              "ru": "Макс. заряд",
+              "en": "Max. charge",
+              "es": "Carga máx.",
+              "fr": "Charge maximale",
+              "ko": "최대 충전량"
+            }
+          },
+          "value": 100.0,
+          "formatted": {
+            "value": {
+              "ru": "100%",
+              "en": "100%",
+              "es": "100 %",
+              "fr": "100%",
+              "ko": "100%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.health_bonus",
+            "args": {},
+            "lines": {
+              "ru": "Живучесть",
+              "en": "Vitality",
+              "es": "Vitalidad",
+              "fr": "Vitalité",
+              "ko": "생명력"
+            }
+          },
+          "min": -14.8,
+          "max": -12.580001,
+          "formatted": {
+            "value": {
+              "ru": "[-14,8%; -12,58%]",
+              "en": "[-14.8%; -12.58%]",
+              "es": "[-14,8 %; -12,58 %]",
+              "fr": "[-14,8%; -12,58%]",
+              "ko": "[-14.8%; -12.58%]"
+            },
+            "nameColor": "C15252",
+            "valueColor": "C15252"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.speed_modifier",
+            "args": {},
+            "lines": {
+              "ru": "Скорость передвижения",
+              "en": "Movement speed",
+              "es": "Velocidad de movimiento",
+              "fr": "Vitesse de déplacement",
+              "ko": "이동 속도"
+            }
+          },
+          "min": 0.76500005,
+          "max": 0.90000004,
+          "formatted": {
+            "value": {
+              "ru": "[+0,77%; +0,9%]",
+              "en": "[+0.77%; +0.9%]",
+              "es": "[+0,77 %; +0,9 %]",
+              "fr": "[+0,77%; +0,9%]",
+              "ko": "[+0.77%; +0.9%]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.sprint_speed_modifier",
+            "args": {},
+            "lines": {
+              "ru": "Скорость бега",
+              "en": "Running speed",
+              "es": "Velocidad de carrera",
+              "fr": "Vitesse de course",
+              "ko": "달리기 속도"
+            }
+          },
+          "min": 1.0200001,
+          "max": 1.2,
+          "formatted": {
+            "value": {
+              "ru": "[+1,02%; +1,2%]",
+              "en": "[+1.02%; +1.2%]",
+              "es": "[+1,02 %; +1,2 %]",
+              "fr": "[+1,02%; +1,2%]",
+              "ko": "[+1.02%; +1.2%]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.max_weight_bonus",
+            "args": {},
+            "lines": {
+              "ru": "Переносимый вес",
+              "en": "Carry weight",
+              "es": "Peso de carga",
+              "fr": "Poids maximum supporté",
+              "ko": "최대 운반 무게"
+            }
+          },
+          "min": 9.996,
+          "max": 11.76,
+          "formatted": {
+            "value": {
+              "ru": "[+10; +11,76]",
+              "en": "[+10; +11.76]",
+              "es": "[+10; +11,76]",
+              "fr": "[+10; +11,76]",
+              "ko": "[+10; +11.76]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.thermal_protection",
+            "args": {},
+            "lines": {
+              "ru": "Защита от температуры",
+              "en": "Thermal protection",
+              "es": "Protección térmica",
+              "fr": "Protection thermique",
+              "ko": "열 보호"
+            }
+          },
+          "min": 45.900005,
+          "max": 54.000004,
+          "formatted": {
+            "value": {
+              "ru": "[+45,9; +54]",
+              "en": "[+45.9; +54]",
+              "es": "[+45,9; +54]",
+              "fr": "[+45,9; +54]",
+              "ko": "[+45.9; +54]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.biological_protection",
+            "args": {},
+            "lines": {
+              "ru": "Защита от биозаражения",
+              "en": "Bioinfection protection",
+              "es": "Protección contra bioinfección",
+              "fr": "Protection contre les bio infections",
+              "ko": "생체 감염 보호"
+            }
+          },
+          "min": 45.900005,
+          "max": 54.000004,
+          "formatted": {
+            "value": {
+              "ru": "[+45,9; +54]",
+              "en": "[+45.9; +54]",
+              "es": "[+45,9; +54]",
+              "fr": "[+45,9; +54]",
+              "ko": "[+45.9; +54]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.thermal_accumulation",
+            "args": {},
+            "lines": {
+              "ru": "Температура",
+              "en": "Temperature",
+              "es": "Temperatura",
+              "fr": "Température",
+              "ko": "열"
+            }
+          },
+          "min": -51.840004,
+          "max": -44.064007,
+          "formatted": {
+            "value": {
+              "ru": "[-51,84; -44,06]",
+              "en": "[-51.84; -44.06]",
+              "es": "[-51,84; -44,06]",
+              "fr": "[-51,84; -44,06]",
+              "ko": "[-51.84; -44.06]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.biological_accumulation",
+            "args": {},
+            "lines": {
+              "ru": "Биологическое заражение",
+              "en": "Biological infection",
+              "es": "Infección biológica",
+              "fr": "Infection biologique",
+              "ko": "생체 감염"
+            }
+          },
+          "min": -51.840004,
+          "max": -44.064007,
+          "formatted": {
+            "value": {
+              "ru": "[-51,84; -44,06]",
+              "en": "[-51.84; -44.06]",
+              "es": "[-51,84; -44,06]",
+              "fr": "[-51,84; -44,06]",
+              "ko": "[-51.84; -44.06]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.art.blizzard_stormeye.description",
+        "args": {},
+        "lines": {
+          "ru": "Необычная фаза льда, названная льдом An, находящаяся в составе центрального элемента артефакта, согласно заявлениям независимых ученых, является причиной необычных свойств «Глаза бури».\\n\\nТем не менее, исследователи НИИ-7 предполагают, что дело в особой структуре артефакта, позволяющей не только формировать необычную кристаллическую решетку льда, но и выступать катализатором для различных реакций поблизости.",
+          "en": "An unusual phase of ice known as Ice An, found in the artifact\u0027s central element, is believed by independent scientists to be the cause of the Eye of the Storm\u0027s extraordinary properties.\\n\\n Nonetheless, researchers from Research Institute 7 propose that the matter lies in the special structure of the artifact, which not only allows for the formation of an unusual crystalline ice lattice but also acts as a catalyst for various nearby reactions.",
+          "es": "Una inusual fase de hielo, denominada An hielo, situada en el elemento central del artefacto, según las declaraciones de científicos independientes, es la razón de las inusuales propiedades del Ojo de la tormenta.\\n\\n No obstante, los investigadores del Instituto de Investigación 7 sugieren que la cuestión reside en la estructura especial del artefacto, que permite no sólo formar una inusual red cristalina de hielo, sino también actuar como catalizador de diversas reacciones en las proximidades.",
+          "fr": "Une phase inhabituelle de glace, appelée glace An, trouvée dans la composition de l\u0027élément central de l\u0027artefact, est, selon des scientifiques indépendants, la cause des propriétés inhabituelles de L\u0027Œil du Cyclone.\\n\\nNéanmoins, les chercheurs de l\u0027Institut de Recherche 7 proposent que la question réside dans la structure spéciale de l\u0027artefact, qui permet non seulement la formation d\u0027un réseau cristallin de glace inhabituel, mais agit également comme un catalyseur pour diverses réactions à proximité.",
+          "ko": "아티팩트 중심 요소의 구성에서 발견된 독특한 형태의 얼음인 얼음 An은 독립 과학자들에 따르면 폭풍의 눈이 가진 비정상적인 특성의 원인이다.\\n\\n그러나 제 7 연구소의 연구원들은 이 물질의 특이한 결정격자를 형성할 뿐만 아니라 주변의 다양한 반응을 촉진하는 촉매 역할을 하는 아티팩트의 특수한 구조에 그 이유가 있다고 제안한다."
+        }
+      }
+    }
+  ]
+}

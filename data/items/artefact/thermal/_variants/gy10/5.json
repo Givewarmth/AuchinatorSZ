@@ -1,0 +1,423 @@
+{
+  "id": "gy10",
+  "category": "artefact/thermal",
+  "name": {
+    "type": "translation",
+    "key": "item.art.jarka_crystal.name",
+    "args": {},
+    "lines": {
+      "ru": "Красный кристалл",
+      "en": "Red Crystal",
+      "es": "Cristal rojo",
+      "fr": "Cristal Rouge",
+      "ko": "붉은 수정"
+    }
+  },
+  "color": "DEFAULT",
+  "status": {
+    "state": "NON_DROP"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.thermal",
+            "args": {},
+            "lines": {
+              "ru": "Термические",
+              "en": "Thermal",
+              "es": "Térmico",
+              "fr": "Thermique",
+              "ko": "열"
+            }
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "core.tooltip.info.weight",
+            "args": {},
+            "lines": {
+              "ru": "Вес",
+              "en": "Weight",
+              "es": "Peso",
+              "fr": "Poids",
+              "ko": "무게"
+            }
+          },
+          "value": 0.3,
+          "formatted": {
+            "value": {
+              "ru": "0,3 кг",
+              "en": "0.3 kg",
+              "es": "0,3 kg",
+              "fr": "0,3 kg",
+              "ko": "0.3 kg"
+            },
+            "nameColor": "838383",
+            "valueColor": "838383"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "core.tooltip.info.base_price",
+            "args": {},
+            "lines": {
+              "ru": "Базовая цена продажи",
+              "en": "Base selling price",
+              "es": "Precio de venta base",
+              "fr": "Prix de vente de base",
+              "ko": "기본 판매 가격"
+            }
+          },
+          "value": 1700.0,
+          "formatted": {
+            "value": {
+              "ru": "1 700 руб.",
+              "en": "1,700 rubles",
+              "es": "1.700 rublos",
+              "fr": "1 700 roubles",
+              "ko": "1,700 루블"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.quality.common",
+            "args": {},
+            "lines": {
+              "ru": "Обычный",
+              "en": "Common",
+              "es": "Común",
+              "fr": "Commun",
+              "ko": "일반"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.not_probed",
+            "args": {},
+            "lines": {
+              "ru": "Не исследовано",
+              "en": "Not studied",
+              "es": "No estudiado",
+              "fr": "Non étudié",
+              "ko": "연구되지 않음"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.info.freshness",
+            "args": {},
+            "lines": {
+              "ru": "Свежесть",
+              "en": "Freshness",
+              "es": "Frescura",
+              "fr": "Fraîcheur",
+              "ko": "품질"
+            }
+          },
+          "value": {
+            "type": "text",
+            "text": "III"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.info.durability",
+            "args": {},
+            "lines": {
+              "ru": "Заряд",
+              "en": "Charge",
+              "es": "Carga",
+              "fr": "Charge",
+              "ko": "충전"
+            }
+          },
+          "value": 100.0,
+          "formatted": {
+            "value": {
+              "ru": "100%",
+              "en": "100%",
+              "es": "100 %",
+              "fr": "100%",
+              "ko": "100%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.info.max_durability",
+            "args": {},
+            "lines": {
+              "ru": "Макс. заряд",
+              "en": "Max. charge",
+              "es": "Carga máx.",
+              "fr": "Charge maximale",
+              "ko": "최대 충전량"
+            }
+          },
+          "value": 100.0,
+          "formatted": {
+            "value": {
+              "ru": "100%",
+              "en": "100%",
+              "es": "100 %",
+              "fr": "100%",
+              "ko": "100%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.health_bonus",
+            "args": {},
+            "lines": {
+              "ru": "Живучесть",
+              "en": "Vitality",
+              "es": "Vitalidad",
+              "fr": "Vitalité",
+              "ko": "생명력"
+            }
+          },
+          "min": -8.0,
+          "max": -6.8,
+          "formatted": {
+            "value": {
+              "ru": "[-8%; -6,8%]",
+              "en": "[-8%; -6.8%]",
+              "es": "[-8 %; -6,8 %]",
+              "fr": "[-8%; -6,8%]",
+              "ko": "[-8%; -6.8%]"
+            },
+            "nameColor": "C15252",
+            "valueColor": "C15252"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.stamina_bonus",
+            "args": {},
+            "lines": {
+              "ru": "Выносливость",
+              "en": "Stamina",
+              "es": "Aguante",
+              "fr": "Endurance",
+              "ko": "스태미나"
+            }
+          },
+          "min": 7.293,
+          "max": 8.58,
+          "formatted": {
+            "value": {
+              "ru": "[+7,29%; +8,58%]",
+              "en": "[+7.29%; +8.58%]",
+              "es": "[+7,29 %; +8,58 %]",
+              "fr": "[+7,29%; +8,58%]",
+              "ko": "[+7.29%; +8.58%]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.thermal_protection",
+            "args": {},
+            "lines": {
+              "ru": "Защита от температуры",
+              "en": "Thermal protection",
+              "es": "Protección térmica",
+              "fr": "Protection thermique",
+              "ko": "열 보호"
+            }
+          },
+          "min": 18.7,
+          "max": 22.0,
+          "formatted": {
+            "value": {
+              "ru": "[+18,7; +22]",
+              "en": "[+18.7; +22]",
+              "es": "[+18,7; +22]",
+              "fr": "[+18,7; +22]",
+              "ko": "[+18.7; +22]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.thermal_accumulation",
+            "args": {},
+            "lines": {
+              "ru": "Температура",
+              "en": "Temperature",
+              "es": "Temperatura",
+              "fr": "Température",
+              "ko": "열"
+            }
+          },
+          "min": -47.520004,
+          "max": -40.392002,
+          "formatted": {
+            "value": {
+              "ru": "[-47,52; -40,39]",
+              "en": "[-47.52; -40.39]",
+              "es": "[-47,52; -40,39]",
+              "fr": "[-47,52; -40,39]",
+              "ko": "[-47.52; -40.39]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.reaction_to_burn",
+            "args": {},
+            "lines": {
+              "ru": "Реакция на ожог",
+              "en": "Reaction to burns",
+              "es": "Reacción a las quemaduras",
+              "fr": "Réaction aux brûlures",
+              "ko": "발화 대항"
+            }
+          },
+          "min": 0.56100005,
+          "max": 0.66,
+          "formatted": {
+            "value": {
+              "ru": "[+0,56%; +0,66%]",
+              "en": "[+0.56%; +0.66%]",
+              "es": "[+0,56 %; +0,66 %]",
+              "fr": "[+0,56%; +0,66%]",
+              "ko": "[+0.56%; +0.66%]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.art.jarka_crystal.description",
+        "args": {},
+        "lines": {
+          "ru": "Кристалл с матовой поверхностью. Как и другие подобные артефакты, имеет строгое количество крупных и малых отростков.\\n\\nБлагодаря экспериментам в НИИ-7 удалось выяснить, что «Красный кристалл» имеет еще одну особенность, которая отличает его от других «кристаллов». Под воздействием экстремально низких температур и высокого атмосферным давлением поверхность кристалла в некоторых местах начинает покрываться маленькими трещинами, формирующими правильные гексагональные соты. Вероятно, эффект возникает вследствие локальных вкраплений кремния.",
+          "en": "A crystal with a matte surface. Like other similar artifacts, it has a precise number of large and small extensions.\\n\\n Experiments at Research Institute 7 revealed that the Red Crystal has another feature that distinguishes it from other \"crystals.\" Under extreme cold and high atmospheric pressure, small cracks begin to form across parts of the crystal\u0027s surface, settling into a regular hexagonal honeycomb pattern. This effect is likely caused by localized silicon inclusions.",
+          "es": "Cristal de superficie mate. Al igual que otros artefactos similares, presenta un número estricto de excrecencias grandes y pequeñas.\\n\\n Gracias a los experimentos realizados en el Instituto de Investigación 7 se pudo averiguar que Cristal rojo tiene una característica más que lo distingue de otros cristales. Bajo la influencia de temperaturas extremadamente bajas y alta presión atmosférica, la superficie del cristal en algunos lugares comienza a cubrirse de pequeñas grietas que forman panales hexagonales regulares. El efecto se debe probablemente a inclusiones localizadas de silicio.",
+          "fr": "Un cristal à la surface mate. Comme d\u0027autres artefacts similaires, il présente un nombre précis de prolongements grands et petits.\\n\\nDes expériences menées à l\u0027Institut de Recherche 7 ont révélé une autre particularité du Cristal Rouge : sous l\u0027effet de températures extrêmement basses et d\u0027une forte pression atmosphérique, sa surface développe de petites fissures, formant des maillages hexagonaux réguliers. Cet effet serait dû à des inclusions locales de silicium.",
+          "ko": "무광 표면을 지닌 수정으로, 다른 유사한 아티팩트들과 마찬가지로 일정한 수의 크고 작은 돌출부를 가지고 있다.\\n\\n제 7 연구소에서 진행된 실험을 통해, 붉은 수정이 다른 수정들과 구별되는 또 하나의 특징을 지니고 있음이 밝혀졌다. 극저온과 고기압 환경에 노출되면 수정의 표면 일부에 미세한 균열이 생기며, 규칙적인 육각형 격자 형태를 이룬다는 것이다. 이러한 현상은 결정 내 국소적인 규소 포함물에 의해 발생하는 것으로 추정된다."
+        }
+      }
+    }
+  ]
+}

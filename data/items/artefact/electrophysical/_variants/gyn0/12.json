@@ -1,0 +1,423 @@
+{
+  "id": "gyn0",
+  "category": "artefact/electrophysical",
+  "name": {
+    "type": "translation",
+    "key": "item.art.electra_vspyshka.name",
+    "args": {},
+    "lines": {
+      "ru": "Комета",
+      "en": "Comet",
+      "es": "Cometa",
+      "fr": "Comète",
+      "ko": "혜성"
+    }
+  },
+  "color": "DEFAULT",
+  "status": {
+    "state": "NON_DROP"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe",
+              "ko": "클래스"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.electrophysical",
+            "args": {},
+            "lines": {
+              "ru": "Электрофизические",
+              "en": "Electrophysical",
+              "es": "Electrofísica",
+              "fr": "Électrophysique",
+              "ko": "전기물리"
+            }
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "core.tooltip.info.weight",
+            "args": {},
+            "lines": {
+              "ru": "Вес",
+              "en": "Weight",
+              "es": "Peso",
+              "fr": "Poids",
+              "ko": "무게"
+            }
+          },
+          "value": 0.3,
+          "formatted": {
+            "value": {
+              "ru": "0,3 кг",
+              "en": "0.3 kg",
+              "es": "0,3 kg",
+              "fr": "0,3 kg",
+              "ko": "0.3 kg"
+            },
+            "nameColor": "838383",
+            "valueColor": "838383"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "core.tooltip.info.base_price",
+            "args": {},
+            "lines": {
+              "ru": "Базовая цена продажи",
+              "en": "Base selling price",
+              "es": "Precio de venta base",
+              "fr": "Prix de vente de base",
+              "ko": "기본 판매 가격"
+            }
+          },
+          "value": 4000.0,
+          "formatted": {
+            "value": {
+              "ru": "4 000 руб.",
+              "en": "4,000 rubles",
+              "es": "4.000 rublos",
+              "fr": "4 000 roubles",
+              "ko": "4,000 루블"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.quality.common",
+            "args": {},
+            "lines": {
+              "ru": "Обычный",
+              "en": "Common",
+              "es": "Común",
+              "fr": "Commun",
+              "ko": "일반"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.not_probed",
+            "args": {},
+            "lines": {
+              "ru": "Не исследовано",
+              "en": "Not studied",
+              "es": "No estudiado",
+              "fr": "Non étudié",
+              "ko": "연구되지 않음"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.info.freshness",
+            "args": {},
+            "lines": {
+              "ru": "Свежесть",
+              "en": "Freshness",
+              "es": "Frescura",
+              "fr": "Fraîcheur",
+              "ko": "품질"
+            }
+          },
+          "value": {
+            "type": "text",
+            "text": "III"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.info.durability",
+            "args": {},
+            "lines": {
+              "ru": "Заряд",
+              "en": "Charge",
+              "es": "Carga",
+              "fr": "Charge",
+              "ko": "충전"
+            }
+          },
+          "value": 100.0,
+          "formatted": {
+            "value": {
+              "ru": "100%",
+              "en": "100%",
+              "es": "100 %",
+              "fr": "100%",
+              "ko": "100%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "stalker.tooltip.artefact.info.max_durability",
+            "args": {},
+            "lines": {
+              "ru": "Макс. заряд",
+              "en": "Max. charge",
+              "es": "Carga máx.",
+              "fr": "Charge maximale",
+              "ko": "최대 충전량"
+            }
+          },
+          "value": 100.0,
+          "formatted": {
+            "value": {
+              "ru": "100%",
+              "en": "100%",
+              "es": "100 %",
+              "fr": "100%",
+              "ko": "100%"
+            },
+            "nameColor": "838383",
+            "valueColor": "EEEEEE"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.stamina_bonus",
+            "args": {},
+            "lines": {
+              "ru": "Выносливость",
+              "en": "Stamina",
+              "es": "Aguante",
+              "fr": "Endurance",
+              "ko": "스태미나"
+            }
+          },
+          "min": 17.074802,
+          "max": 20.088001,
+          "formatted": {
+            "value": {
+              "ru": "[+17,07%; +20,09%]",
+              "en": "[+17.07%; +20.09%]",
+              "es": "[+17,07 %; +20,09 %]",
+              "fr": "[+17,07%; +20,09%]",
+              "ko": "[+17.07%; +20.09%]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.speed_modifier",
+            "args": {},
+            "lines": {
+              "ru": "Скорость передвижения",
+              "en": "Movement speed",
+              "es": "Velocidad de movimiento",
+              "fr": "Vitesse de déplacement",
+              "ko": "이동 속도"
+            }
+          },
+          "min": 0.63240004,
+          "max": 0.744,
+          "formatted": {
+            "value": {
+              "ru": "[+0,63%; +0,74%]",
+              "en": "[+0.63%; +0.74%]",
+              "es": "[+0,63 %; +0,74 %]",
+              "fr": "[+0,63%; +0,74%]",
+              "ko": "[+0.63%; +0.74%]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.sprint_speed_modifier",
+            "args": {},
+            "lines": {
+              "ru": "Скорость бега",
+              "en": "Running speed",
+              "es": "Velocidad de carrera",
+              "fr": "Vitesse de course",
+              "ko": "달리기 속도"
+            }
+          },
+          "min": 0.8432001,
+          "max": 0.99200004,
+          "formatted": {
+            "value": {
+              "ru": "[+0,84%; +0,99%]",
+              "en": "[+0.84%; +0.99%]",
+              "es": "[+0,84 %; +0,99 %]",
+              "fr": "[+0,84%; +0,99%]",
+              "ko": "[+0.84%; +0.99%]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.max_weight_bonus",
+            "args": {},
+            "lines": {
+              "ru": "Переносимый вес",
+              "en": "Carry weight",
+              "es": "Peso de carga",
+              "fr": "Poids maximum supporté",
+              "ko": "최대 운반 무게"
+            }
+          },
+          "min": 3.4782002,
+          "max": 4.092,
+          "formatted": {
+            "value": {
+              "ru": "[+3,48; +4,09]",
+              "en": "[+3.48; +4.09]",
+              "es": "[+3,48; +4,09]",
+              "fr": "[+3,48; +4,09]",
+              "ko": "[+3.48; +4.09]"
+            },
+            "nameColor": "53C353",
+            "valueColor": "53C353"
+          }
+        },
+        {
+          "type": "range",
+          "name": {
+            "type": "translation",
+            "key": "stalker.artefact_properties.factor.thermal_accumulation",
+            "args": {},
+            "lines": {
+              "ru": "Температура",
+              "en": "Temperature",
+              "es": "Temperatura",
+              "fr": "Température",
+              "ko": "열"
+            }
+          },
+          "min": 21.25,
+          "max": 25.0,
+          "formatted": {
+            "value": {
+              "ru": "[+21,25; +25]",
+              "en": "[+21.25; +25]",
+              "es": "[+21,25; +25]",
+              "fr": "[+21,25; +25]",
+              "ko": "[+21.25; +25]"
+            },
+            "nameColor": "C15252",
+            "valueColor": "C15252"
+          }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.art.electra_vspyshka.description",
+        "args": {},
+        "lines": {
+          "ru": "«Комету» можно назвать одним из тех артефактов, которые с первого взгляда создают о себе ложное впечатление. Полупрозрачный полимерный отросток, часто принимаемый обывателями за огонек.\\n\\nСамое интересное в «Комете» – составная структура артефакта. В ходе экспериментов с образованием удалось выяснить, что при разделении ветвистой основы и полимерного отростка артефакт не только начинает быстро терять свои свойства, но и быстро деформируется в аморфную структуру из пластика с вкраплениями металла.",
+          "en": "The Comet is one of those artifacts that creates a false first impression. Its semi-transparent polymer extension is often mistaken by everymen for a spark.\\n\\n The most interesting aspect of the Comet is its composite structure. Experiments revealed that when the branched base and the polymer extension are separated, the artifact not only begins to quickly lose its properties, but also rapidly deforms into an amorphous mass of plastic with metal inclusions.",
+          "es": "Cometa es uno de esos artefactos que dan una falsa impresión a primera vista. Es una excrecencia de polímero translúcido que la gente suele confundir con una luz.\\n\\n Lo más interesante de Cometa es su estructura compuesta. En el curso de los experimentos de formación, se descubrió que al separar la base ramificada y la excrecencia de polímero, el artefacto no solamente empieza a perder rápidamente sus propiedades, sino que también se deforma rápidamente en una estructura amorfa hecha de plástico con motas de metal.",
+          "fr": "La Comète peut être décrite comme l\u0027un de ces artefacts qui donnent une fausse impression au premier regard. Une excroissance polymère semi-transparente, souvent prise par les profanes pour une petite flamme.\\n\\n\\n\\nCe qui est le plus intéressant dans la Comète, c\u0027est sa structure composite. Lors d\u0027expériences sur sa formation, il a été découvert que lorsque la base ramifiée et l\u0027excroissance polymère sont séparées, l\u0027artefact non seulement commence à perdre rapidement ses propriétés, mais se déforme aussi rapidement en une structure amorphe faite de plastique avec des inclusions métalliques.",
+          "ko": "혜성은 첫인상만으로는 오해를 불러일으키기 쉬운 아티팩트 중 하나라고 할 수 있다. 반투명한 폴리머 돌출부는 일반인들에게 흔히 불꽃처럼 여겨지기 쉽다.\\n\\n혜성의 가장 흥미로운 점은 그 복합적인 구조에 있다. 형성 실험 결과, 가지 모양의 기저부와 폴리머 돌출부를 분리하면 아티팩트는 빠르게 고유 특성을 잃을 뿐 아니라, 금속 성분이 섞인 플라스틱성 비정형 구조로 급격히 변형되는 것이 확인되었다."
+        }
+      }
+    }
+  ]
+}
