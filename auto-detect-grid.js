@@ -151,7 +151,7 @@ async function main() {
 
       // Для каждого файла — свой override
       if (!grids[key].overrides) grids[key].overrides = {};
-      grids[key].overrides[file] = {
+      grids[key].overrides[file] = {  
         startX: detected.startX,
         startY: detected.startY,
         cellW: detected.cellW,

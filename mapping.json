@@ -1,0 +1,20 @@
+{
+  "items": {
+    "weapon": {
+      "type": "weapon",
+      "icon_path": "icons/weapon.png"
+    },
+    "armor": {
+      "type": "armor",
+      "icon_path": "icons/armor.png"
+    },
+    "consumable": {
+      "type": "consumable",
+      "icon_path": "icons/consumable.png"
+    }
+  },
+  "screenshots": {
+    "path": "screenshots/",
+    "pattern": "*.png"
+  }
+}

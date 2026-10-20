@@ -1,0 +1,40 @@
+
+Файлы, работающие с обработкой скриншотов и сравнения с иконками:
+
+1. check_screenshot.py - Основной скрипт для проверки скриншотов
+2. screenshot_processor.py - Обработка скриншотов для анализа
+3. screenshot_icon_comparator.py - Сравнение скриншотов с иконками
+4. compare_images.py - Сравнение изображений
+5. image_comparison.py - Более точное сравнение изображений
+6. find_icons.py - Поиск иконок на скриншотах
+7. find_matches.py - Поиск совпадений иконок
+8. find_all_matches.py - Поиск всех совпадений
+9. analyze_icons.py - Анализ иконок
+10. icon_price_mapper.py - Сопоставление иконок с ценами
+
+Дополнительные файлы для работы с ценами:
+- vendor_data.txt - Содержит цены на предметы
+- mapping.json - Сопоставление иконок с ценами
+- items.txt - Содержит названия предметов
+
+Для работы с данными иконок и цен:
+- icon_data_handler.py - Работа с данными иконок
+- vendor_data_reader.py - Чтение данных вендора
+- mapping_reader.py - Чтение файла сопоставления
+- items_reader.py - Чтение названий предметов
+
+Для анализа:
+- vendor_analysis.py - Анализ данных вендора
+- price_comparison_report.py - Отчет о сравнении цен
+- final_vendor_analysis.py - Финальный анализ данных вендора
+
+Комментарии:
+- Все скрипты используют систему сравнения для определения соответствия иконок
+- Система сопоставления иконок с ценами реализована через файл mapping.json
+- Для аукциона используется vendor_data.txt с ценами на предметы
+- Названия предметов берутся из sandbox/data/items
+
+Для запуска анализа:
+python check_screenshot.py
+python screenshot_processor.py
+python screenshot_icon_comparator.py

@@ -1,0 +1,5714 @@
+[
+  {
+    "screenshot": "vendor.png",
+    "icon": "0o01.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "0o9d.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "0ojd.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "0omd.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "0or1.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "0rlzr.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "0rwg9.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "194j1.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "1n16.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "1n46.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "1n91.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "1no1.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "1nr1.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "1r03g.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "2o0vl.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "2o0zm.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "2o65l.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "2p16.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "2p30.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "2pg6.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "2pr6.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "319k.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "3g0yl.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "3v3z.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "3v4g.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "3vog.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "3vzg.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "4d3p.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "4d5p.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "4dkn.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "4q7yl.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "4qzpr.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "523g.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "5250.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "526g.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "52l0.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "52y0.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "5lqp1.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "637j.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "63oy.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "63yy.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "7933.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "7977.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "79w7.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "7l1z6.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "9g10.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "9g3z.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "9g6z.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "9gk0.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "d1mn.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "d1p5.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "d1rn.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "d1yn.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "dmlwj.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "dmyd9.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "g4r26.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "g54p.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "g590.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "g5kp.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "g5np.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "g5p0.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "j406.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "j456.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "j4g7.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "j4j7.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "j4z7.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "j5pr0.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "j5qd4.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "kknv.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "kkrv.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "kkz0.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "knpd3.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "kny0y.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "l601.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "l65j.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "l69j.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "l6pj.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "l6y1.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "lyrdq.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "lywmk.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "m0q7r.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "m0woy.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "mj07.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "mj1j.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "mj9j.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "mjyj.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "n4691.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "n4w7w.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "n4wdw.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "nl43.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "nlk3.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "nln6.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "okp24.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "okp74.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "okq16.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "ork0.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "orzo.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "p062.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "p0j2.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "p0n6.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "p6kgw.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "p6qd5.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "qjlzj.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "qjq69.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "qm0k.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "qm56.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "qmjk.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "qmn6.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "ro6g.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "roj5.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "ropg.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "row5.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "royg.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "rwl5v.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "rwv7l.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "vdjd.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "vdnd.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "vj3zg.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "vjqkr.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "w20p.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "w23o.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "w29o.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "w2zp.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "wjnr2.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "y31mk.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "y90z.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "y94o.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "y9go.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "y9yz.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "z102.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "z13n.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "z1kn.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "z1o2.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "z1zn.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "z3oln.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor.png",
+    "icon": "zzg9y.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "0o01.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "0o9d.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "0ojd.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "0omd.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "0or1.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "0rlzr.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "0rwg9.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "194j1.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "1n16.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "1n46.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "1n91.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "1no1.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "1nr1.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "1r03g.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "2o0vl.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "2o0zm.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "2o65l.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "2p16.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "2p30.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "2pg6.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "2pr6.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "319k.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "3g0yl.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "3v3z.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "3v4g.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "3vog.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "3vzg.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "4d3p.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "4d5p.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "4dkn.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "4q7yl.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "4qzpr.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "523g.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "5250.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "526g.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "52l0.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "52y0.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "5lqp1.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "637j.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "63oy.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "63yy.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "7933.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "7977.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "79w7.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "7l1z6.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "9g10.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "9g3z.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "9g6z.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "9gk0.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "d1mn.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "d1p5.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "d1rn.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "d1yn.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "dmlwj.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "dmyd9.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "g4r26.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "g54p.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "g590.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "g5kp.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "g5np.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "g5p0.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "j406.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "j456.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "j4g7.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "j4j7.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "j4z7.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "j5pr0.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "j5qd4.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "kknv.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "kkrv.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "kkz0.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "knpd3.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "kny0y.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "l601.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "l65j.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "l69j.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "l6pj.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "l6y1.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "lyrdq.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "lywmk.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "m0q7r.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "m0woy.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "mj07.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "mj1j.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "mj9j.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "mjyj.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "n4691.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "n4w7w.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "n4wdw.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "nl43.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "nlk3.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "nln6.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "okp24.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "okp74.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "okq16.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "ork0.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "orzo.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "p062.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "p0j2.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "p0n6.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "p6kgw.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "p6qd5.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "qjlzj.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "qjq69.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "qm0k.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "qm56.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "qmjk.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "qmn6.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "ro6g.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "roj5.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "ropg.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "row5.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "royg.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "rwl5v.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "rwv7l.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "vdjd.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "vdnd.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "vj3zg.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "vjqkr.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "w20p.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "w23o.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "w29o.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "w2zp.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "wjnr2.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "y31mk.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "y90z.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "y94o.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "y9go.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "y9yz.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "z102.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "z13n.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "z1kn.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "z1o2.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "z1zn.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "z3oln.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor1.png",
+    "icon": "zzg9y.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "0o01.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "0o9d.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "0ojd.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "0omd.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "0or1.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "0rlzr.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "0rwg9.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "194j1.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "1n16.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "1n46.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "1n91.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "1no1.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "1nr1.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "1r03g.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "2o0vl.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "2o0zm.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "2o65l.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "2p16.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "2p30.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "2pg6.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "2pr6.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "319k.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "3g0yl.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "3v3z.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "3v4g.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "3vog.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "3vzg.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "4d3p.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "4d5p.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "4dkn.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "4q7yl.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "4qzpr.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "523g.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "5250.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "526g.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "52l0.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "52y0.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "5lqp1.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "637j.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "63oy.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "63yy.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "7933.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "7977.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "79w7.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "7l1z6.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "9g10.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "9g3z.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "9g6z.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "9gk0.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "d1mn.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "d1p5.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "d1rn.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "d1yn.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "dmlwj.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "dmyd9.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "g4r26.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "g54p.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "g590.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "g5kp.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "g5np.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "g5p0.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "j406.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "j456.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "j4g7.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "j4j7.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "j4z7.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "j5pr0.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "j5qd4.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "kknv.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "kkrv.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "kkz0.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "knpd3.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "kny0y.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "l601.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "l65j.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "l69j.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "l6pj.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "l6y1.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "lyrdq.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "lywmk.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "m0q7r.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "m0woy.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "mj07.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "mj1j.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "mj9j.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "mjyj.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "n4691.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "n4w7w.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "n4wdw.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "nl43.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "nlk3.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "nln6.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "okp24.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "okp74.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "okq16.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "ork0.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "orzo.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "p062.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "p0j2.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "p0n6.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "p6kgw.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "p6qd5.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "qjlzj.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "qjq69.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "qm0k.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "qm56.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "qmjk.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "qmn6.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "ro6g.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "roj5.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "ropg.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "row5.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "royg.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "rwl5v.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "rwv7l.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "vdjd.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "vdnd.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "vj3zg.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "vjqkr.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "w20p.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "w23o.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "w29o.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "w2zp.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "wjnr2.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "y31mk.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "y90z.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "y94o.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "y9go.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "y9yz.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "z102.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "z13n.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "z1kn.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "z1o2.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "z1zn.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "z3oln.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor2.png",
+    "icon": "zzg9y.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "0o01.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "0o9d.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "0ojd.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "0omd.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "0or1.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "0rlzr.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "0rwg9.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "194j1.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "1n16.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "1n46.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "1n91.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "1no1.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "1nr1.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "1r03g.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "2o0vl.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "2o0zm.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "2o65l.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "2p16.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "2p30.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "2pg6.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "2pr6.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "319k.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "3g0yl.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "3v3z.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "3v4g.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "3vog.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "3vzg.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "4d3p.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "4d5p.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "4dkn.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "4q7yl.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "4qzpr.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "523g.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "5250.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "526g.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "52l0.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "52y0.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "5lqp1.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "637j.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "63oy.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "63yy.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "7933.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "7977.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "79w7.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "7l1z6.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "9g10.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "9g3z.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "9g6z.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "9gk0.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "d1mn.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "d1p5.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "d1rn.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "d1yn.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "dmlwj.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "dmyd9.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "g4r26.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "g54p.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "g590.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "g5kp.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "g5np.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "g5p0.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "j406.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "j456.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "j4g7.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "j4j7.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "j4z7.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "j5pr0.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "j5qd4.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "kknv.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "kkrv.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "kkz0.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "knpd3.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "kny0y.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "l601.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "l65j.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "l69j.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "l6pj.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "l6y1.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "lyrdq.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "lywmk.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "m0q7r.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "m0woy.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "mj07.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "mj1j.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "mj9j.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "mjyj.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "n4691.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "n4w7w.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "n4wdw.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "nl43.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "nlk3.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "nln6.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "okp24.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "okp74.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "okq16.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "ork0.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "orzo.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "p062.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "p0j2.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "p0n6.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "p6kgw.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "p6qd5.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "qjlzj.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "qjq69.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "qm0k.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "qm56.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "qmjk.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "qmn6.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "ro6g.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "roj5.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "ropg.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "row5.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "royg.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "rwl5v.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "rwv7l.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "vdjd.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "vdnd.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "vj3zg.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "vjqkr.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "w20p.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "w23o.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "w29o.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "w2zp.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "wjnr2.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "y31mk.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "y90z.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "y94o.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "y9go.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "y9yz.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "z102.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "z13n.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "z1kn.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "z1o2.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "z1zn.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "z3oln.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor3.png",
+    "icon": "zzg9y.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "0o01.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "0o9d.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "0ojd.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "0omd.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "0or1.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "0rlzr.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "0rwg9.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "194j1.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "1n16.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "1n46.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "1n91.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "1no1.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "1nr1.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "1r03g.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "2o0vl.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "2o0zm.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "2o65l.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "2p16.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "2p30.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "2pg6.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "2pr6.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "319k.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "3g0yl.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "3v3z.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "3v4g.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "3vog.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "3vzg.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "4d3p.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "4d5p.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "4dkn.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "4q7yl.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "4qzpr.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "523g.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "5250.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "526g.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "52l0.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "52y0.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "5lqp1.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "637j.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "63oy.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "63yy.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "7933.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "7977.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "79w7.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "7l1z6.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "9g10.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "9g3z.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "9g6z.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "9gk0.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "d1mn.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "d1p5.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "d1rn.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "d1yn.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "dmlwj.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "dmyd9.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "g4r26.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "g54p.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "g590.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "g5kp.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "g5np.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "g5p0.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "j406.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "j456.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "j4g7.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "j4j7.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "j4z7.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "j5pr0.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "j5qd4.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "kknv.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "kkrv.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "kkz0.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "knpd3.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "kny0y.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "l601.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "l65j.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "l69j.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "l6pj.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "l6y1.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "lyrdq.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "lywmk.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "m0q7r.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "m0woy.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "mj07.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "mj1j.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "mj9j.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "mjyj.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "n4691.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "n4w7w.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "n4wdw.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "nl43.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "nlk3.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "nln6.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "okp24.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "okp74.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "okq16.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "ork0.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "orzo.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "p062.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "p0j2.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "p0n6.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "p6kgw.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "p6qd5.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "qjlzj.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "qjq69.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "qm0k.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "qm56.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "qmjk.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "qmn6.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "ro6g.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "roj5.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "ropg.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "row5.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "royg.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "rwl5v.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "rwv7l.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "vdjd.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "vdnd.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "vj3zg.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "vjqkr.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "w20p.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "w23o.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "w29o.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "w2zp.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "wjnr2.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "y31mk.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "y90z.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "y94o.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "y9go.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "y9yz.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "z102.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "z13n.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "z1kn.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "z1o2.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "z1zn.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "z3oln.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor4.png",
+    "icon": "zzg9y.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "0o01.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "0o9d.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "0ojd.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "0omd.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "0or1.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "0rlzr.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "0rwg9.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "194j1.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "1n16.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "1n46.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "1n91.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "1no1.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "1nr1.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "1r03g.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "2o0vl.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "2o0zm.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "2o65l.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "2p16.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "2p30.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "2pg6.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "2pr6.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "319k.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "3g0yl.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "3v3z.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "3v4g.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "3vog.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "3vzg.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "4d3p.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "4d5p.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "4dkn.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "4q7yl.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "4qzpr.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "523g.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "5250.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "526g.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "52l0.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "52y0.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "5lqp1.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "637j.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "63oy.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "63yy.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "7933.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "7977.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "79w7.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "7l1z6.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "9g10.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "9g3z.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "9g6z.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "9gk0.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "d1mn.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "d1p5.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "d1rn.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "d1yn.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "dmlwj.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "dmyd9.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "g4r26.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "g54p.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "g590.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "g5kp.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "g5np.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "g5p0.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "j406.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "j456.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "j4g7.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "j4j7.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "j4z7.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "j5pr0.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "j5qd4.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "kknv.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "kkrv.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "kkz0.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "knpd3.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "kny0y.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "l601.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "l65j.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "l69j.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "l6pj.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "l6y1.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "lyrdq.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "lywmk.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "m0q7r.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "m0woy.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "mj07.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "mj1j.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "mj9j.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "mjyj.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "n4691.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "n4w7w.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "n4wdw.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "nl43.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "nlk3.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "nln6.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "okp24.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "okp74.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "okq16.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "ork0.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "orzo.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "p062.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "p0j2.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "p0n6.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "p6kgw.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "p6qd5.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "qjlzj.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "qjq69.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "qm0k.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "qm56.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "qmjk.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "qmn6.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "ro6g.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "roj5.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "ropg.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "row5.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "royg.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "rwl5v.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "rwv7l.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "vdjd.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "vdnd.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "vj3zg.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "vjqkr.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "w20p.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "w23o.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "w29o.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "w2zp.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "wjnr2.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "y31mk.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "y90z.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "y94o.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "y9go.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "y9yz.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "z102.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "z13n.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "z1kn.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "z1o2.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "z1zn.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "z3oln.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  },
+  {
+    "screenshot": "vendor5.png",
+    "icon": "zzg9y.png",
+    "match": true,
+    "confidence": 0.95,
+    "mse": 0.001
+  }
+]

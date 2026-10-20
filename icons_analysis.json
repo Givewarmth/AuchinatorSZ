@@ -1,0 +1,4854 @@
+{
+  "total_folders": 8,
+  "total_files": 604,
+  "folders": {
+    "data/icons\\armor": [
+      {
+        "path": "data/icons\\armor\\clothes\\3g6p5.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\clothes\\5lr71.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\clothes\\6w0p0.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\clothes\\7lmpj.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\clothes\\96n2l.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\clothes\\96nrq.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\clothes\\g4yw6.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\clothes\\p6my4.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\clothes\\y35ok.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\clothes\\y35q0.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\clothes\\zzy6y.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combat\\0rn7d.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combat\\1rk32.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combat\\1rpl6.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combat\\1rpr1.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combat\\2oq75.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combat\\2oqdl.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combat\\2oqll.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combat\\3g6rl.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combat\\4ql0r.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combat\\4ql1r.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combat\\4ql2r.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combat\\5l1q0.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combat\\5lr20.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combat\\5lr4q.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combat\\5lrn1.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combat\\6w06p.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combat\\6w0zp.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combat\\6wgwy.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combat\\7lm56.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combat\\7lmn6.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combat\\7lmr6.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combat\\96n9l.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combat\\96yz0.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combat\\dmgjj.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combat\\dmgqj.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combat\\dmgvj.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combat\\dmgw2.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combat\\g4310.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combat\\g43k0.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combat\\g4y25.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combat\\g4y3n.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combat\\g4y5p.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combat\\g4yq5.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combat\\j5krg.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combat\\knq0p.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combat\\knqly.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combat\\knqmy.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combat\\ly3kj.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combat\\m062y.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combat\\p6m3w.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combat\\p6mg4.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combat\\qj1lk.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combat\\qjomk.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combat\\qjoz3.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combat\\vj12r.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combat\\vj1kp.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combat\\wj49p.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combat\\wjg2o.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combat\\wjg62.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combat\\y352k.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combat\\y359o.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combat\\y3q1o.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combat\\y3q3o.png",
+        "size": [
+          105,
+          105
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combat\\zzjk2.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combat\\zzy1n.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combat\\zzy9m.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combat\\zzyjk.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combined\\0r429.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combined\\0r4gy.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combined\\1rk7g.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combined\\1rkz2.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combined\\2oqnl.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combined\\4qlwo.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combined\\5l1yg.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combined\\96npy.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combined\\96y6z.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combined\\g43rp.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combined\\j5ko0.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combined\\j5kv0.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combined\\kn3yv.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combined\\knqkv.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combined\\knqvy.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combined\\lyjvk.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combined\\m034j.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combined\\m03w7.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combined\\m06k2.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combined\\m06my.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combined\\n4363.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combined\\n4rm1.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combined\\ok3q0.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combined\\p6m1w.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combined\\qjo2j.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combined\\qjogj.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combined\\rwgmg.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combined\\rwn2v.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combined\\rwnrv.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combined\\vj14r.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combined\\wj4no.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\armor\\combined\\y35jk.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      }
+    ],
+    "data/icons\\artefact": [
+      {
+        "path": "data/icons\\artefact\\biochemical\\04yr.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\biochemical\\1kdg.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\biochemical\\4lml.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\biochemical\\5r04.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\biochemical\\5rd1.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\biochemical\\9nml.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\biochemical\\g34p.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\biochemical\\gy06.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\biochemical\\gyjg.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\biochemical\\jkj4.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\biochemical\\kqj3.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\biochemical\\ljpq.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\biochemical\\qo59.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\biochemical\\wgvd.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\biochemical\\y5vw.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\biochemical\\zy7y.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\biochemical\\zyv9.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\electrophysical\\1k96.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\electrophysical\\4lkp.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\electrophysical\\5r5g.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\electrophysical\\5rwq.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\electrophysical\\9nd0.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\electrophysical\\gyn0.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\electrophysical\\gyq5.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\electrophysical\\kqr0.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\electrophysical\\lj0j.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\electrophysical\\qo06.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\electrophysical\\wg3p.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\electrophysical\\wg53.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\electrophysical\\y54z.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\electrophysical\\y5w3.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\electrophysical\\zy32.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\electrophysical\\zyrm.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\gravity\\1k4q.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\gravity\\1kv2.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\gravity\\4l1r.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\gravity\\4lpo.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\gravity\\5r34.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\gravity\\5rg1.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\gravity\\5rpq.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\gravity\\9n1w.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\gravity\\9nvy.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\gravity\\gyg5.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\gravity\\gypg.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\gravity\\gyv6.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\gravity\\kqgy.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\gravity\\qokj.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\gravity\\wg62.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\gravity\\wgr3.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\gravity\\wgzd.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\gravity\\y5jk.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\gravity\\y5m3.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\gravity\\y5yw.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\gravity\\zyly.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\gravity\\zyo9.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\gravity\\zypm.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\other_arts\\1kw1.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\other_arts\\49zn.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\other_arts\\4lrn.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\other_arts\\51l0.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\other_arts\\5rm0.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\other_arts\\6goy.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\other_arts\\7z77.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\other_arts\\9n7z.png",
+        "size": [
+          128,
+          131
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\other_arts\\gy7p.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\other_arts\\j306.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\other_arts\\j3p6.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\other_arts\\jky6.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\other_arts\\k3rv.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\other_arts\\k3yv.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\other_arts\\kq4v.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\other_arts\\q10k.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\other_arts\\q1lk.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\other_arts\\qodk.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\other_arts\\rnkl.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\other_arts\\w4jo.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\other_arts\\w4no.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\other_arts\\wgko.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\other_arts\\y5ro.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\other_arts\\yq3o.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\other_arts\\zjzn.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\other_arts\\zymn.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\thermal\\4l7p.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\thermal\\5rog.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\thermal\\5rzo.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\thermal\\gy10.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\thermal\\gyln.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\thermal\\jkml.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\thermal\\jkq7.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\thermal\\kqoj.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\thermal\\kqp0.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\thermal\\ljn2.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\thermal\\ljrj.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\thermal\\qo94.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\thermal\\qoq6.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\thermal\\rn1z.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\thermal\\rnvg.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\thermal\\wglp.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\thermal\\wgwz.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\artefact\\thermal\\y5k0.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      }
+    ],
+    "data/icons\\attachment": [
+      {
+        "path": "data/icons\\attachment\\accessory\\0r1gk.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\accessory\\0rz51.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\accessory\\1rgzr.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\accessory\\2oywm.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\accessory\\g461g.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\accessory\\g4dqn.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\accessory\\j57y6.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\accessory\\kn74v.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\accessory\\ly7q1.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\accessory\\lydm2.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\accessory\\n47ow.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\accessory\\p67o5.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\accessory\\qj7dk.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\accessory\\rw735.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\accessory\\rwd5z.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\accessory\\vj75g.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\accessory\\zz4rk.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\accessory\\zzdw9.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\0rp0r.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\0rp7r.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\0rp9r.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\1r39q.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\1r3oq.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\1r3rq.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\2o71m.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\2o7rm.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\3gp4k.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\3gpok.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\4qp7l.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\4qpkl.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\4qpol.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\4qpql.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\5lp54.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\5lpl4.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\5lpo4.png",
+        "size": [
+          148,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\5lpy4.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\6wpo6.png",
+        "size": [
+          256,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\6wpy6.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\7lp7r.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\7lpwr.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\96p3w.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\96p6w.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\96pdw.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\dm259.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\dm2r9.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\dm2y9.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\g424g.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\g42kg.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\g42ng.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\j5204.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\j5254.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\j52n4.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\j52q4.png",
+        "size": [
+          148,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\kn9r3.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\ly10q.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\ly1kq.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\ly1yq.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\m0g4r.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\m0gqr.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\m0grr.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\n4zjw.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\n4zkw.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\ok544.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\ok5l4.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\ok5p4.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\ok5z4.png",
+        "size": [
+          256,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\p6yj5.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\p6yq5.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\p6yv5.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\qjw09.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\qjwj9.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\qjwq9.png",
+        "size": [
+          148,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\rw4jl.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\rw4ml.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\rw4vl.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\vjl3g.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\vjlng.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\vjlog.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\wjr3d.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\wjr9d.png",
+        "size": [
+          148,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\wjrjd.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\wjrld.png",
+        "size": [
+          148,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\y3m3w.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\y3m4w.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\y3mgw.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\y3mnw.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\y3po3.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\zz939.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\zz9k9.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\barrel\\zz9z9.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\collimator_sights\\0rv11.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\collimator_sights\\0rvkk.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\collimator_sights\\1rv51.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\collimator_sights\\1rvg1.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\collimator_sights\\1rvqr.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\collimator_sights\\2o2y6.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\collimator_sights\\3g7wg.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\collimator_sights\\4qv4n.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\collimator_sights\\4qv6j.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\attachment\\collimator_sights\\4qvpj.png",
+        "size": [
+          148,
+          76
+        ],
+        "format": "PNG"
+      }
+    ],
+    "data/icons\\device": [
+      {
+        "path": "data/icons\\device\\device\\9rkw.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      }
+    ],
+    "data/icons\\other": [
+      {
+        "path": "data/icons\\other\\00959.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\009n9.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\009o9.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\00rny.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\00w01.png",
+        "size": [
+          256,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\0ngy.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\0nzy.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\0qj9.png",
+        "size": [
+          74,
+          152
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\0ql9.png",
+        "size": [
+          222,
+          228
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\0r32k.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\0r33k.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\0r3qk.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\0r3r9.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\0r3wr.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\0r52r.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\0r631.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\0r659.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\0r6jk.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\0r6pd.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\0r6vd.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\0r91r.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\0r94r.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\0r959.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\0r9zr.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\0rj31.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\0ry5r.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\0rydr.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\0rygd.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\0ryly.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\0rymk.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\0ryor.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\0ryw9.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\0ryyk.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\156g.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\191kg.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\191ng.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\191w2.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\19402.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\1jjr.png",
+        "size": [
+          111,
+          114
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\1jog.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\1jy2.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\1jz1.png",
+        "size": [
+          111,
+          114
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\1p32.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\1pz2.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\1q0q.png",
+        "size": [
+          111,
+          114
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\1qlg.png",
+        "size": [
+          111,
+          114
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\1r15q.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\1r1gq.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\1r1wg.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\1r1zq.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\1r461.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\1r471.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\1r4d1.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\1r4j1.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\1r62q.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\1r66r.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\1r6dr.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\1r6l2.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\1r6mr.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\1r6nq.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\1r6o2.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\1r6pq.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\1r6wq.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\1r6z6.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\1rd0q.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\1rd6r.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\1rd7r.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\1rddr.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\1rdjr.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\1rdq1.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\1rdqr.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\1rlw2.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\1rmwg.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\1ry36.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\1ry4r.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\1ry71.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\1ryd1.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\1ryng.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\1ryv6.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\1ryz6.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\21365.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\21g9l.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\21gkl.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\21gpl.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\2l3l.png",
+        "size": [
+          111,
+          114
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\2o3d6.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\2o3l6.png",
+        "size": [
+          256,
+          256
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\2o3n6.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\2o405.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\2o49m.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\2o4km.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\2o4mv.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\2o4z0.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\2od4v.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\2od6m.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\2oddv.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\2odnv.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\2ogkl.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\2ogqm.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\other\\2ogym.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      }
+    ],
+    "data/icons\\supply": [
+      {
+        "path": "data/icons\\supply\\drink\\1dwq.png",
+        "size": [
+          74,
+          152
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\drink\\2o900.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\drink\\2o9w0.png",
+        "size": [
+          74,
+          152
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\drink\\3g1qz.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\drink\\3g1zz.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\drink\\6w5jj.png",
+        "size": [
+          74,
+          152
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\drink\\7lyo3.png",
+        "size": [
+          128,
+          256
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\drink\\964z0.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\drink\\dmk65.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\drink\\drmwj.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\drink\\g07g.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\drink\\g4lp0.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\drink\\g4lzg.png",
+        "size": [
+          128,
+          256
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\drink\\j5mg7.png",
+        "size": [
+          74,
+          152
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\drink\\knop0.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\drink\\m0pyj.png",
+        "size": [
+          74,
+          152
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\drink\\n4vg6.png",
+        "size": [
+          128,
+          256
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\drink\\okdpo.png",
+        "size": [
+          128,
+          256
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\drink\\r2mv.png",
+        "size": [
+          74,
+          152
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\drink\\rwow5.png",
+        "size": [
+          128,
+          256
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\drink\\vjy0n.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\drink\\vjy5n.png",
+        "size": [
+          74,
+          152
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\drink\\wjwzp.png",
+        "size": [
+          74,
+          152
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\drink\\y75z.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\drink\\zzqn9.png",
+        "size": [
+          128,
+          256
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\0rdjd.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\0row1.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\1r246.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\1rn01.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\1rnr1.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\2dkm.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\2dq0.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\2opg0.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\2opo6.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\3g12z.png",
+        "size": [
+          148,
+          152
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\3gvgg.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\3r6z.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\3rjk.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\4qd3p.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\4qdqn.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\4qg3p.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\5drg.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\5l23g.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\5lz3g.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\6w3wy.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\7l9l7.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\7rm3.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\7rvr.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\96g6z.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\96gqz.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\9m7w.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\9mn0.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\dm165.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\dm1ln.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\dmk95.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\g0y0.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\g45rp.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\j5456.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\j54p6.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\knoz0.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\ly6w1.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\ly6y1.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\lyn5j.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\m0jw7.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\n4l63.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\n4lg6.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\n4vo6.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\okdno.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\okrq0.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\p6056.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\p60k2.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\p62o6.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\qj9n6.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\qjmjk.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\qjmlk.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\rw1pg.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\rwoj5.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\rwol5.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\vjdqd.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\vrwg.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\wj2jo.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\wj2no.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\wj2zp.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\y391o.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\y39yz.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\y3kyz.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\z7y2.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\food\\zz1o2.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\medicine\\1ddr.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\medicine\\1r216.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\medicine\\1r2l6.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\medicine\\1r2o6.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\medicine\\1r2yq.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\medicine\\2o9g0.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\medicine\\4qgop.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\medicine\\5ddo.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\medicine\\5lzyg.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\medicine\\6w59j.png",
+        "size": [
+          74,
+          76
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\medicine\\6w5lj.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\supply\\medicine\\7ly13.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      }
+    ],
+    "data/icons\\weapon": [
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\0r2g1.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\0r2zd.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\0r3nd.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\0rq99.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\1r731.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\1r7g1.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\1rd56.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\1rdk6.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\2odq0.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\2ody0.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\2ony6.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\3gn5g.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\3grwz.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\4q09p.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\4q0gl.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\4qnwn.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\5ld1g.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\5ldkg.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\5ldwg.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\5ldz4.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\5lgo1.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\5ln40.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\5lnw0.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\6wr0j.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\6wr5j.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\6wrqj.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\7lnj7.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\7lrj3.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\7lrm3.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\7lry3.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\7lrz3.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\969jz.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\96m4w.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\96mn0.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\96mr0.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\96my0.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\dmjdn.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\dmjwn.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\dmqg5.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\dmqk5.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\dmv6j.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\g4060.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\g4mdp.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\j5l37.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\j5l77.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\j5lk7.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\j5lm4.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\j5od6.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\j5vz0.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\knl30.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\knl70.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\knlo3.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\knv5y.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\ly2d1.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\lyl3j.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\lyl7j.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\lyljj.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\lyv9k.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\m023j.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\m02jr.png",
+        "size": [
+          256,
+          256
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\n42g1.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\n4md3.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\okv0o.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\okv7o.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\okvr4.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\p63d2.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\p63g2.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\p6r26.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\qjg3j.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\qjv99.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\rw27g.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\rwrng.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\vj2zd.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\vj40r.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\vjr1n.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\wj6l2.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\wj75o.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\wjo4p.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\wjogp.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\wjowd.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\y32lo.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\y32wo.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\y375z.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\y37kw.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\zz2rn.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\zz7j2.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\zz7q9.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\zz7y2.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\assault_rifle\\zzlwy.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\device\\1gmg.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\device\\5wd1.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\device\\9j0l.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\device\\gd06.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\device\\gdj6.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\device\\yw7k.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\device\\z47y.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\device\\z4v9.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\heavy\\4q12o.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\heavy\\96w1y.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon\\heavy\\g4vj5.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      }
+    ],
+    "data/icons\\weapon_modules": [
+      {
+        "path": "data/icons\\weapon_modules\\weapon_module\\1pyq.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon_modules\\weapon_module_core\\9yow.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      },
+      {
+        "path": "data/icons\\weapon_modules\\weapon_module_remover\\g3zg.png",
+        "size": [
+          128,
+          128
+        ],
+        "format": "PNG"
+      }
+    ]
+  }
+}

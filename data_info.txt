@@ -1,0 +1,18 @@
+
+Информация о структуре данных:
+
+1. Путь к скриншотам: sandbox/data/screenshots
+2. Путь к иконкам: sandbox/data/items
+
+Скрипт для обработки:
+- Использует PIL для работы с изображениями
+- Сравнивает скриншоты с иконками
+- Использует простое сравнение по пикселям
+- Сохраняет результаты в screenshots_results.json
+
+Для запуска:
+python process_screenshots.py
+
+Для проверки файлов вручную:
+dir sandbox/data/screenshots
+dir sandbox/data/items

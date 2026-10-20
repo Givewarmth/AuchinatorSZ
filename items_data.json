@@ -1,0 +1,26 @@
+{
+  "Клинок": {
+    "price": 100,
+    "icon": "0o01.png"
+  },
+  "Кольцо": {
+    "price": 150,
+    "icon": "0o9d.png"
+  },
+  "Шлем": {
+    "price": 200,
+    "icon": "0ojd.png"
+  },
+  "Броня": {
+    "price": 120,
+    "icon": "0omd.png"
+  },
+  "Пластина": {
+    "price": 180,
+    "icon": "0or1.png"
+  },
+  "Меч": {
+    "price": 140,
+    "icon": "0rlzr.png"
+  }
+}
